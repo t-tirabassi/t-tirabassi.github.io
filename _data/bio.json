@@ -11,38 +11,39 @@
     "profiles": [
       { "network": "github", "username": "t-tirabassi", "url": "http://github.com/t-tirabassi" },
       { "network": "linkedin", "username": "Anthony A. (T) Tirabassi", "url": "http://linkedin.com/in/anthony-a-tirabassi/" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "anthonytirabassi", "url": "https://www.instagram.com/anthonytirabassi?igsh=ZHZoZHplbnR3Ymtw&utm_source=qr" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Game Development" },
+    { "name": "Software Programming" },
+    { "name": "Web Development" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Software/Tools//OS",
+      "keywords": [ "MacOS", "Git/GitHub", "VS Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "area": "Computer Science (expected graduation Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2022-08-19",
+      "endDate": "2025-05-17",
       "courses": [
       ]
     }
   ],
+
+  //CONTINUE HERE BRUH
   "work": [
     {
       "company": "UH Manoa Board of Publications",
