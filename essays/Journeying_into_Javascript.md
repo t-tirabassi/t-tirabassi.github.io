@@ -9,6 +9,10 @@ labels:
   - Learning
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="..img/journeying/Javascript.png">
+
+<img width="300px" class="rounded float-start pe-4" src="..img/journeying/softwareeng.jpeg">
+
 Journeying into Javascript
 ____________________________________________________________________________
 
@@ -18,7 +22,7 @@ Presenting a Perspective
 Javascript feels a lot simpler in regards to complexity and formatting. The other languages that I am familiar with are Java, C, and C++, all
 of which have similar code structure and functionality with what is found in Javascript. Before this, I didn’t have any experience with 
 Javascript, but my pre-existing knowledge upon learning Javascript definitely helped to accelerate that process compared to if I had no 
-<img width="300px" class="rounded float-start pe-4" src="..img/journeying/Javascript.png">    programming experience whatsoever. I learned of the differences between Javascript and other languages, mainly with aspects such as keyword, 
+programming experience whatsoever. I learned of the differences between Javascript and other languages, mainly with aspects such as keyword, 
 functions, and directly implementing the output to the console. I also found ES6 a bit more interesting as it sets a relative standard to 
 introductory Javascript programming.
 
@@ -40,7 +44,7 @@ the quicker you will begin to see results. This consistency allows for an accele
 periods of time, such as that of a semester. Athletic software engineering also seems to attract my own attention more, allowing me to 
 dedicate more time to actually learning the topics, compared to the mindset of procrastination. Some of the cons of athletic software 
 programming mainly stem from one's persistence, perseverance, and willingness to learn. This approach can often induce stress, which may 
-lead to less focus and more panicking when faced with an assessment of the material. <img width="300px" class="rounded float-start pe-4" src="..img/journeying/softwareeng.jpeg">    It also acts as a reminder for me to not fall behind, 
+lead to less focus and more panicking when faced with an assessment of the material. It also acts as a reminder for me to not fall behind, 
 as it will be harder to catch up if I do. This induces a great amount of stress over time management, as it can prevent pouring full focus 
 into this environment if there are other outside priorities that hold just as, if not more importance than this routine.
 
