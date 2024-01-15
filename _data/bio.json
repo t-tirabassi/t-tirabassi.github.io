@@ -43,72 +43,70 @@
     }
   ],
 
-  //CONTINUE HERE BRUH 
+  
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Royal Star Hawai'i/Star of Honolulu",
+      "position": "Hula Performer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-01-15",
+      "endDate": "2023-04-29",
+      "summary": "Performed culturally choreographed shows for onboard guests",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Entertain, teach, and interact with guests in regards to performances",
+        "Guide guests through hula lessons and produce welcoming environment"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Anime Zakka",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2022-02-08",
+      "endDate": "2022-08-14",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Interact, help, and guide customers through the store",
+        "Provide assistance in purchases, restocking, store floor help"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Sustainable Ocean Alliance",
+      "website": "https://www.soalliance.org/",
+      "position": "Associate Journalist",
+      "startDate": "2023-02-07",
+      "endDate": "2023-04-10",
+      "summary": "Provided report(s) on SOA summit",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Interacted and interviewed members of thre SOA association",
+        "Published works for public viewing"
       ]
     },
     {
-      "organization": "",
+      "organization": "Association of Computer Machinery",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Associated member"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's Merit Scholarship",
+      "date": "2021-2022",
+      "awarder": "University of Massachusetts Boston Dean's Office",
+      "summary": "Scholarship awarded to a select group incoming college freshmen who have demonstrated extraordinary academic achievement throughout high school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who earned a semester gpa of 3.5 on the basis of full time enrollment of 12 credits or more."
     }
   ],
   "references": [
