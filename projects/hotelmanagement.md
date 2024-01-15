@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotel-management-system.webp
+image: img/hotelmanagement/hotel-management-system.webp
 title: "Hotel Management System"
 date: 2023-12-10
 published: true
