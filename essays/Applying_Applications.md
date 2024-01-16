@@ -25,6 +25,7 @@ As mentioned previously, my main pursuit in terms of computer science is to get 
 Experience and Expertise
 
 Experience is something that cannot be recognized until one has already shown great effort. Expertise is the accumulation of said experience, and cannot be recognized until lengths of time have been passed with continuous effort. To start my journey into software engineering, I hope to work on different projects such as creating basic websites, basic mobile applications, and hopefully some basic game development. All experience begins at a starting point, where the basics of different concepts are practiced and eventually expanded upon. Through the continuous practice of these projects, they will continue to grow in size and complexity, with the incorporation of new technologies and elements. Not only will projects like the ones mentioned help build my skills, but it will also build upon my resume, and lead me to bigger and better opportunities for the foreseeable future. Hopefully in time I will realize my dreams as a game developer and see the appreciation for my work, and maybe by then I’ll be able to truly call myself an expert.
+
 <img width="175px" 
      class="rounded float-start pe-4" 
      src="../img/applying/web-development.jpeg" >
