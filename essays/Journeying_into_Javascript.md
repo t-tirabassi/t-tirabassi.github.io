@@ -10,10 +10,6 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="img/journeying/Javascript.png">
-
-<img width="300px" class="rounded float-start pe-4" src="img/journeying/softwareeng.jpeg">
-
 <img width="200px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/softwareeng.jpeg" >
@@ -27,7 +23,11 @@ Presenting a Perspective
 Javascript feels a lot simpler in regards to complexity and formatting. The other languages that I am familiar with are Java, C, and C++, all
 of which have similar code structure and functionality with what is found in Javascript. Before this, I didn’t have any experience with 
 Javascript, but my pre-existing knowledge upon learning Javascript definitely helped to accelerate that process compared to if I had no 
-programming experience whatsoever. I learned of the differences between Javascript and other languages, mainly with aspects such as keyword, 
+programming experience whatsoever. 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/journeying/Javascript.png" >
+I learned of the differences between Javascript and other languages, mainly with aspects such as keyword, 
 functions, and directly implementing the output to the console. I also found ES6 a bit more interesting as it sets a relative standard to 
 introductory Javascript programming.
 
