@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "t-tirabassi", "url": "http://github.com/t-tirabassi" },
-      { "network": "linkedin", "username": "Anthony A. (T) Tirabassi", "url": "http://linkedin.com/in/anthony-a-tirabassi/" },
-      { "network": "instagram", "username": "anthonytirabassi", "url": "https://www.instagram.com/anthonytirabassi?igsh=ZHZoZHplbnR3Ymtw&utm_source=qr" }
+      { "network": "linkedin", "username": "Anthony A. (T) Tirabassi", "url": "http://linkedin.com/in/anthony-a-tirabassi/" }
     ]
   },
   "interests": [
