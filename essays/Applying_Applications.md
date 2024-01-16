@@ -18,6 +18,8 @@ To me, software engineering is a very unique field, given that it has so many di
      class="rounded float-start pe-4" 
      src="../img/applying/lightning-bolt.png" >
 
+
+
 Skill Build
 
 As mentioned previously, my main pursuit in terms of computer science is to get involved in and to develop games. Within the game industry, software engineering plays a vital role in that the software created by those engineers serves as the foundation of the entire game. A game cannot even exist without this software, as the software is what allows the game to run and have all the different assets of the gamer affect and interact with one another. Some of the skills I hope to develop in accordance with this include basic software programming and development, object-oriented design and interactivity, and fundamental debugging skills. As an aside as well, I would also like to dabble a bit in web development and mobile application development, so I would also strive for skills such as basic understanding of web development and the specificity of designing a mobile app compared to say a computer application.
