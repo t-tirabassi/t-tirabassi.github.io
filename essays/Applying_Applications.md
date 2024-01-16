@@ -10,9 +10,6 @@ labels:
 ---
 
 
-Applying Applications: Software Engineering
-
-
 CHANGE BELOW THIS LINE AFTER WRITTEN!!!
 
 Presenting a Perspective
