@@ -27,6 +27,7 @@ introductory Javascript programming.
      class="rounded float-start pe-4" 
      src="../img/journeying/Javascript.png" >
 
+
 A Software Engineer’s Perspective
 
   From the perspective of a software engineer, I feel that Javascript can be considered both a good and bad programming language depending on 
@@ -52,6 +53,7 @@ into this environment if there are other outside priorities that hold just as, i
 <img width="200px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/softwareeng.jpeg" >
+
 
 WODs and Woes
 
