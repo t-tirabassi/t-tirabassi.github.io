@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotelmanagement/hotel-management-system.jpg
+image: img/selfpay/selfpaykiosk2.jpeg
 title: "Hotel Management System"
 date: 2023-06-05
 published: true
@@ -16,7 +16,7 @@ summary: "I was tasked with creating a program to replicate a self-pay kiosk usi
 
 <img width="250px" 
      class="rounded float-start pe-4" 
-     src="../img/hotelmanagement/hotel-managementstock.jpeg" >
+     src="../img/selfpay/selfpaykiosk1.jpeg" >
 
   *What skills learned*
 
