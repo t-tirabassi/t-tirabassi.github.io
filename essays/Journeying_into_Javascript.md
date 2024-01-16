@@ -11,11 +11,6 @@ labels:
 ---
 
 
-
-Journeying into Javascript
-
-
-
 Presenting a Perspective
 
   Javascript is unique in that it feels familiar yet different in comparison to other programming languages. I believe that many can agree that
