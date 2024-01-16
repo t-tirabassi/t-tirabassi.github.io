@@ -22,6 +22,7 @@ of which have similar code structure and functionality with what is found in Jav
 Javascript, but my pre-existing knowledge upon learning Javascript definitely helped to accelerate that process compared to if I had no  programming experience whatsoever. I learned of the differences between Javascript and other languages, mainly with aspects such as keyword, 
 functions, and directly implementing the output to the console. I also found ES6 a bit more interesting as it sets a relative standard to 
 introductory Javascript programming.
+
 <img width="100px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/Javascript.png" >
@@ -47,6 +48,7 @@ programming mainly stem from one's persistence, perseverance, and willingness to
 lead to less focus and more panicking when faced with an assessment of the material. It also acts as a reminder for me to not fall behind, 
 as it will be harder to catch up if I do. This induces a great amount of stress over time management, as it can prevent pouring full focus 
 into this environment if there are other outside priorities that hold just as, if not more importance than this routine.
+
 <img width="100px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/softwareeng.jpeg" >
