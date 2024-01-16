@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/selfpay/selfpaykiosk2.jpeg
-title: "Hotel Management System"
+title: "Self-Pay Kiosk"
 date: 2023-06-05
 published: true
 labels:
