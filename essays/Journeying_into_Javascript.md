@@ -16,7 +16,7 @@ labels:
 
 
 Journeying into Javascript
-____________________________________________________________________________
+
 
 Presenting a Perspective
 
