@@ -52,7 +52,7 @@ lead to less focus and more panicking when faced with an assessment of the mater
 as it will be harder to catch up if I do. This induces a great amount of stress over time management, as it can prevent pouring full focus 
 into this environment if there are other outside priorities that hold just as, if not more importance than this routine.
 
-<img width="250px" 
+<img width="225px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/softwareeng.jpeg" >
 
