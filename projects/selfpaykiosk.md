@@ -14,7 +14,7 @@ summary: "I was tasked with creating a program to replicate a self-pay kiosk usi
 
   *Description of project*
 
-<img width="250px" 
+<img width="200px" 
      class="rounded float-start pe-4" 
      src="../img/selfpay/selfpaykiosk1.jpeg" >
 
