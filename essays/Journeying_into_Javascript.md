@@ -14,7 +14,8 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="img/journeying/softwareeng.jpeg">
 
-![](img/journeying/Javascript.png)
+<img width="300px" class="rounded float-start pe-4" src="img/softwareeng.jpeg">
+
 
 Journeying into Javascript
 ____________________________________________________________________________
