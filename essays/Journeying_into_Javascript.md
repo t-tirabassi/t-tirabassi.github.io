@@ -25,7 +25,7 @@ Javascript, but my pre-existing knowledge upon learning Javascript definitely he
 functions, and directly implementing the output to the console. I also found ES6 a bit more interesting as it sets a relative standard to 
 introductory Javascript programming.
 
-<img width="200px" 
+<img width="175px" 
      class="rounded float-start pe-4" 
      src="../img/journeying/Javascript.png" >
 
