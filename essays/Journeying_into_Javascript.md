@@ -14,6 +14,9 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="img/journeying/softwareeng.jpeg">
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/journeying/softwareeng.jpeg" >
 
 Journeying into Javascript
 
