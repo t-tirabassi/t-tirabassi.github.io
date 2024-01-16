@@ -72,26 +72,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Sustainable Ocean Alliance",
-      "website": "https://www.soalliance.org/",
-      "position": "Associate Journalist",
-      "startDate": "2023-02-07",
-      "endDate": "2023-04-10",
-      "summary": "Provided report(s) on SOA summit",
+      "organization": "UH Manoa Game Dev Club",
+      "website": "",
+      "position": "Organization involvement/interest",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "summary": "Uh Manoa club that focuses on the development of student produced game projects.",
       "highlights": [
-        "Interacted and interviewed members of thre SOA association",
-        "Published works for public viewing"
+        ""
       ]
     },
     {
       "organization": "Association of Computer Machinery",
       "website": "",
       "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "summary": "The world's largest educational and scientific computing society",
       "highlights": [
-        "Associated member"
+        ""
       ]
     }
   ],
