@@ -32,13 +32,7 @@ introductory Javascript programming.
 
 A Software Engineer’s Perspective
 
-  From the perspective of a software engineer, I feel that Javascript can be considered both a good and bad programming language depending on 
-the approach you take with it. One of the pros of Javascript in a software engineering environment is the easy accessibility that it gives 
-to programmers trying to create simple and reliable programs. To me, the different aspects of Javascript are definitely easier to understand 
-compared to other languages such as C and C++. Its versatility also allows for it to be used in various different projects, ranging from 
-simple to complex. As for its cons, I believe that it is not the best in performance compared to other languages. Javascript’s naming 
-conventions are also different from other programming languages, which can sometimes be confusing. One of the biggest drawbacks of Javascript
-is that it doesn’t align as much with what you would expect to find in other programming languages.
+  From the perspective of a software engineer, I feel that Javascript can be considered both a good and bad programming language depending on the approach you take with it. One of the pros of Javascript in a software engineering environment is the easy accessibility that it gives to programmers trying to create simple and reliable programs. To me, the different aspects of Javascript are definitely easier to understand compared to other languages such as C and C++. Its versatility also allows for it to be used in various different projects, ranging from simple to complex. As for its cons, I believe that it is not the best in performance compared to other languages. Javascript’s naming conventions are also different from other programming languages, which can sometimes be confusing. One of the biggest drawbacks of Javascript is that it doesn’t align as much with what you would expect to find in other programming languages.
 
 An Athletic Approach to Software Engineering
 
