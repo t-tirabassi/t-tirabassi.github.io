@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/selfpay/selfpaykiosk2.jpeg
+image: img/pendulum/pendulum.png
 title: "Simple Pendulum"
 date: 2022-04-17
 published: true
@@ -16,7 +16,7 @@ summary: "This project had my group and I design and build a simple pendulum and
 
 <img width="210px" 
      class="rounded float-start pe-4" 
-     src="../img/selfpay/selfpaykiosk1.jpeg" >
+     src="../img/pendulum/pendulumgraph.jpeg" >
 
   One of the hard truths that I learned from this project was that not everyone will pull their own weight. Out of the three people within my team, only one person aside from myself actually worked on and contirbuted to the project. Despite my attempts to get the other two members to contribute, it ended up just being myself and the other person contributing, with myself taking the lead. The two of us planned out the pendulum, creating the dimensions and organizing the materials, and then I built the pendulum. The two of us then tested it in preparation for the presentation and recorded the results. Myself and I notified the professor of the lack of contribution from the other group members, which he took note of in the grading process. This project taught me how to take leadership in spite of undesired circumstances, it taught me how to utilize critical thinking principles, and it taught me skills in organization, design, and collaboration.
 
