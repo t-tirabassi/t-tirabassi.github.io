@@ -24,7 +24,7 @@ Here are diagram schematics of the project from my engineering notebook:
 
 <img width="210px" 
      class="rounded float-start pe-4" 
-     src="../img/pendulum/pendulumdiagram.pdf" >
+     src="../img/pendulum/CamScanner 01-17-2024 20.00(1)-1.png" >
 
 
 
