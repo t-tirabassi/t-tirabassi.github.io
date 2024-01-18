@@ -22,7 +22,7 @@ summary: "This project had my group and I design and build a simple pendulum and
 
 Here are diagram schematics of the project from my engineering notebook:
 
-<img width="400px" 
+<img width="500px" 
      class="rounded float-start pe-4" 
      src="../img/pendulum/CamScanner 01-17-2024 20.00(1)-1.png" >
 
