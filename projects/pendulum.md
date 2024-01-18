@@ -22,5 +22,9 @@ summary: "This project had my group and I design and build a simple pendulum and
 
 Here are diagram schematics of the project from my engineering notebook:
 
+<img width="210px" 
+     class="rounded float-start pe-4" 
+     src="../img/pendulum/pendulumdiagram.pdf" >
+
 
 
