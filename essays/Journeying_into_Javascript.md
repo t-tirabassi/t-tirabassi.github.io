@@ -11,7 +11,7 @@ labels:
 ---
 
 
-Presenting a Perspective
+## Presenting a Perspective
 
   Javascript is unique in that it feels familiar yet different in comparison to other programming languages. I believe that many can agree that
 Javascript feels a lot simpler in regards to complexity and formatting. The other languages that I am familiar with are Java, C, and C++, all
@@ -25,11 +25,11 @@ introductory Javascript programming.
      src="../img/journeying/Javascript.png" >
 
 
-A Software Engineer’s Perspective
+## A Software Engineer’s Perspective
 
   From the perspective of a software engineer, I feel that Javascript can be considered both a good and bad programming language depending on the approach you take with it. One of the pros of Javascript in a software engineering environment is the easy accessibility that it gives to programmers trying to create simple and reliable programs. To me, the different aspects of Javascript are definitely easier to understand compared to other languages such as C and C++. Its versatility also allows for it to be used in various different projects, ranging from simple to complex. As for its cons, I believe that it is not the best in performance compared to other languages. Javascript’s naming conventions are also different from other programming languages, which can sometimes be confusing. One of the biggest drawbacks of Javascript is that it doesn’t align as much with what you would expect to find in other programming languages.
 
-An Athletic Approach to Software Engineering
+## An Athletic Approach to Software Engineering
 
   Similar to Javascript, athletic software engineering has both its pros and its cons. Starting with the pros, athletic software engineering is
 a good way to get a student such as myself into a rhythmic learning schedule. Similarly to its namesake, the more consistent you are with it,
@@ -46,7 +46,7 @@ into this environment if there are other outside priorities that hold just as, i
      src="../img/journeying/softwareeng.jpeg" >
 
 
-WODs and Woes
+## WODs and Woes
 
   The WODs that we have done so far have helped me to gain a better sense of these assessments, such as the structure or time that we will have
 to do them. However, it has also brought about more stress in me for the actual WODs, given that my first attempts did not go very well, and 
