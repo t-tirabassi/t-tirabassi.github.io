@@ -18,7 +18,7 @@ Upon being requested or prompted to write a paper, essay, or even an email, many
 
 <img width="250px" 
      class="rounded float-start pe-4" 
-     src="../img/questioning/questioning1.png" >
+     src="../img/consistency/sitcode.jpeg" >
 
 ## IntelliJ Impressions
 
@@ -55,7 +55,7 @@ For the array speed processing comparison question, here is an excerpt of the on
 
 <img width="250px" 
      class="rounded float-start pe-4" 
-     src="../img/questioning/coding1.png" >
+     src="../img/consistency/codeworkplace.jpeg" >
 
 ## Workplace Wisdom 
 
