@@ -16,7 +16,7 @@ labels:
 
 Upon being requested or prompted to write a paper, essay, or even an email, many of us are familiar with a certain style or format that we have learned and conform to in an academic and professional setting. We are taught these standards to conform to these styles so that they can be easily recognized and interpreted amongst the general public. Similarly, different coding languages offer their own etiquette of sorts, that being coding standards. Coding standards are essentially a collection of rules, guidelines, and practices that are generally considered the best ways to code, especially within a collaborative setting. These standards are set to not only produce neat and formatted code, but to make it easily readable for anyone who views, interacts with, or even builds upon said code. Coding standards are sometimes seen as beneficial for any individual learning a programming language, and I believe that there is some credence to this. I also believe that these coding standards should be put into more practice within beginner level coding exercises and teachings. Allow me to entreat you with my personal experience in learning coding standards, some insight upon its usefulness, some of its challenges, and how it can ultimately benefit you within your career.
 
-<img width="250px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/consistency/sitcode.jpeg" >
 
@@ -103,7 +103,7 @@ As you can see, there is a clear difference between the formatting, spacing, and
 
 One thing that differs between writing code and writing a paper is that when writing a paper, you can write it using numerous different approaches, all providing their own uniqueness. When it comes to writing code, while there may be numerous approaches, there is ultimately the deciding factor of whether it works or not. In other words, when coding you are either wrong or you are right, with no in between. ESLint reinforces this by providing a green checkmark for correctness, yellow signs for warnings, and red bubbles for errors. I believe that this green checkmark is both useful and painful at given times. On one hand, the green checkmark can certify that you are following the proper coding standards and are correct. However, on the other hand, this checkmark can prove to be frustrating if the error is not explicitly presented to you or if fixing on error creates more. One personal experience I have had is that upon including a source script into an html file, I am presented with a constant warning from ESLint, despite the fact that its formatting is correct according to the ESLint standards provided by the analysis tool. Once again, this is a case to case basis, of which both sides can make arguments for why or why not this aspect is beneficial.
 
-<img width="250px" 
+<img width="350px" 
      class="rounded float-start pe-4" 
      src="../img/consistency/codeworkplace.jpeg" >
 
