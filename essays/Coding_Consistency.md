@@ -27,9 +27,25 @@ Now, let’s take a look at the second question. The second question comes from 
 If you couldn't already guess, the first question is what we would refer to as a stupid question. Now, that’s not to say that this person is somehow intentionally being ignorant or doesn’t know enough about the topic. The question itself is not necessarily a stupid one, but the way in which it is asked is. For starters, the header question is not detailed enough, as it doesn’t even tell us what language they are compiling until we get to the description. The description itself presents a manner that shows that the user has not done much of their own research into the question, with key words like “I often hear…” and “Sometimes I also hear…”. They also don’t provide enough information on the system and software they’re  using, yet still ask how to enable the warnings without context or images to guide helpful responses. 
 The second question from the other user can be classified as a smart question. The question details specifics for the problem they wish to solve, and the description lists out what they’re using, and references the source for their question. The user provides code to allow those wishing to respond to understand where the question arises from. The user also demonstrates their own trials, and even provides an update on top of that. It is also inherently clear that the user is wishing to learn simply to gain that knowledge, and we know this given that the question being asked is them trying to understand a question that had already been asked and answered over a decade ago. One user wishes to simply be told and to know, while the other user wishes to not just know, but to learn and understand.
 
-<img width="250px" 
-     class="rounded float-start pe-4" 
-     src="../img/questioning/questioning2.jpeg" >
+```cpp
+int main() {
+    int opt, rno;
+    char pname[100]; //char name array
+    HotelMgnt hm; //used to call in hm class functions
+
+    do { //do while statement for main menu
+        std::cout << "######## Hotel Management #########\n";
+        std::cout << "\n1. Manage Rooms";
+        std::cout << "\n2. Check-In Room";
+        std::cout << "\n3. Available Rooms";
+        std::cout << "\n4. Search Customer";
+        std::cout << "\n5. Check-Out Room";
+        std::cout << "\n6. Guest Summary Report";
+        std::cout << "\n7. Exit";
+        std::cout << "\n\nEnter Option: ";
+        std::cin >> opt;
+...}
+```
 
 ## Proper Perfection
 
