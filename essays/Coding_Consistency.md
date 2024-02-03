@@ -11,14 +11,13 @@ labels:
   - Learning
 ---
 
+<img width="270px" 
+     class="rounded float-start pe-4" 
+     src="../img/consistency/sitcode.jpeg" >
 
 ## Etiquette in Education
 
 Upon being requested or prompted to write a paper, essay, or even an email, many of us are familiar with a certain style or format that we have learned and conform to in an academic and professional setting. We are taught these standards to conform to these styles so that they can be easily recognized and interpreted amongst the general public. Similarly, different coding languages offer their own etiquette of sorts, that being coding standards. Coding standards are essentially a collection of rules, guidelines, and practices that are generally considered the best ways to code, especially within a collaborative setting. These standards are set to not only produce neat and formatted code, but to make it easily readable for anyone who views, interacts with, or even builds upon said code. Coding standards are sometimes seen as beneficial for any individual learning a programming language, and I believe that there is some credence to this. I also believe that these coding standards should be put into more practice within beginner level coding exercises and teachings. Allow me to entreat you with my personal experience in learning coding standards, some insight upon its usefulness, some of its challenges, and how it can ultimately benefit you within your career.
-
-<img width="300px" 
-     class="rounded float-start pe-4" 
-     src="../img/consistency/sitcode.jpeg" >
 
 ## IntelliJ Impressions
 
