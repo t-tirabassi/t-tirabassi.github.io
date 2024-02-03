@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Consistency: The Power of Standards"
 date: 2024-02-02
-published: false
+published: true
 labels:
   - Coding Standards
   - ESLint
