@@ -59,7 +59,10 @@ const TheTitle = 'The Title';
 
 export default {  obj, stuff, zumba, f, zob, MyClass, TheTitle };
 ```
+
+## 
 When presented with these errors, ESLint prompts the user to either manually retype the found errors, or provides options for ESLint to explain the error and fix it for you upon request. Now, upon fixing the errors found by ESLint in the above javascript code, we now have a javascript file that follows proper coding standards set by ESLint:
+## 
 ```j
 const car = 'Toyota';
 const obj = {
