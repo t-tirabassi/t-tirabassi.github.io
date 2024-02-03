@@ -60,9 +60,8 @@ const TheTitle = 'The Title';
 export default {  obj, stuff, zumba, f, zob, MyClass, TheTitle };
 ```
 
-## 
 When presented with these errors, ESLint prompts the user to either manually retype the found errors, or provides options for ESLint to explain the error and fix it for you upon request. Now, upon fixing the errors found by ESLint in the above javascript code, we now have a javascript file that follows proper coding standards set by ESLint:
-## 
+
 ```j
 const car = 'Toyota';
 const obj = {
@@ -105,10 +104,10 @@ As you can see, there is a clear difference between the formatting, spacing, and
 
 One thing that differs between writing code and writing a paper is that when writing a paper, you can write it using numerous different approaches, all providing their own uniqueness. When it comes to writing code, while there may be numerous approaches, there is ultimately the deciding factor of whether it works or not. In other words, when coding you are either wrong or you are right, with no in between. ESLint reinforces this by providing a green checkmark for correctness, yellow signs for warnings, and red bubbles for errors. I believe that this green checkmark is both useful and painful at given times. On one hand, the green checkmark can certify that you are following the proper coding standards and are correct. However, on the other hand, this checkmark can prove to be frustrating if the error is not explicitly presented to you or if fixing on error creates more. One personal experience I have had is that upon including a source script into an html file, I am presented with a constant warning from ESLint, despite the fact that its formatting is correct according to the ESLint standards provided by the analysis tool. Once again, this is a case to case basis, of which both sides can make arguments for why or why not this aspect is beneficial.
 
-<img width="350px" 
-     class="rounded float-start pe-4" 
-     src="../img/consistency/codeworkplace.jpeg" >
-
 ## Workplace Wisdom 
 
 Perhaps the most beneficial aspect of learning programming while following coding standards is its uses that can be found within the workplace, especially within the field of higher technology. For those pursuing careers in any field, whether tech related or not, knowing how to demonstrate professionalism is key to excelling within a career. Within the tech and programming industry, this demonstration of professionalism can be seen as crucial, as the ability to conform to these practices can allow for productive and efficient collaboration and time use. As mentioned earlier, the purpose of coding standards is to allow outsiders or other people to be able to look at your code, understand it, and know how it works. Neatness in presentation and stylized professionalism allows this process to go over smoothly. If you were to present a program to someone without this proper presentation, they may be struggling to follow or understand it. It may even be hard to read if it's just a giant lump of code with no proper segmentation or navigation to follow. This will ultimately make getting work done and collaboration within the workplace much harder than it needs to be. Therefore, I recommend that anyone who programs, whether you’re just learning or advanced, should follow good coding standards in order to not only become proficient in a professional setting, but to also make your own coding experiences more beneficial for yourself. Overall, coding standards are a thing that aren’t discussed as much as they should be, especially within an educational setting, and should be taught to aspiring programmers so that these future programmers can develop professional skills early and work towards more ambitious goals, whether career based or personal.
+
+<img width="350px" 
+     class="rounded float-start pe-4" 
+     src="../img/consistency/codeworkplace.jpeg" >
