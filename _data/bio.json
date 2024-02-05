@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Software/Tools//OS",
-      "keywords": [ "MacOS", "Git/GitHub", "VS Code" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VS Code", "IntelliJ" ]
     }
   ],
   "education": [
