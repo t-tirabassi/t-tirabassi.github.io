@@ -45,6 +45,18 @@
   
   "work": [
     {
+      "company": "UH Manoa Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "",
+      "startDate": "2024-02-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assist students and faculty with systems and services across all UH and CC locations",
+        "Collaboration with on campus tech-based departments"
+      ]
+    },
+    {
       "company": "Royal Star Hawai'i/Star of Honolulu",
       "position": "Hula Performer",
       "website": "",
@@ -54,18 +66,6 @@
       "highlights": [
         "Entertain, teach, and interact with guests in regards to performances",
         "Guide guests through hula lessons and produce welcoming environment"
-      ]
-    },
-    {
-      "company": "Anime Zakka",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "2022-02-08",
-      "endDate": "2022-08-14",
-      "summary": "",
-      "highlights": [
-        "Interact, help, and guide customers through the store",
-        "Provide assistance in purchases, restocking, store floor help"
       ]
     }
   ],
