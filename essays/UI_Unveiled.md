@@ -7,8 +7,6 @@ published: false
 labels:
   - UI Frameworks
   - Web Design
-  - IntelliJ
-  - Learning
   - HTML
   - CSS
   - Bootstrap 5
