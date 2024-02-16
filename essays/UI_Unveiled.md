@@ -19,92 +19,16 @@ labels:
 
 ## Utilizing UI
 
-Upon being requested or prompted to write a paper, essay, or even an email, many of us are familiar with a certain style or format that we have learned and conform to in an academic and professional setting. We are taught these standards to conform to these styles so that they can be easily recognized and interpreted amongst the general public. Similarly, different coding languages offer their own etiquette of sorts, that being coding standards. Coding standards are essentially a collection of rules, guidelines, and practices that are generally considered the best ways to code, especially within a collaborative setting. These standards are set to not only produce neat and formatted code, but to make it easily readable for anyone who views, interacts with, or even builds upon said code. Coding standards are sometimes seen as beneficial for any individual learning a programming language, and I believe that there is some credence to this. I also believe that these coding standards should be put into more practice within beginner level coding exercises and teachings. Allow me to entreat you with my personal experience in learning coding standards, some insight upon its usefulness, some of its challenges, and how it can ultimately benefit you within your career.
+User Interface Frameworks are not easy, especially to learn. While they are intended to work within the code you are programming, they almost feel as though you are coding in a completely different language. An accurate comparison for this could be trying to learn a distant dialect or subset of a spoken language you are familiar with. While the basis of the dialect is similar to the parent language, there are just enough differences where it feels like a completely different language. However, much like this spoken language scenario, there are useful benefits to adopting UI Frameworks. In my own personal experience, I have been working with the UI Framework Bootstrap 5. Initially, the inclusion of Bootstrap 5 was very confusing and foreign to me, and I struggled to grasp it. Yet similarly to the dialect scenario, the more you practice it, the better you will become. But this begs the question, why even bother using a UI Framework? How can it benefit you? Should you use UI Frameworks?
 
 ## Favorable Forfeits
 
-As of now, my experience with coding standards revolves around the integrated development environment (IDE) IntelliJ IDEA and ESLint, which essentially works to help you practice and learn proper coding format within the programming language of Javascript. These fixes and recommendations can range from proper indentation or spacing, to using proper methods and variable assignments. In order to provide a more visual representation of how ESLint works, allow me to present an example. Here we have a javascript file containing numerous errors found by ESLint:
-```j
-var foo = 3;
-const car = "Toyota";
-const obj = {
-  car: car,
-  'foo': 3,
-  bar: 'this' + 'is' + this.car,
-  baz: 'b\az'
-};
-const zumba = obj['car'];
-const stuff = new Array();
-
-function f(){};
-function zob(param) {
-  param = 2;
-  let foob=4+param;
-  if (param == 4) {
-    return foob;
-  }
-}
-[1, 2, 3].map(function (x) {
-  const y = x + 1;
-  return x * y;
-});
-class MyClass {
-  constructor() {}
-  getName() {
-    return this.name;
-  }
-  getName() {
-    return this.name;
-  }
-}
-const TheTitle = 'The Title';
-
-export default {  obj, stuff, zumba, f, zob, MyClass, TheTitle };
-```
-
-When presented with these errors, ESLint prompts the user to either manually retype the found errors, or provides options for ESLint to explain the error and fix it for you upon request. Now, upon fixing the errors found by ESLint in the above javascript code, we now have a javascript file that follows proper coding standards set by ESLint:
-
-```j
-const car = 'Toyota';
-const obj = {
-  car,
-  foo: 3,
-  // eslint-disable-next-line no-template-curly-in-string
-  bar: 'this is ${this.car}',
-  baz: 'baz',
-};
-const zumba = obj.car;
-const stuff = [];
-
-function f() {}
-// eslint-disable-next-line consistent-return
-function zob(param) {
-  const foob = 4 + param;
-  if (param === 4) {
-    return foob;
-  }
-}
-[1, 2, 3].map(function (x) {
-  const y = x + 1;
-  return x * y;
-});
-class MyClass {
-  getName() {
-    return this.name;
-  }
-}
-const TheTitle = 'The Title';
-
-export default {
-  obj, stuff, zumba, f, zob, MyClass, TheTitle,
-};
-```
-As you can see, there is a clear difference between the formatting, spacing, and neatness found within both instances of the code. You can also see that ESLint presents you with parts of your code that go unused, allowing one to cut out any excess code that may be lingering within their program. ESLint is good at catching these types of things that would otherwise go unnoticed by a programmer.  However, there is also something that ESLint provides that has both its pros and its cons, depending on the individual.
+To put things simply, UI Frameworks work as aesthetic enhancers for websites. They allow for any site you are building to be neater, look more professional, and for the site to be easier to navigate. For example, Bootstrap 5 can turn your simple html site that looks like it should be twenty years old, into a new and modern looking site, allowing for more people to flock to and engage with your website. Once again though, there is a caveat. Learning to use any UI Framework requires a large investment of both time and sometimes to the extent of one’s sanity, though that may be a bit of exaggeration. It will require time and you may face frustration when trying to learn it. Knowing this, what does one get in return for this investment? Well, for one, you become more familiar with constructing websites and will often learn a lot of different techniques that can benefit you both personally and professionally. Many of the skills gained through the knowledge of UI Frameworks can lead to a better career, as many employers look for these skills across all types of fields. Another benefit of UI Frameworks is that you will be able to make your site look how you desire, rather than it being a bland page of text and a few images. In this way, the use of a UI Framework can turn a technical project into a work of art, which once again, is a skill that many employers desire.
 
 
 ## Excluding Elementary
 
-One thing that differs between writing code and writing a paper is that when writing a paper, you can write it using numerous different approaches, all providing their own uniqueness. When it comes to writing code, while there may be numerous approaches, there is ultimately the deciding factor of whether it works or not. In other words, when coding you are either wrong or you are right, with no in between. ESLint reinforces this by providing a green checkmark for correctness, yellow signs for warnings, and red bubbles for errors. I believe that this green checkmark is both useful and painful at given times. On one hand, the green checkmark can certify that you are following the proper coding standards and are correct. However, on the other hand, this checkmark can prove to be frustrating if the error is not explicitly presented to you or if fixing on error creates more. One personal experience I have had is that upon including a source script into an html file, I am presented with a constant warning from ESLint, despite the fact that its formatting is correct according to the ESLint standards provided by the analysis tool. Once again, this is a case to case basis, of which both sides can make arguments for why or why not this aspect is beneficial.
+You’re saying to yourself, “Ok, I get it, but why don’t I just stick with what I know? Why can’t I just rely upon HTML and CSS?”. One of the downsides of sticking solely to HTML and CSS is that they have their limitations. There is only so much you can accomplish through these base languages, and these limitations are the reason as to why UI Frameworks exist. UI Frameworks work to build off of this simple HTML and CSS to make things more complex. With this complexity comes the ability to break through these boundaries that HTML and CSS have set. This allows for unlimited possibilities for whatever you can dream up or think of. You could create a webpage game, you can create a site for a business, you can make a fan page for the 2011 film “Rango”, you name it. UI Frameworks allow us to bring what our minds can conjure up into reality, and can allow us to share with other the creations of which we are proud of.
 
 <img width="350px" 
      class="rounded float-start pe-4" 
@@ -112,4 +36,4 @@ One thing that differs between writing code and writing a paper is that when wri
 
 ## An Advantageous Approach 
 
-Perhaps the most beneficial aspect of learning programming while following coding standards is its uses that can be found within the workplace, especially within the field of higher technology. For those pursuing careers in any field, whether tech related or not, knowing how to demonstrate professionalism is key to excelling within a career. Within the tech and programming industry, this demonstration of professionalism can be seen as crucial, as the ability to conform to these practices can allow for productive and efficient collaboration and time use. As mentioned earlier, the purpose of coding standards is to allow outsiders or other people to be able to look at your code, understand it, and know how it works. Neatness in presentation and stylized professionalism allows this process to go over smoothly. If you were to present a program to someone without this proper presentation, they may be struggling to follow or understand it. It may even be hard to read if it's just a giant lump of code with no proper segmentation or navigation to follow. This will ultimately make getting work done and collaboration within the workplace much harder than it needs to be. Therefore, I recommend that anyone who programs, whether you’re just learning or advanced, should follow good coding standards in order to not only become proficient in a professional setting, but to also make your own coding experiences more beneficial for yourself. Overall, coding standards are a thing that aren’t discussed as much as they should be, especially within an educational setting, and should be taught to aspiring programmers so that these future programmers can develop professional skills early and work towards more ambitious goals, whether career based or personal.
+While we have been mainly talking about UI Frameworks in relation to web design, they also hold significance in other realms of software engineering, and thus hold their own specific benefits. For example, one of the areas in which software engineers work is the game industry. Many of these companies create their games through specifically tailored engines and software, which result in a unique experience that is quite difficult to replicate. All of these components come together to form the game which the player interacts with, and these components rely upon UI Frameworks to construct what you see as you are playing. If you have ever played any game, you will often notice that there are different things found on screen that are non-interactable, such as health bars, collectibles, ammo, etc. These visual and indicative features are referred to as the UI, the user interface. This interface is constructed using a UI Framework tailored for that engine or oftentimes that specific game. This UI Framework is created and constructed by these software engineers, and provides you with the experience you get from many of your favorite games. This is only one of the many examples in which UI Frameworks can play a role in software engineering, and while I do not have the time to discuss them all, what I wish for one to take away from this is the importance of UI Frameworks, its benefits, its applications, and why you should ultimately use these tools moving forward.
