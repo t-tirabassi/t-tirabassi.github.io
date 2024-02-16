@@ -32,7 +32,7 @@ You’re saying to yourself, “Ok, I get it, but why don’t I just stick with 
 
 <img width="350px" 
      class="rounded float-start pe-4" 
-     src="../img/consistency/codeworkplace.jpeg" >
+     src="../img/unveil/webdesign1.png" >
 
 ## An Advantageous Approach 
 
