@@ -15,7 +15,7 @@ labels:
 
 <img width="300px" 
      class="rounded float-start pe-4" 
-     src="../img/consistency/sitcode.jpeg" >
+     src="../img/unveil/uiframework2.png" >
 
 ## Utilizing UI
 
