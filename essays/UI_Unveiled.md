@@ -13,7 +13,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" 
+<img width="250px" 
      class="rounded float-start pe-4" 
      src="../img/unveil/uiframework2.png" >
 
