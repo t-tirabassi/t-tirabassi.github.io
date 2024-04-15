@@ -11,5 +11,8 @@ labels:
   - MongoDB
   - Software Engineering
   - Application Development
+  - HTML
+  - CSS
+  - JSX
 summary: "*project summary here*"
 ---
