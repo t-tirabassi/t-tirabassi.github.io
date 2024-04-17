@@ -12,7 +12,7 @@ labels:
 
 <img width="275px" 
      class="rounded float-start pe-4" 
-     src="../img/unveil/uiframework2.png" >
+     src="../img/dynamics/chill-diving-suit.jpeg" >
 
 ## Navigating the Depths of Design
 
@@ -33,7 +33,7 @@ labels:
 
 <img width="350px" 
      class="rounded float-start pe-4" 
-     src="../img/unveil/webdesign1.png" >
+     src="../img/dynamics/sailboat.jpg" >
 
 ## Smooth Sailing through Software 
 
