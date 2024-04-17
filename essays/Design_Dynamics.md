@@ -25,7 +25,7 @@ labels:
 
 ## Crafting Code Canvases
 
-*
+* code in this section
 
 ## Smooth Sailing through Software 
 
