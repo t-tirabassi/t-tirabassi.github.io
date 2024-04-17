@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="275px" 
+<img width="350px" 
      class="rounded float-start pe-4" 
      src="../img/dynamics/chill-diving-suit.jpeg" >
 
