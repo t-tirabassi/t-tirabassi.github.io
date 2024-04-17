@@ -31,7 +31,7 @@ labels:
 
 *
 
-<img width="350px" 
+<img width="325px" 
      class="rounded float-start pe-4" 
      src="../img/dynamics/sailboat.jpg" >
 
