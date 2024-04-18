@@ -35,6 +35,6 @@ labels:
      class="rounded float-start pe-4" 
      src="../img/dynamics/sailboat.jpg" >
 
-## Practical Pathways 
+## Personal Practicalities 
 
 *
