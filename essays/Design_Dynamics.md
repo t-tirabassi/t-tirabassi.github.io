@@ -27,7 +27,7 @@ Design patterns usually fall under three categories: creational, structural, and
 
 ## Crafting Code Canvases
 
-In order to gain a better understanding of how to use these design patterns and what they typically look like, let’s examine an example from a group application that my team and I have been developing. More specifically, let’s take a look at the user profile page.
+In order to gain a better understanding of how to use these design patterns and what they typically look like, let’s examine a piece of code from an application that my team and I have been developing. More specifically, let’s take a look at the one of the constants found within the code for the user profile page:
 
 ```jsx
 const { ready, profile, interests, tags } = useTracker(() => {
@@ -49,7 +49,9 @@ From the code above, this behavioral design pattern uses the useTracker function
 
 ## Smooth Sailing through Software 
 
-Throughout my experiences with software engineering, there have been a few design patterns that I typically rely upon, especially when working in Javascript XML (JSX). The design patterns that I use when relaying and working with data is the behavioral observer design pattern such as the previously presented example. For structural constructs, I tend to use composite design patterns for site and app creation, as it nests each component which then allows you to easily construct the layout of the app itself. As for a creational design pattern, I like to use singleton design patterns for application components, as it allows me to set specific attributes and then apply them to other parts of the application where I see fit. When working on a project, I often combine many of these design patterns together so that the code itself not only functions more efficiently compared to a large page of code, but also is a lot more navigable for others. Using design patterns makes the work of a project much more manageable both in personal interest as well as in a team setting. These patterns also allow for other people to easily understand your code, which I believe is especially important when working in a highly competitive industry such as software engineering. As a whole, design patterns can serve as essential navigational tools that can allow software engineers to sail through the sea of challenges that await them when tackling a new project.
+Throughout my experiences with software engineering, there have been a few design patterns that I typically rely upon, especially when working in Javascript XML (JSX). The design patterns that I use when relaying and working with data is the behavioral observer design pattern such as the previously presented example. For structural constructs, I tend to use composite design patterns for site and app creation, as it nests each component which then allows you to easily construct the layout of the app itself. As for a creational design pattern, I like to use singleton design patterns for application components, as it allows me to set specific attributes and then apply them to other parts of the application where I see fit. 
+
+When working on a project, I often combine many of these design patterns together so that the code itself not only functions more efficiently compared to a large page of code, but also is a lot more navigable for others. Using design patterns makes the work of a project much more manageable both in personal interest as well as in a team setting. These patterns also allow for other people to easily understand your code, which I believe is especially important when working in a highly competitive industry such as software engineering. As a whole, design patterns can serve as essential navigational tools that can allow software engineers to sail through the sea of challenges that await them when tackling a new project.
 
 <img width="325px" 
      class="rounded float-start pe-4" 
