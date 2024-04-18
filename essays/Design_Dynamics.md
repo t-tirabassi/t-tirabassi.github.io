@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Dynamics: Patterns in Practice"
 date: 2024-04-17
-published: false
+published: true
 labels:
   - Design Patterns
   - Coding Practices
