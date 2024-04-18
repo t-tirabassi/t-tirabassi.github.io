@@ -30,7 +30,7 @@ Design patterns usually fall under three categories: creational, structural, and
 
 In order to gain a better understanding of how to use these design patterns and what they typically look like, let’s examine a piece of code from an application that my team and I have been developing. More specifically, let’s take a look at the one of the constants found within the code for the user profile page:
 
-<code style="color: #61dafb;">
+```jsx
 const { ready, profile, interests, tags } = useTracker(() => {
     const sub1 = Meteor.subscribe(Interests.userPublicationName);
     const sub2 = Meteor.subscribe(Profiles.userPublicationName);
@@ -44,7 +44,7 @@ const { ready, profile, interests, tags } = useTracker(() => {
       const interestDoc = Interests.collection.findOne({ name: interest });
       return interestDoc?.name;
     });
-</code>
+```
 
 From the code above, this behavioral design pattern uses the useTracker function hook to track changes in data and data sources. The data it fetches is the user’s profile, interests and tags stored within the MongoDB collections. This useTracker function is linked to these collections using Meteor.subscribe within the application and fetches the data using the find and findOne methods. If the data changes, useTracker will re-execute and re-render the updated data to reflect that. As an observer design pattern, this then notifies these changes to other classes linked to this data. To put things simply, the useTracker tracks the data within the collections and if it observes a difference between the original data and the new data, it will update and notify other classes to update the user’s profile with these new changes.
 
