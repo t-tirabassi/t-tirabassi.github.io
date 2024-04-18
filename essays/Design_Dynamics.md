@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="485px"
+<img width="500px"
      class="rounded float-start pe-4" 
      src="../img/dynamics/chill-diving-suit.jpeg" >
 
