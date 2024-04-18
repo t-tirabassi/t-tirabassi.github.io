@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="350px" 
+<img width="450px"
      class="rounded float-start pe-4" 
      src="../img/dynamics/chill-diving-suit.jpeg" >
 
@@ -52,11 +52,11 @@ From the code above, this behavioral design pattern uses the useTracker function
 
 Throughout my experiences with software engineering, there have been a few design patterns that I typically rely upon, especially when working in Javascript XML (JSX). The design patterns that I use when relaying and working with data is the behavioral observer design pattern such as the previously presented example. For structural constructs, I tend to use composite design patterns for site and app creation, as it nests each component which then allows you to easily construct the layout of the app itself. As for a creational design pattern, I like to use singleton design patterns for application components, as it allows me to set specific attributes and then apply them to other parts of the application where I see fit. 
 
-When working on a project, I often combine many of these design patterns together so that the code itself not only functions more efficiently compared to a large page of code, but also is a lot more navigable for others. Using design patterns makes the work of a project much more manageable both in personal interest as well as in a team setting. These patterns also allow for other people to easily understand your code, which I believe is especially important when working with the standards set within a highly competitive industry such as software engineering. As a whole, design patterns can serve as essential navigational tools that can allow software engineers to sail through the sea of challenges that await them when tackling a new project.
-
 <img width="325px" 
      class="rounded float-start pe-4" 
      src="../img/dynamics/sailboat.jpg" >
+
+When working on a project, I often combine many of these design patterns together so that the code itself not only functions more efficiently compared to a large page of code, but also is a lot more navigable for others. Using design patterns makes the work of a project much more manageable both in personal interest as well as in a team setting. These patterns also allow for other people to easily understand your code, which I believe is especially important when working with the standards set within a highly competitive industry such as software engineering. As a whole, design patterns can serve as essential navigational tools that can allow software engineers to sail through the sea of challenges that await them when tackling a new project.
 
 
 ### __References:__ 
