@@ -30,7 +30,7 @@ Design patterns usually fall under three categories: creational, structural, and
 
 In order to gain a better understanding of how to use these design patterns and what they typically look like, let’s examine a piece of code from an application that my team and I have been developing. More specifically, let’s take a look at the one of the constants found within the code for the user profile page:
 
-```js
+```jsx
 const { ready, profile, interests, tags } = useTracker(() => {
     const sub1 = Meteor.subscribe(Interests.userPublicationName);
     const sub2 = Meteor.subscribe(Profiles.userPublicationName);
