@@ -58,6 +58,9 @@ When working on a project, I often combine many of these design patterns togethe
      class="rounded float-start pe-4" 
      src="../img/dynamics/sailboat.jpg" >
 
-__References:__ 
 
-_Design Patterns_. SourceMaking. (n.d.).
+### __References:__ 
+
+[_Design Patterns_. SourceMaking. (n.d.).](https://sourcemaking.com/design_patterns)
+
+[_Design patterns: Elements of Reusable Object-Oriented Software_. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994).](https://en.wikipedia.org/wiki/Design_Patterns)
