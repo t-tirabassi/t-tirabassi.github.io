@@ -26,7 +26,7 @@ As mentioned previously, design patterns are typically made so that they may be 
 Design patterns usually fall under three categories: creational, structural, and behavioral. Creational design patterns revolve around class instantiation, separated by those that use inheritance for instantiation and those that use delegation. Some examples of these patterns include builder, abstract factory, prototype, and singleton design patterns. Structural design patterns focus on class and object composition, where class creation patterns use inheritance to compose interfaces and object patterns compose objects in terms of functionality. Examples of structural design patterns include adapters, decorators, facades, and proxies. Behavioral design patterns are used for the interactions between classes and objects, specifically with the communications between the two. These patterns may be a command, iterator, observer, state, or strategy design pattern. In short, the different types of design patterns and what they do encapsulate a lot of common issues that you may encounter. However, these are just a bunch of descriptions that don’t necessarily tell us how to use them or what they do, so let’s take a look at an example.
 
 
-## Canvases for Code
+## Canvases of Code
 
 In order to gain a better understanding of how to use these design patterns and what they typically look like, let’s examine a piece of code from an application that my team and I have been developing. More specifically, let’s take a look at the one of the constants found within the code for the user profile page:
 
