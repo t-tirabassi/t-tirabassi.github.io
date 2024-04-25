@@ -19,6 +19,9 @@ labels:
 Artificial Intelligence or AI is not only becoming more advanced within the modern day, but also much more prevalent, particularly within academia. Within educational discussions, there is currently the debate of how AI is impacting the education system, and whether or not its use is seen as positive or negative. On one hand, AI can be seen as a tool that can be used as a type of easily accessible support tool for students, while on the other hand it can be argued that students may rely too heavily on the use of AI, passing AI generated work off as their own and not learning the subject properly. Both of these cases hold equal weight, with evidence to support the claims made from these two sides. Software engineering is a field that I personally feel has benefitted from the use of AI, supported by my personal use of ChatGPT as somewhat of a tool or assistant within my programming. The key part here is that while I have used ChatGPT as a tool, I have not completely depended on it, and use it purely as a supportive academic tool within my current software engineering course ICS 314: Software Engineering I. 
 
 *
+```jsx
+*code here*
+```
 
 ## Lending to Learning
 
@@ -32,19 +35,15 @@ I feel that in regards to problem-solving abilities, ChatGPT serves as a hindran
 
 *
 
-```jsx
-*code here*
-```
-
 ## Characterizing Challenges
 
 While AI has been useful to myself personally throughout ICS 314, I do believe that there are challenges that come with using AI as well as limitations that these simulations of human intelligence impose. For starters, AI uses information from testing and across the web to simulate human response and explanations, yet it is just that, a simulation. AI can not recreate the distinct difference between the assistance or teachings of another human being because it is unable to truly replicate that which makes us human. I think that AI itself is limited due to this, in that it can only spew out the information that has been fed or built upon pre-existing knowledge to attempt to create something new, even though it is essentially a recycled response. Due to this, it may not always prove helpful to use AI when confronting certain problems within software engineering, which is why one should not solely rely upon AI and again use it as a support tool. 
 
 In order to even have the AI assist you, you not only have to understand the concepts you are learning about and working with, but also how the AI receives the information and how you have to interpret it with your own pre-existing knowledge. This presents the challenge of getting the AI to actually prove useful rather than hindering your own performance. Essentially, there are many things that AI can’t do, but you can, and if you are struggling with something, you must combine what you know with the database of knowledge the AI has to produce useful results. However, I believe that the education of software engineering can further integrate AI by educating people on the uses of AI as a tool, what it can and can’t be helpful with, and using it in a way that better educates people on software engineering through the accessibility of more knowledge outside of the classroom.
 
-<img width="375px" 
+<img width="300px" height="300px"
      class="rounded float-start pe-4" 
-     src="../img/dynamics/sailboat.jpg" >
+     src="../img/academia/ai-robot-coding.jpeg" >
 
 
 ## Tradition vs. Technology
@@ -55,6 +54,10 @@ In a traditional academic setting, students are also able to retain knowledge mu
 
 Similarly, this can be applied to skill development, as the time spent physically on building a skill is vital to actually learning it. For example, say you wish to become better at shooting three-pointers in basketball. You decide that you’re going to watch a bunch of NBA three-pointer shot videos to develop this skill. After watching these videos for 20 minutes, you then believe you are now better at taking these shots. However, you’re going to find that you haven’t improved, and that you are at the same spot you began in. On the other side of things, say instead you dedicate an hour a day to practicing these shots. You manage to stay consistent for a month, and then decide to test your skills. By practicing and progressing exponentially over this time, you’ll find that you have improved, because you were physically and mentally there and applying yourself. No one was forcing you to practice and you could’ve stopped at any time, but you kept consistent and achieved the result you desired. Therefore, if you wish to become better at anything, whether it is software engineering or not, you must put in the time and effort in order to not only achieve what you want, but to also benefit yourself in the process.
 
+<img width="300px" height="300px"
+     class="rounded float-start pe-4" 
+     src="../img/academia/ai-robot-coding-2.jpeg" >
+
 ## Focuses on the Future
 
 While I believe that traditional teaching methods are much more effective in education than AI, I believe that AI will most likely play a bigger part in education as time goes on. Software engineering in education can benefit from the incorporation of AI in many ways. For one, AI could be used to allow for more focus on the vital part of the lesson or module and remove that which is deemed a waste of time. For example, say the professor is teaching students about React and the code they are working with includes repetitive classes or containers such as div. The AI can then be used to cut out unnecessary time put into manually typing out all of these lines that all are the same if not similar. While students can just copy and paste these lines of code, it would be a more effective use of time for the AI to handle this and allow for students to focus more on the parts of the code the professor wishes to emphasize. AI could also be used within classrooms as a part of the curriculum, allowing for professors to incorporate AI into their assignments and help students be able to implement AI within any software projects they may do for the course.
@@ -62,3 +65,7 @@ While I believe that traditional teaching methods are much more effective in edu
 Some of the challenges with incorporating AI within software engineering education of course is the regulation of its usage. Tying back into the debates about AI within education, professors do not want their students to not be learning the material and relying upon AI to do it for them. This challenge will likely need to be addressed within the decade given the rapid evolution of AI and its advancements towards human creativity. Perhaps there may be AI models that can be programmed solely for the use of education, acting as a personal assistant to students while learning. These educational AI models can work alongside professors and teaching assistants to better balance out the help students are receiving within the classroom. This will also aid the issue in that while they will do what they can, those teaching cannot help everyone at once, which can often lead to some not getting the amount of help they need throughout their education.
 
 As a whole, I believe that AI can be beneficial in educational settings if used properly. From a personal perspective, I believe that AI is a tool to be harnessed rather than abused, and that it can provide personal assistance with learning in a way that I understand. Within the Software Engineering I course here at the University of Hawai’i at Manoa, I have used AI as a crutch to fall back on when I am left stuck on an issue and am unable to find assistance via online resources or through the course material and assignments. In combination with pre-existing knowledge, AI can be used to further understanding in software engineering skills and practice. It can provide individual help in the comprehension of unfamiliar topics, but does not prove useful in the development of software engineering skills and problem-solving abilities. I feel that AI can be applied in many ways outside of the classroom, and that the better we understand AI, the better we will be able to incorporate it effectively into our approaches towards future challenges. Using AI comes with its own challenges and has its own limitations in capability, but can be overcome depending on the way in which you approach it given the skills and knowledge you currently possess. While AI will never likely replace traditional teaching methods, I believe it’s important to recognize the responsibility we have when using AI and what that means for our future, as you solely are responsible for the future you wish to have. Perhaps as AI continues to progress, we will not only see its further incorporation within the education of software engineering, but also the benefits that may come with doing so.
+
+<img width="300px" height="300px"
+     class="rounded float-start pe-4" 
+     src="../img/academia/ai-robot-coding.jpeg" >
