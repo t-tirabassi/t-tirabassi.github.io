@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "AI in Academia: A Personal Perspective"
-date: 2024-04-17
+date: 2024-04-24
 published: false
 labels:
   - AI
