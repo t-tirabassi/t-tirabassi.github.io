@@ -8,6 +8,8 @@ labels:
   - AI
   - Higher Education
   - Software Engineering
+  - Coding Ethics
+  - Learning
 ---
 
 <img width="300px" height="300px"
