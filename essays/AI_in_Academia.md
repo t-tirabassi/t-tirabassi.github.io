@@ -33,7 +33,7 @@ I feel that in regards to problem-solving abilities, ChatGPT serves as a hindran
 
 ## Applying AI
 
-*
+Taking a step outside of an academic setting, AI has also been used in many practical ways in order to serve as a tool for software programmers. For example, Github Copilot is an AI model by Github, OpenAI, and Microsoft that serves as a programming assistant using publicly available sources and training data to provide suggested changes and automatically filled lines of code. Github Copilot has become a staple for many ambitious software engineering projects and collaborations, such as in the University of Hawai’i Game Dev Club’s yearly Game Jam, allowing for a more efficient usage of time and resources to be allocated towards development. In terms of taking on real-world software engineering challenges, I believe that Github Copilot proves to be effective given that its model acts as a secondary programmer and merely makes the suggestions, allowing for the individual programmer to decide whether or not they wish to incorporate the use of the AI. The use of Github Copilot can ease the workload of a programmer within a real-world setting, and while I have not personally used it, I believe that it holds its supportive value. Essentially, Github Copilot works as a personal assistant to optimize the time spent in coding, but does not outwardly remove the skill and knowledge required from the programmer, which I believe provide the perfect balance that AI should have when used in any software engineering setting.
 
 ## Characterizing Challenges
 
