@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/*img folder here*/*image file name*.jpg
+image: img/repcompanion/uh-repcompanion.png
 title: "UH RepCompanion"
 date: 2024-05-07
 published: false
