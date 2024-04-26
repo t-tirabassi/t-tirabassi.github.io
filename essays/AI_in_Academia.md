@@ -205,7 +205,8 @@ In order to even have the AI assist you, you not only have to understand the con
 
 <img width="420px" height="300px"
      class="rounded float-start pe-4" 
-     src="../img/academia/ai-robot-coding-3.jpeg" >
+     src="../img/academia/ai-robot-coding-3.jpeg" 
+    align="right" >
 
 
 ## Tradition vs. Technology
