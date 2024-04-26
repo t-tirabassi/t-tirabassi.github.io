@@ -20,10 +20,138 @@ labels:
 
 Artificial Intelligence or AI is not only becoming more advanced within the modern day, but also much more prevalent, particularly within academia. Within educational discussions, there is currently the debate of how AI is impacting the education system, and whether or not its use is seen as positive or negative. On one hand, AI can be seen as a tool that can be used as a type of easily accessible support tool for students, while on the other hand it can be argued that students may rely too heavily on the use of AI, passing AI generated work off as their own and not learning the subject properly. Both of these cases hold equal weight, with evidence to support the claims made from these two sides. Software engineering is a field that I personally feel has benefitted from the use of AI, supported by my personal use of ChatGPT as somewhat of a tool or assistant within my programming. The key part here is that while I have used ChatGPT as a tool, I have not completely depended on it, and use it purely as a supportive academic tool within my current software engineering course ICS 314: Software Engineering I. 
 
-*
-```jsx
-*code here*
+To gain a better understanding of the usage of AI within an academic setting, let’s take a look at how I have used it through different elements of the course. Within ICS 314, one of the ways we have learned and practiced new material is through Experience WODs, which act as at-home assignments meant for students to exercise and practice what is covered throughout each module. For these WODs, I did not use any AI assistance such as ChatGPT as the format of these WODs are very straightforward, and include a video of the professor walking you through each step. It would not make sense to use AI here given the resources available to me as well as the fact that there is no such way to necessarily use AI in this setting beneficially. The same can be said for the in-class Practice WODs that we did, as they are for practice, meaning you do not necessarily need to provide a result within the given class period. I would use these WODs to genuinely try to apply the knowledge I had gained and to see if I could do it without assistance.
+
+However, that being said, I did use ChatGPT for some of the in-class WODs which acted as assessments to test our knowledge and skill of each module. While I would initially try my best to complete the assessment within the given time frame, after having practiced for the WOD extensively the day prior, I would rely upon ChatGPT if I was running into issues that I could not fix within the time limit. I would also use ChatGPT if I was unsure of where to start. However, this reliance mainly occurred during the early WODs revolving around Javascript. For example, within the WOD: Javascript 2, I asked ChatGPT to assist me in computing some of the calculations that I was stuck on, as well as fixing the ES6 syntax for the printing statements within the code, which can be seen here:
+
+```js
+class Score {
+    constructor(judge, line, angle, style, xfactor) {
+  this.judge = judge;
+  this.line = line;
+  this.angle = angle;
+  this.style = style;
+  this.xfactor = xfactor;
+  this.total = line + angle + style + xfactor;
+  }
+}
+
+class Run {
+    constructor(driver) {
+  this.driver = driver;
+  this.scores = [];
+  
+  }
+  
+  addScore(score) {
+  this.scores.push(score);
+  }
+  
+  printAllScores() {
+    this.scores.forEach((score) => {
+      console.log(
+`${score.judge} gave a score of line: ${score.line}, angle: ${score.angle}, style: ${score.style}, and x-factor: ${score.xfactor}, total: ${score.total}`
+      );
+    });
+  }
+  
+  printOverallScore() {
+  const totalScore = this.calcTotalScore();
+  console.log(totalScore.toFixed(2));
+  }
+  
+  printXFactorAveragedScore() {
+      const xFactorAv = this.calcXFactAv();
+    console.log(xFactorAv.toFixed(2));
+  }
+  
+  printNoXFact() {
+      const noXFact = this.calcNoXFact();
+    console.log(noXFact.toFixed(2));
+  }
+  
+  calcTotalScore() {
+      const total = this.scores.reduce((sum, score) =>sum + score.total, 0);
+    return total/ this.scores.length;
+  }
+  
+  calcXFactAv() {
+      const xFact = this.scores.reduce((sum, score) =>sum + score.xfactor, 0);
+    return xFact/ this.scores.length;
+  }
+  
+  calcNoXFact() {
+      const noX = this.scores.reduce((sum, score) => sum + score.total - score.xfactor, 0);
+    return noX / this.scores.length;
+  }
+}
+
+const run = new Run('Ken Gushi');
+run.addScore(new Score('Ryan Lanteigne', 35, 28, 19, 8));
+run.addScore(new Score('Chris Uhl', 38, 27, 20, 10));
+run.addScore(new Score('Brian Eggert', 39, 28, 20, 9));
+run.printAllScores();
+// "Ryan Lanteigne gave a score of line: 35, angle: 28, style: 19, and x-factor: 8, total: 90"
+// "Chris Uhl gave a score of line: 38, angle: 27, style: 20, and x-factor: 10, total: 95"
+// "Brian Eggert gave a score of line: 39, angle: 28, style: 20, and x-factor: 9, total: 96"
+
+run.printOverallScore();
+// "93.67"
+
+run.printXFactorAveragedScore();
+// "9.00"
+
+run.printNoXFact();
+// "84.67"
 ```
+
+## Programming Partnership
+
+As for the technical essays that we were required to write over the course of the semester, I did not use ChatGPT as I personally enjoy writing and also have my own unique style when it comes to writing essays. This style of writing that I have uses different sentence forms and grammar layouts, which is something that I have found that AI cannot replicate. The only thing I did use ChatGPT for in regards to the essays is to help me brainstorm a title and some headers for each essay, as I decided to have them all use alliteration and would sometimes struggle with finding good words to express the paper and each section within it. For the final project of the class, I have been working in a group to develop a web application called UH Companion, which works as a social media app that allows for UH students to connect with other students and find gym partners to plan workout events with. My team and I are currently still working on at the time of writing this, I have been incorporating the use of ChatGPT mainly when I am unsure of how to implement a feature I want into the web application we have been developing. 
+
+When adding a weekly calendar to a user’s profile page, I had included an image of a clickable space that would display an image of a dumbbell under each day of the week, allowing for the user to keep track of their personal routine. I wanted to have it so that once the user had clicked and added the dumbbell for that day of the week, it would keep track of it and not be lost upon reloading the page. I then provided ChatGPT with the section of code for the images and asked, “Is there a way that I can have the visibility of these cells track across a user’s usage of the UH RepCompanion app?” To this question, it then provided me with the following code which would keep track of the image across one’s local browser usage, allowing for it to stick with the user’s profile without having to be added the to the Profiles collection:
+
+```jsx
+ // Initialize image visibility state from local storage or default to false
+  const [imageVisibility, setImageVisibility] = useState(() => ({
+    cell1: JSON.parse(localStorage.getItem('cell1Visible')) || false,
+    cell2: JSON.parse(localStorage.getItem('cell2Visible')) || false,
+    cell3: JSON.parse(localStorage.getItem('cell3Visible')) || false,
+    cell4: JSON.parse(localStorage.getItem('cell4Visible')) || false,
+    cell5: JSON.parse(localStorage.getItem('cell5Visible')) || false,
+    cell6: JSON.parse(localStorage.getItem('cell6Visible')) || false,
+    cell7: JSON.parse(localStorage.getItem('cell7Visible')) || false,
+  }));
+
+  // Update local storage whenever image visibility state changes
+  useEffect(() => {
+    localStorage.setItem('cell1Visible', JSON.stringify(imageVisibility.cell1));
+    localStorage.setItem('cell2Visible', JSON.stringify(imageVisibility.cell2));
+    localStorage.setItem('cell3Visible', JSON.stringify(imageVisibility.cell3));
+    localStorage.setItem('cell4Visible', JSON.stringify(imageVisibility.cell4));
+    localStorage.setItem('cell5Visible', JSON.stringify(imageVisibility.cell5));
+    localStorage.setItem('cell6Visible', JSON.stringify(imageVisibility.cell6));
+    localStorage.setItem('cell7Visible', JSON.stringify(imageVisibility.cell7));
+  }, [imageVisibility]);
+
+  // Function to toggle the visibility of the image for a specific cell
+  const toggleImageVisibility = (cellName) => {
+    setImageVisibility((prevState) => ({
+      ...prevState,
+      [cellName]: !prevState[cellName],
+    }));
+  };
+```
+
+I did not ever use ChatGPT when learning a new concept within the course as I felt the materials provided and the professors explanations were enough for me to understand and replicate what I had learnt. I also never used any kind of AI when asking or answering a question within the class or on the ICS 314 Discord, as many of the questions asked could not be answered via AI, as many of them were practical issues that required human cognition and response. The same can be said for the smart-questions that we defined towards the middle of the semester. Occasionally, I would ask ChatGPT to provide a coding example to confirm that I understood something before I would implement it. For example, when *doing something here* I asked ChatGPT, “quotation here*?” ChatGPT responded by providing me with the following code and explanation:
+
+*code and explanation here*
+
+The same can be said for times where I was presented with a piece of code but was unable to understand how it worked, or through why it worked. For example, *bring up like murphy example or something for how asked explained*. As for writing code, I have used ChatGPT which is present within the example I gave earlier, when I used it for the final project to track the appearance of the dumbbell images within the weekly calendar found on the profile page within the application. I do not believe that I ever used ChatGPT to document code, as I would tend to go through and manually document the code myself so that I could justify that I understood the code itself. ChatGPT has been very useful at times when I am checking for quality assurance within any file project. Typically I would make use of the AI when I was encountering an error that I could not comprehend or merely find. A good example of this would be when I was *example here and what asked ChatGPT*
+
+*code here*
+
+For other uses outside of just the course of ICS 314: Software Engineering I, I have found ChatGPT to be a helpful tool with other coding assignments and learning experiences. At the time of writing this, I am also currently taking EE 367: Computer Data Structures and Algorithms. Within the class, many assignments require the use of various algorithms in the programming language of C, with some of these assignments being quite difficult even after having the professor explain it. I find ChatGPT helpful when completing these, as it can guide me through each line of code and assist with any errors I encounter. Outside of academia altogether, I have found ChatGPT to be helpful when trying to generate new ideas for things, whether it be a name, a title, etc. I use it mainly due to the fact that when starting something new, I tend to get writer’s block when starting and find it hard to generate a starting point to then build off of. A similar example to this is the mention of how I used ChatGPT to help me generate alliterative titles and headers for my essays, in order to catch the reader’s eye and keep them interested. This usage of the AI is even present within this essay itself, apparent by the alliteration present within the title and headers.
 
 ## Lending to Learning
 
