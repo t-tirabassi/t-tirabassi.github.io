@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" height="300px"
+<img width="350px" height="300px"
      class="rounded float-start pe-4" 
      src="../img/academia/ai-robot-coding.jpeg" >
 
@@ -183,6 +183,10 @@ For other uses outside of just the course of ICS 314: Software Engineering I, I 
 
 ## Lending to Learning
 
+<img width="500px" height="300px"
+     class="rounded float-start pe-4" 
+     src="../img/academia/ai-robot-coding-4.jpeg" >
+
 In regards to the use of AI, I do feel that it has significantly altered the learning experiences I have when approaching various concepts and topics. I believe that AI can assist individuals with the comprehension of different academic materials and experiences, as it can allow for those learning to gain a better understanding or grasp on a topic that they may be struggling with, and have it explained in a way that they can understand. I feel that many students struggle with academic materials not due to their personal fault or that of the one teaching, but the way in which the material is communicated and presented. This stems from the fact that everyone has their own way of learning and the way in which something is taught may be easier for one person to understand, but harder for another. The use of AI also allows an individual to ask more questions that once again, can be explained in a way that they understand and add to an overall better understanding of said topic.
 
 In terms of skill development, this is where AI becomes a bit more debated within academic circles. From a personal standpoint, I try to develop my skills properly as I know that if we were to rely on AI now the lack of these skills would drastically hinder my abilities and career for the future. The way in which I use AI to develop my skills is if I am unsure of how to incorporate something within my code or something specific I wish to incorporate, I may provide ChatGPT with the code I currently have and then ask it a question while being specific. For example, say I have an idea for a feature that I would like to incorporate into my code, but am unsure of how to do so. I may provide the code and ask ChatGPT how I could do this with the given code, and then it may provide me with an answer, but more often than not this answer is incomplete or slightly incorrect. I will then use the base insight it has given me and use the skills I have to incorporate that feature not only properly, but in a way that makes sense to me. This process is present earlier where I mentioned I had used ChatGPT to help me incorporate a visibility feature and tracker within the final project for ICS 314: Software Engineering I.
@@ -199,7 +203,7 @@ While AI has been useful to myself personally throughout ICS 314, I do believe t
 
 In order to even have the AI assist you, you not only have to understand the concepts you are learning about and working with, but also how the AI receives the information and how you have to interpret it with your own pre-existing knowledge. This presents the challenge of getting the AI to actually prove useful rather than hindering your own performance. Essentially, there are many things that AI can’t do, but you can, and if you are struggling with something, you must combine what you know with the database of knowledge the AI has to produce useful results. However, I believe that the education of software engineering can further integrate AI by educating people on the uses of AI as a tool, what it can and can’t be helpful with, and using it in a way that better educates people on software engineering through the accessibility of more knowledge outside of the classroom.
 
-<img width="400px" height="300px"
+<img width="420px" height="300px"
      class="rounded float-start pe-4" 
      src="../img/academia/ai-robot-coding-3.jpeg" >
 
@@ -223,7 +227,3 @@ While I believe that traditional teaching methods are much more effective in edu
 Some of the challenges with incorporating AI within software engineering education of course is the regulation of its usage. Tying back into the debates about AI within education, professors do not want their students to not be learning the material and relying upon AI to do it for them. This challenge will likely need to be addressed within the decade given the rapid evolution of AI and its advancements towards human creativity. Perhaps there may be AI models that can be programmed solely for the use of education, acting as a personal assistant to students while learning. These educational AI models can work alongside professors and teaching assistants to better balance out the help students are receiving within the classroom. This will also aid the issue in that while they will do what they can, those teaching cannot help everyone at once, which can often lead to some not getting the amount of help they need throughout their education.
 
 As a whole, I believe that AI can be beneficial in educational settings if used properly. From a personal perspective, I believe that AI is a tool to be harnessed rather than abused, and that it can provide personal assistance with learning in a way that I understand. Within the Software Engineering I course here at the University of Hawai’i at Manoa, I have used AI as a crutch to fall back on when I am left stuck on an issue and am unable to find assistance via online resources or through the course material and assignments. In combination with pre-existing knowledge, AI can be used to further understanding in software engineering skills and practice. It can provide individual help in the comprehension of unfamiliar topics, but does not prove useful in the development of software engineering skills and problem-solving abilities. I feel that AI can be applied in many ways outside of the classroom, and that the better we understand AI, the better we will be able to incorporate it effectively into our approaches towards future challenges. Using AI comes with its own challenges and has its own limitations in capability, but can be overcome depending on the way in which you approach it given the skills and knowledge you currently possess. While AI will never likely replace traditional teaching methods, I believe it’s important to recognize the responsibility we have when using AI and what that means for our future, as you solely are responsible for the future you wish to have. Perhaps as AI continues to progress, we will not only see its further incorporation within the education of software engineering, but also the benefits that may come with doing so.
-
-<img width="500px" height="300px"
-     class="rounded float-start pe-4" 
-     src="../img/academia/ai-robot-coding-4.jpeg" >
