@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI in Academia: A Personal Perspective"
 date: 2024-04-24
-published: false
+published: true
 labels:
   - AI
   - Higher Education
@@ -143,13 +143,41 @@ When adding a weekly calendar to a user’s profile page, I had included an imag
   };
 ```
 
-I did not ever use ChatGPT when learning a new concept within the course as I felt the materials provided and the professors explanations were enough for me to understand and replicate what I had learnt. I also never used any kind of AI when asking or answering a question within the class or on the ICS 314 Discord, as many of the questions asked could not be answered via AI, as many of them were practical issues that required human cognition and response. The same can be said for the smart-questions that we defined towards the middle of the semester. Occasionally, I would ask ChatGPT to provide a coding example to confirm that I understood something before I would implement it. For example, when *doing something here* I asked ChatGPT, “quotation here*?” ChatGPT responded by providing me with the following code and explanation:
+I did not ever use ChatGPT when learning a new concept within the course as I felt the materials provided and the professors explanations were enough for me to understand and replicate what I had learnt. I also never used any kind of AI when asking or answering a question within the class or on the ICS 314 Discord, as many of the questions asked could not be answered via AI, as many of them were practical issues that required human cognition and response. The same can be said for the smart-questions that we defined towards the middle of the semester. Occasionally, I would ask ChatGPT to provide a coding example to confirm that I understood something before I would implement it. For example, when we first began using Simple Schema, I wanted to better understand how the collections worked with the schema. I asked ChatGPT, “How do collections typically work using Simple Schema?” ChatGPT responded by providing me with the following code and explanation:
 
-*code and explanation here*
+*SimpleSchema in Meteor.js helps define and validate MongoDB document schemas. Here's a concise example:*
 
-The same can be said for times where I was presented with a piece of code but was unable to understand how it worked, or through why it worked. For example, *bring up like murphy example or something for how asked explained*. As for writing code, I have used ChatGPT which is present within the example I gave earlier, when I used it for the final project to track the appearance of the dumbbell images within the weekly calendar found on the profile page within the application. I do not believe that I ever used ChatGPT to document code, as I would tend to go through and manually document the code myself so that I could justify that I understood the code itself. ChatGPT has been very useful at times when I am checking for quality assurance within any file project. Typically I would make use of the AI when I was encountering an error that I could not comprehend or merely find. A good example of this would be when I was *example here and what asked ChatGPT*
+```jsx
+import SimpleSchema from 'simpl-schema';
+import { Mongo } from 'meteor/mongo';
 
-*code here*
+// Define a collection
+export const Books = new Mongo.Collection('books');
+
+// Define schema for 'books' collection
+const BookSchema = new SimpleSchema({
+  title: String,
+  author: String,
+  publishedAt: Date
+});
+
+Books.attachSchema(BookSchema);
+
+// Insert document (data validated against schema)
+Books.insert({
+  title: 'The Great Gatsby',
+  author: 'F. Scott Fitzgerald',
+  publishedAt: new Date('1925-04-10')
+});
+```
+
+The same can be said for times where I was presented with a piece of code but was unable to understand how it worked, or through why it worked. For example, *bring up like murphy example or something for how asked explained*. As for writing code, I have used ChatGPT which is present within the example I gave earlier, when I used it for the final project to track the appearance of the dumbbell images within the weekly calendar found on the profile page within the application. I do not believe that I ever used ChatGPT to document code, as I would tend to go through and manually document the code myself so that I could justify that I understood the code itself. ChatGPT has been very useful at times when I am checking for quality assurance within any file project. Typically I would make use of the AI when I was encountering an error that I could not comprehend or merely find. A good example of this would be when I was working on recreating a site of our choice using Meteor. I had completed everything, but couldn't help notice that there was a border around the entire page that I wasn't able to get rid of no matter all the different CSS and component changes I made. Eventually, I decided to ask ChatGPT, "How can I get rid of the thin white border around my Meteor project?" and provided it with the CSS code, as I believed it to be the issue. ChatGPT then suggested that there could be an automatic padding being applied to the site, and that to change it I had to modify the css of the root of the page. Low and behold, this was found to be the case and the AI then gave me the following code to include within my CSS file in order to fix the issue:
+
+```jsx
+div#root {
+  padding: 0;
+}
+```
 
 For other uses outside of just the course of ICS 314: Software Engineering I, I have found ChatGPT to be a helpful tool with other coding assignments and learning experiences. At the time of writing this, I am also currently taking EE 367: Computer Data Structures and Algorithms. Within the class, many assignments require the use of various algorithms in the programming language of C, with some of these assignments being quite difficult even after having the professor explain it. I find ChatGPT helpful when completing these, as it can guide me through each line of code and assist with any errors I encounter. Outside of academia altogether, I have found ChatGPT to be helpful when trying to generate new ideas for things, whether it be a name, a title, etc. I use it mainly due to the fact that when starting something new, I tend to get writer’s block when starting and find it hard to generate a starting point to then build off of. A similar example to this is the mention of how I used ChatGPT to help me generate alliterative titles and headers for my essays, in order to catch the reader’s eye and keep them interested. This usage of the AI is even present within this essay itself, apparent by the alliteration present within the title and headers.
 
