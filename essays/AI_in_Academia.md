@@ -115,7 +115,6 @@ run.printNoXFact();
 // "84.67"
 ```
 
-## Programming Partnership
 
 ### 4. Essays
 
