@@ -116,11 +116,11 @@ run.printNoXFact();
 ```
 
 
-### 4. Essays
+### 4. Technical Essays
 
 As for the technical essays that we were required to write over the course of the semester, I did not use ChatGPT as I personally enjoy writing and also have my own unique style when it comes to writing essays. This style of writing that I have uses different sentence forms and grammar layouts, which is something that I have found that AI cannot replicate. The only thing I did use ChatGPT for in regards to the essays is to help me brainstorm a title and some headers for each essay, as I decided to have them all use alliteration and would sometimes struggle with finding good words to express the paper and each section within it. 
 
-### 5. Final project
+### 5. Final Project
 
 For the final project of the class, I have been working in a group to develop a web application called UH Companion, which works as a social media app that allows for UH students to connect with other students and find gym partners to plan workout events with. My team and I are currently still working on at the time of writing this, I have been incorporating the use of ChatGPT mainly when I am unsure of how to implement a feature I want into the web application we have been developing. 
 
@@ -158,19 +158,19 @@ When adding a weekly calendar to a user’s profile page, I had included an imag
   };
 ```
 
-### 6. Learning a concept / tutorial
+### 6. Learning a New concept or Tutorial
 
 I did not ever use ChatGPT when learning a new concept within the course as I felt the materials provided and the professors explanations were enough for me to understand and replicate what I had learnt. 
 
-### 7. Answering a question in class or in Discord
+### 7. Answering a Question in Class or in Discord
 
 I also never used any kind of AI when asking or answering a question within the class or on the ICS 314 Discord, as many of the questions asked could not be answered via AI, as many of them were practical issues that required human cognition and response. 
 
-### 8. Asking or answering a smart-question
+### 8. Asking or Answering a Smart-Question
 
 Similarly to any questions within class or on Discord, I did not feel it necessary to use AI for the smart-questions that we defined towards the middle of the semester. The purpose of many of these questions was not only to get assistance, but to also practice communicating effectively within a software environment.
 
-### 9. Coding example
+### 9. Coding Examples
 
 Occasionally, I would ask ChatGPT to provide a coding example to confirm that I understood something before I would implement it. For example, when we first began using Simple Schema, I wanted to better understand how the collections worked with the schema. I asked ChatGPT, “How do collections typically work using Simple Schema?” ChatGPT responded by providing me with the following code and explanation:
 
@@ -200,19 +200,19 @@ Books.insert({
 });
 ```
 
-### 10. Explaining code
+### 10. Explaining Code
 
 I did not use any AI when I needed an explanation of code, as I felt that any reponse that ChatGPT could give me could be found through a simple search on Stack Exchange. therefore, I felt it was not necessary to inquire about a code's functionality.
 
-### 11. Writing code
+### 11. Writing Code
 
 As for writing code, I have used ChatGPT which is present within the example I gave earlier, when I used it for the final project to track the appearance of the dumbbell images within the weekly calendar found on the profile page within the application. 
 
-### 12. Documenting code
+### 12. Documenting Code
 
 I do not believe that I ever used ChatGPT to document code, as I would tend to go through and manually document the code myself so that I could justify that I understood the code itself. 
 
-### 13. Quality assurance
+### 13. Quality Assurance
 
 ChatGPT has been very useful at times when I am checking for quality assurance within any file project. Typically I would make use of the AI when I was encountering an error that I could not comprehend or merely find. A good example of this would be when I was working on recreating a site of our choice using Meteor. I had completed everything, but couldn't help notice that there was a border around the entire page that I wasn't able to get rid of no matter all the different CSS and component changes I made. Eventually, I decided to ask ChatGPT, "How can I get rid of the thin white border around my Meteor project?" and provided it with the CSS code, as I believed it to be the issue. ChatGPT then suggested that there could be an automatic padding being applied to the site, and that to change it I had to modify the css of the root of the page. Low and behold, this was found to be the case and the AI then gave me the following code to include within my CSS file in order to fix the issue:
 
@@ -222,7 +222,7 @@ div#root {
 }
 ```
 
-### 14. Other uses in ICS 314 not listed
+### 14. Other Uses in ICS 314 Not Listed
 
 For other uses outside of just the course of ICS 314: Software Engineering I, I have found ChatGPT to be a helpful tool with other coding assignments and learning experiences. At the time of writing this, I am also currently taking EE 367: Computer Data Structures and Algorithms. Within the class, many assignments require the use of various algorithms in the programming language of C, with some of these assignments being quite difficult even after having the professor explain it. I find ChatGPT helpful when completing these, as it can guide me through each line of code and assist with any errors I encounter. Outside of academia altogether, I have found ChatGPT to be helpful when trying to generate new ideas for things, whether it be a name, a title, etc. I use it mainly due to the fact that when starting something new, I tend to get writer’s block when starting and find it hard to generate a starting point to then build off of. A similar example to this is the mention of how I used ChatGPT to help me generate alliterative titles and headers for my essays, in order to catch the reader’s eye and keep them interested. This usage of the AI is even present within this essay itself, apparent by the alliteration present within the title and headers.
 
