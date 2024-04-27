@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img width="350px" height="300px"
+<img width="375px" height="325px"
      class="rounded float-start pe-4" 
      src="../img/academia/ai-robot-coding.jpeg" >
 
