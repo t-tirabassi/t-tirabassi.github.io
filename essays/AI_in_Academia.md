@@ -266,7 +266,7 @@ In a traditional academic setting, students are also able to retain knowledge mu
 
 Similarly, this can be applied to skill development, as the time spent physically on building a skill is vital to actually learning it. For example, say you wish to become better at shooting three-pointers in basketball. You decide that you’re going to watch a bunch of NBA three-pointer shot videos to develop this skill. After watching these videos for 20 minutes, you then believe you are now better at taking these shots. However, you’re going to find that you haven’t improved, and that you are at the same spot you began in. On the other side of things, say instead you dedicate an hour a day to practicing these shots. You manage to stay consistent for a month, and then decide to test your skills. By practicing and progressing exponentially over this time, you’ll find that you have improved, because you were physically and mentally there and applying yourself. No one was forcing you to practice and you could’ve stopped at any time, but you kept consistent and achieved the result you desired. Therefore, if you wish to become better at anything, whether it is software engineering or not, you must put in the time and effort in order to not only achieve what you want, but to also benefit yourself in the process.
 
-<img width="550px" height="550px"
+<img width="400px" height="400px"
      class="rounded float-start pe-4" 
      src="../img/academia/ai-robot-coding-2.jpeg" >
 
