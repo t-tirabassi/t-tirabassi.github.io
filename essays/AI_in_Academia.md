@@ -228,6 +228,8 @@ div#root {
 
 For other uses outside of just the course of ICS 314: Software Engineering I, I have found ChatGPT to be a helpful tool with other coding assignments and learning experiences. At the time of writing this, I am also currently taking EE 367: Computer Data Structures and Algorithms. Within the class, many assignments require the use of various algorithms in the programming language of C, with some of these assignments being quite difficult even after having the professor explain it. I find ChatGPT helpful when completing these, as it can guide me through each line of code and assist with any errors I encounter. Outside of academia altogether, I have found ChatGPT to be helpful when trying to generate new ideas for things, whether it be a name, a title, etc. I use it mainly due to the fact that when starting something new, I tend to get writer’s block when starting and find it hard to generate a starting point to then build off of. A similar example to this is the mention of how I used ChatGPT to help me generate alliterative titles and headers for my essays, in order to catch the reader’s eye and keep them interested. This usage of the AI is even present within this essay itself, apparent by the alliteration present within the title and headers.
 
+&nbsp;
+
 ## Lending to Learning
 
 <img width="500px" height="300px"
