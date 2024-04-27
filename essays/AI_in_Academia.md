@@ -20,7 +20,7 @@ labels:
 
 Artificial Intelligence or AI is not only becoming more advanced within the modern day, but also much more prevalent, particularly within academia. Within educational discussions, there is currently the debate of how AI is impacting the education system, and whether or not its use is seen as positive or negative. On one hand, AI can be seen as a tool that can be used as a type of easily accessible support tool for students, while on the other hand it can be argued that students may rely too heavily on the use of AI, passing AI generated work off as their own and not learning the subject properly. Both of these cases hold equal weight, with evidence to support the claims made from these two sides. Software engineering is a field that I personally feel has benefitted from the use of AI, supported by my personal use of ChatGPT as somewhat of a tool or assistant within my programming. The key part here is that while I have used ChatGPT as a tool, I have not completely depended on it, and use it purely as a supportive academic tool within my current software engineering course ICS 314: Software Engineering I. 
 
-### ___________________________________________________________________________________________
+&nbsp;
 
 To gain a better understanding of the usage of AI within an academic setting, let’s take a look at how I have used it through different elements of the course:
 
