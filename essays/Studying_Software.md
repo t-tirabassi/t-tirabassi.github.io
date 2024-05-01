@@ -12,9 +12,9 @@ labels:
   - Web Application Development
 ---
 
-<img width="325px" height="375px"
+<img width="350px" height="350px"
      class="rounded float-start pe-4" 
-     src="../img/academia/ai-robot-coding.jpeg" >
+     src="../img/studying/software-3d.png" >
 
 ## A Software Saga
 
