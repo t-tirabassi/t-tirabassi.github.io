@@ -12,13 +12,15 @@ labels:
   - Web Application Development
 ---
 
-<img width="350px" height="350px"
+<img width="250px" height="250px"
      class="rounded float-start pe-4" 
      src="../img/studying/software-3d.png" >
 
 ## A Software Saga
 
 Software engineering is the field of computer science that encompasses the design, development, testing, and management of software applications. Through practice, assessment, and real world applications, I have not only learned many different concepts from my education on software engineering, but have developed essential skills that I can utilize moving forward both in my career and personal life. The course in question is ICS 314: Software Engineering I here at the University of Hawai’i at Manoa. This course teaches students the fundamental concepts of software engineering while allowing students to work with real world challenges they may face if they wish to pursue software engineering as a career. This learning process is accomplished through at home practice, in class assessment, and a final collaborative project. This course has not only taught me a lot about software engineering, but has also inspired me to pursue it as a part of my career. While I don’t have the time to discuss everything that I have learned in this short amount of time, allow me to instead focus on what I found to be the most influential concepts that I have learned, concepts of which will continue to influence my work moving forward.
+
+&nbsp;
 
 ## UI Unisons & Framework Fusions
 
@@ -101,11 +103,13 @@ export default NavBar;
 
 As you can see, these frameworks can import classes and icons that contribute to the functionality and appearance of the user interface. Essentially these frameworks can condense unnecessarily long code into a single word, which may not seem like much, but makes a huge difference in the time spent coding each line. In this instance, the classes that are imported are used to easily structure the different elements of the Navbar, as well as its features. The icons are also very helpful to have, as React-Bootstrap has a whole catalog of icons that you incorporate into your project based on the context for which you wish to use them. For example, the icons used in the Navbar are a part of the dropdown menu, which allows users to login, sign out, etc. These icons prove helpful as the user can easily identify what these icons mean in relation to the way that they navigate the site. If the user sees the PersonFill icon, they can recognize the connection that has to a profile, and understand that this is where they are meant to login to the application. This makes the application more accessible and makes it easier for first time users to understand how it works as well as how to navigate it.
 
-<img width="425px" height="350px"
+<img width="325px" height="250px"
      class="rounded float-start pe-4" 
      src="../img/studying/ui-3d.png" >
 
 I believe that UI frameworks are essential in becoming a software engineer, mainly for reasons mentioned previously such as efficiency and communication. The purpose of these frameworks are to be used as building blocks that software engineers can make use of to accomplish their goals. I feel that these frameworks should also be fundamental in the education of software engineering, as it can allow for those unfamiliar with software development to develop stronger skills that are desirable in the workplace. Using these frameworks may also prove quite useful when tackling personal or passion projects, as one of the main factors to account for with any project or challenges is the prospect of time. Utilizing UI frameworks has many benefits and are vital tools within the field of ever changing landscape of software engineering. 
+
+&nbsp;
 
 ## Issue Driven Initiative
 
