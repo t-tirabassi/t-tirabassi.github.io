@@ -15,9 +15,9 @@
   },
   "interests": [
     { "name": "Game Development" },
-    { "name": "Software Programming" },
+    { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Robotics" },
+    { "name": "Mobile Application Development" },
     { "name": "3D Graphics" }
   ],
   "skills": [
@@ -46,7 +46,7 @@
   "work": [
     {
       "company": "UH Manoa Information Technology Services",
-      "position": "IT Help Desk Consultant",
+      "position": "ITS Help Desk Consultant",
       "website": "",
       "startDate": "2024-02-06",
       "endDate": "Present",
