@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Studying_Software: Insights from Engineering Endeavors"
+title: "Studying Software: Insights from Engineering Endeavors"
 date: 2024-04-30
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
