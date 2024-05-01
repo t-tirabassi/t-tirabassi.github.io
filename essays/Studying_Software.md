@@ -109,11 +109,11 @@ I believe that UI frameworks are essential in becoming a software engineer, main
 
 ## Issue Driven Initiative
 
-<img width="500px" height="300px"
-     class="rounded float-start pe-4" 
-     src="../img/academia/ai-robot-coding-4.jpeg" >
-
 Issue Driven Project Management (IDPM), also known as Agile Project Management, is a form of project management that allows for groups of developers working together to efficiently keep track of and complete their end goal. IDPM usually consists of a maintained group work schedule, dividing tasks and assigning them to individual group members, working on each task within its own branch, the documentation of each task and its completion, as well milestones which serve to designate the different stages of the project and the deadlies associated with each group of tasks. IDPM is an effective method of planning out a project, working on it collaboratively, and for holding accountability for all those involved. This style of project management benefits heavily from its structure and versatility when it comes to various projects, and can even be applied to other fields outside the realm of computer science.
+
+<img width="350px" height="350px"
+     class="rounded float-start pe-4" 
+     src="../img/studying/idpm-3d.png" >
 
 The experience that I have gained with practicing Issue Drive Project Management comes from the incorporation of it into the final group project for Software Engineering I. For this project, my group and I were tasked with building a web application that could allow students to find and connect with other students to go to the on campus gym. To follow IDPM guidelines, we first planned out which two days of the week we would be able to meet in order to work on the project, and also brainstormed ideas for the start of the project. We then compiled these ideas into a Github Project as issues for the first milestone. This allowed for an organized list of tasks to accomplish and also acted as a checklist of sorts. Working towards this, we each took up different tasks and worked on them in individual branches separate from the main branch, and named each of these branches according to their designated issues numbers. Once each issue was completed, that group member would then assign that issue as done and notify the group of what they had accomplished and that they would be merging those changes into the main branch. On the days that we would meet, we would each discuss what we had been working on, what we had completed, and assist one another with any issues that arose. This routine continued through each milestone until the final product was completed. To better understand how we achieved this while following the guidelines set out for IDPM, feel free to visit [https://github.com/UH-RepCompanion](https://github.com/UH-RepCompanion), which is the Github organization that my group and I had formed for this project. From here, you can view the different accomplishments we achieved at different milestones throughout the project.
 
@@ -121,5 +121,9 @@ Overall, I feel that moving forward I can use this style of project management n
 
 
 ## The Essence of Engineering
+
+<img width="350px" height="350px"
+     class="rounded float-start pe-4" 
+     src="../img/studying/software2-3d.png" >
 
 Both the usage of User Interface Frameworks and Issue Drive Project Management are only two out of a plethora of knowledge that I have gained throughout my education on software engineering. Honorable mentions for these other fundamentals include the practice of open source software development, which is essentially allowing code from a project to be publicly available inviting use and modification, coding standards, which are fundamental conventions that developer should follow when writing code for readability and neatness, as well as the ethics of software engineering, which allows software engineers to reflect on the rapidly changing landscape of the field, especially with the rise of AI within the past few years. Speaking of which, I have also written an essay regarding my usage of AI in software engineering, which you can [here](https://t-tirabassi.github.io/essays/AI_in_Academia.html). Once again, these are only a few of the things that I have learned and hope to continue to carry this knowledge with me moving forward. In fact, I plan on furthering my knowledge of software engineering through future courses, which will hopefully lead to the start of my career within the field. As a whole, I can say that software engineering has taught me many vital concepts and its impact on my journey through the growing technological landscape cannot be understated.
