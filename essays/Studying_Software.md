@@ -12,7 +12,7 @@ labels:
   - Web Application Development
 ---
 
-<img width="375px" height="325px"
+<img width="325px" height="375px"
      class="rounded float-start pe-4" 
      src="../img/academia/ai-robot-coding.jpeg" >
 
@@ -100,6 +100,10 @@ export default NavBar;
 ```
 
 As you can see, these frameworks can import classes and icons that contribute to the functionality and appearance of the user interface. Essentially these frameworks can condense unnecessarily long code into a single word, which may not seem like much, but makes a huge difference in the time spent coding each line. In this instance, the classes that are imported are used to easily structure the different elements of the Navbar, as well as its features. The icons are also very helpful to have, as React-Bootstrap has a whole catalog of icons that you incorporate into your project based on the context for which you wish to use them. For example, the icons used in the Navbar are a part of the dropdown menu, which allows users to login, sign out, etc. These icons prove helpful as the user can easily identify what these icons mean in relation to the way that they navigate the site. If the user sees the PersonFill icon, they can recognize the connection that has to a profile, and understand that this is where they are meant to login to the application. This makes the application more accessible and makes it easier for first time users to understand how it works as well as how to navigate it.
+
+<img width="325px" height="375px"
+     class="rounded float-start pe-4" 
+     src="../img/studying/ui-3d.png" >
 
 I believe that UI frameworks are essential in becoming a software engineer, mainly for reasons mentioned previously such as efficiency and communication. The purpose of these frameworks are to be used as building blocks that software engineers can make use of to accomplish their goals. I feel that these frameworks should also be fundamental in the education of software engineering, as it can allow for those unfamiliar with software development to develop stronger skills that are desirable in the workplace. Using these frameworks may also prove quite useful when tackling personal or passion projects, as one of the main factors to account for with any project or challenges is the prospect of time. Utilizing UI frameworks has many benefits and are vital tools within the field of ever changing landscape of software engineering. 
 
