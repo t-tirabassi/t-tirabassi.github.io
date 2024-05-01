@@ -126,7 +126,7 @@ Overall, I feel that moving forward I can use this style of project management n
 
 ## The Essence of Engineering
 
-<img width="350px" height="350px"
+<img width="250px" height="250px"
      class="rounded float-start pe-4" 
      src="../img/studying/software2-3d.png" >
 
