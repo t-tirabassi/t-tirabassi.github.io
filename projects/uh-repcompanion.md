@@ -8,6 +8,7 @@ published: false
 labels:
   - Meteor
   - React
+  - Bootstrap
   - MongoDB
   - Software Engineering
   - Web Application Development
