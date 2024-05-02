@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/repcompanion/uh-repcompanion.png
 title: "UH RepCompanion"
-date: 2024-05-01
+date: 2024-05-05
 published: false
 labels:
   - Meteor
