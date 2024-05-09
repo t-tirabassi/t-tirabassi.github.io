@@ -438,5 +438,5 @@ int main() {
 ```
 
 </div>
-(Unfortunately, the path to the original GitHub file from the course is privated)
+(Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
 
