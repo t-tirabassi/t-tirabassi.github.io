@@ -4,7 +4,7 @@ type: project
 image: img/repcompanion/uh-repcompanion.png
 title: "UH RepCompanion"
 date: 2024-05-05
-published: false
+published: true
 labels:
   - Meteor
   - React
@@ -45,4 +45,12 @@ In regards to linking the calendar to the schedule, I channged its original usag
 
 This project managed to teach me a lot about collaborative projects especially within a software engineering setting. This experience gave me a sense of how software engineers opearet within th workforce, along with the organization and efficient use of time that one must have. I feel that I was able to develop a stronger sense of communication whle working within a group, and the importance of documentation throughout development. By following the style of Issue Driven Project Management (IDPM), I learned to slowly build upon a foundation by taking each addition step by step, which was important when attempting to decipher any issues that would arise especially upon merging. I also learned more technical skills such as the deployment aspect of a web application, as well the means to acquiring custom domains. On top of that, I learned of a lot more functions and features that I can incorporate into my future works, mainly driven by the research done when I was attempting to add a new feature such as the weekly calendar mentioned previously. Overall, this experience gave me insight into how these projects are carried out within real world settings, and has prepared me for my future endeavors and career within software engineering.
 
+&nbsp;
+
 If you would like to see the final results of this project, feel free to visit [https://uh-repcompanion.github.io/](https://uh-repcompanion.github.io/)
+
+To better understand the inner workings of the application, please visit [https://github.com/UH-RepCompanion/RepCompanion-1](https://github.com/UH-RepCompanion/RepCompanion-1)
+
+In order to access the deployed application, you can visit [https://uhrepcompanion.site/](https://uhrepcompanion.site/)
+
+(Note: Based on the time period in which you are attempting to access the deployed application, it may no longer be accessible.)
