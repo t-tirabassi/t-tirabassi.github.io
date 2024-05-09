@@ -4,7 +4,7 @@ type: project
 image: img/pendulum/pendulum.png
 title: "Simple Pendulum"
 date: 2022-04-17
-published: true
+published: false
 labels:
   - Engineering
   - Physics
