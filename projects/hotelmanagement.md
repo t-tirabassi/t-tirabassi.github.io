@@ -24,7 +24,7 @@ summary: "My team and I created a basic hotel management system in the language 
 
 Here is the README file for the project that details the group members, what each group member's tasks were, and an overview of the code. As you can see, my tasks for this project included creating the Hotel class, the room mangagement system functions, creating a way for users to search for a customer within the system, and debugging the whole system.
 
-```txt
+```cpp
 Group 6 Hotel Management System
 
 Group Members:
