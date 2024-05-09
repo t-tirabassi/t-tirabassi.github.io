@@ -97,8 +97,10 @@ Here, they would enter one of the main menu options and follow the subsequential
 We developed the system within VS Code as such:
 
 <img width="700px" height="500px"
-     class="rounded float-start pe-4" 
+     class="rounded float-center pe-4" 
      src="../img/hotelmanagement/Screen Shot 2024-05-09 at 1.33.44 PM.png" >
+
+&nbsp;
 
 ### Learning Outcomes
 
