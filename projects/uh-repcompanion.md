@@ -28,7 +28,7 @@ UH RepCompanion was the result of the final project for the course ICS 314: Soft
 
 The application itself allows University of Hawai'i student to register using their UH email and create a profile for themselves consisting of their name, major, a short biography, a profile picture, workout interests, a tag to designate their level of experience, and optionally social media. Through the application, users can view upcoming workout events created by other users and then connect with that user for that event. Users can also search through other users profiles to connect with others who may share similar workout interests or share the same experience level. Essentially, UH RepCompanion works as a type of social media application for UH students interested in fitness, where they can connect with others and plan out workouts with a gym buddy.
 
-<img width="280px" height="370px"
+<img width="290px" height="380px"
     class="float-end pe-4" 
      src="../img/repcompanion/UH-RepCompanion-17.png" >
 
