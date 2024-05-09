@@ -76,6 +76,7 @@ Upon running the program users would be presented with this menu within the cons
 
 &nbsp;
 
+```cpp
 ######## Hotel Management #########
 
 1. Manage Rooms
@@ -86,7 +87,8 @@ Upon running the program users would be presented with this menu within the cons
 6. Guest Summary Report
 7. Exit
 
-Enter Option: 
+Enter Option:
+```
 
 &nbsp;
 
