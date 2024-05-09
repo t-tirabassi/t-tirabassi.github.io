@@ -40,7 +40,77 @@ For each milestone of the project, each member within my group was assigned a fe
 
 In the second milestone, designated as M2, I was tasked with revising the Landing Page not only in styliziation, but also in providing a more in depth introduction to the application and its functionalities. I took the time to create a unique style that could be used across the site, starting with the Landing Page as once again it would be the first thing users are introduced to. I also updated the layout of different access points to other pages, as the original layout was very bare-bones and not clear for users. As for the informational component found on the Landing Page, I provided photos to accompany the descriptions of the app to match the professionalism found with other gym sites, such as 24 Hour Fitness. This gives the user a visualization of what they can accomplish in using the application, as well as its purpose. Apart from those two tasks, I was also assigned to implement a calendar feature on the user's Profile Page, which had been one of the ideas my group and I had brainstormed during our initial planning process. To do this, I constructed a table that would display a weekly calendar, and then the user could then click on that day for a dumbell icon to appear, which would act as a way for the user to personally keep track of what days they planned on working out, allowing them to create a personal routine. This would coenside with user Events, in which a user would create a workout event on the Event Page detailing the day they plan to workout, a short description of their routine, what equipment they plan on using, who created it, and when it was created. This event would also appear on the user's Profile Page underneath their profile card. Other users could then view their profile, see which weekdays they will be working out, and then see what the workout entails. From here, that user can then connect with the creator of th workout if they wish to join them. This milestone was where the shape of the application really began to take place and where some of the more major features were incorporated.
 
-For the third and final milestone, the tasks that I was assigned to complete was implementing a way for user's to include their social media links which would then appear on their profile, fixing the informational footer's format and style, incorporating dynamic image sizing into user profile pictures, linking the weekly calendar to the user's schedule, styling the event cards, and adding accessibility to the Events and Finder page upon login. To implement the social links, I first had to update the Profiles collection so that upon submitting the form whether it be through registration or editing their profile, a user's social media would be tied to their accounts within the database. After doing this, I then incorporated a url identification which would then check the links being input into the form to verify whether or not they were valid. The social links available to a user were limited to Instagram, Discord, LinkedIn, Snapchat Facebook, and Twitter. This identification process would check to see that these links matched the expression of these social media platforms, and would pass if validated. Within the Profile Page, I then implemented a function that used different cases to display only the social links that the user chose to add to their profile, represented by an icon for that social media platform, which also served as a link that other users could clik on to visit that users social media. For example, if a user were input a link to their Instagram account, it would then check and validate whether or not the link is a valid Instagram link, then display the Instagram icon on their profile, which when upon clicking said icon, would redirect them to that user's Instagram page.
+For the third and final milestone, the tasks that I was assigned to complete was implementing a way for user's to include their social media links which would then appear on their profile, fixing the informational footer's format and style, incorporating dynamic image sizing into user profile pictures, linking the weekly calendar to the user's schedule, styling the event cards, and adding accessibility to the Events and Finder page upon login. To implement the social links, I first had to update the Profiles collection so that upon submitting the form whether it be through registration or editing their profile, a user's social media would be tied to their accounts within the database. After doing this, I then incorporated a url identification which would then check the links being input into the form to verify whether or not they were valid. The social links available to a user were limited to Instagram, Discord, LinkedIn, Snapchat Facebook, and Twitter. This identification process would check to see that these links matched the expression of these social media platforms, and would pass if validated. Within the Profile Page, I then implemented a function that used different cases to display only the social links that the user chose to add to their profile, represented by an icon for that social media platform, which also served as a link that other users could clik on to visit that users social media. For example, if a user were input a link to their Instagram account, it would then check and validate whether or not the link is a valid Instagram link, then display the Instagram icon on their profile, which when upon clicking said icon, would redirect them to that user's Instagram page. Here's how the incorporation of these social links works in the code:
+
+```jsx
+  const renderIconForSocialLink = (platform, link) => {
+    if (link) {
+      let IconComponent;
+      let url;
+
+      switch (platform) {
+      case 'Instagram':
+        IconComponent = Instagram;
+        url = `https://instagram.com/${link}`;
+        break;
+      case 'Discord':
+        IconComponent = Discord;
+        url = `https://discord.com/${link}`;
+        break;
+      case 'LinkedIn':
+        IconComponent = Linkedin;
+        // eslint-disable-next-line no-unused-vars
+        url = `https://linkedin.com/in/${link}`;
+        break;
+      case 'Snapchat':
+        IconComponent = Snapchat;
+        url = `https://www.snapchat.com/add/${link}`;
+        break;
+      case 'Facebook':
+        IconComponent = Facebook;
+        url = `https://www.facebook.com/${link}`;
+        break;
+      case 'Twitter':
+        IconComponent = Twitter;
+        // eslint-disable-next-line no-unused-vars
+        url = `https://twitter.com/${link}`;
+        break;
+      default:
+        // If the platform is not recognized, return null
+        return null;
+      }
+
+      // Render the icon with the corresponding link
+      return (
+        <Col xs="auto" className="text-center" key={platform}>
+          {/* eslint-disable-next-line jsx-a11y/control-has-associated-label */}
+          <a href={link} target="_blank" rel="noopener noreferrer">
+            <IconComponent className="mt-2 icon" />
+          </a>
+        </Col>
+      );
+    }
+    return null; // Return null if the link is not present
+
+  };
+
+  // Function to render icon links based on social media platforms
+  const renderSocialLinks = () => (
+    <Row>
+      {profile && (
+        <>
+          {renderIconForSocialLink('Instagram', profile.socialLink1)}
+          {renderIconForSocialLink('Discord', profile.socialLink2)}
+          {renderIconForSocialLink('LinkedIn', profile.socialLink3)}
+          {renderIconForSocialLink('Snapchat', profile.socialLink4)}
+          {renderIconForSocialLink('Facebook', profile.socialLink5)}
+          {renderIconForSocialLink('Twitter', profile.socialLink6)}
+          {/* Add more social links as needed */}
+        </>
+      )}
+    </Row>
+  );
+```
 
 <img width="370px" height="400px"
     class="float-end pe-4" 
