@@ -90,8 +90,6 @@ Upon running the program users would be presented with this menu within the cons
 Enter Option:
 ```
 
-&nbsp;
-
 Here, they would enter one of the main menu options and follow the subsequential prompts for each. From there, they would also be able to return to this main menu at any time.
 
 &nbsp;
