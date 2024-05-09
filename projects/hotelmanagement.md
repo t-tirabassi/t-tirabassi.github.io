@@ -24,7 +24,7 @@ summary: "My team and I created a basic hotel management system in the language 
 
 &nbsp;
 
-Upon running the program users would be presented with:
+Upon running the program users would be presented with this menu within the console:
 
 &nbsp;
 
