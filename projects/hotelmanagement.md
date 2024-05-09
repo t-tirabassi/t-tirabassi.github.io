@@ -22,6 +22,54 @@ summary: "My team and I created a basic hotel management system in the language 
 
   The Hotel Management System Project was a final project for the course ICS 212 in which we had to construct a basic hotel management syetm in C++. The class was divided into teams of 5 or 6 and we were all responsible for programming different sections of the code and then putting the program together. I took the lead in this project, by guiding my team and fine-tuning the program. My team and I used cstring arrays, structures, and class derivation to achieve this goal. We went through several different versions of the program, in which we were encountering bugs in our original implementation of a vector aproach. I took on the role of debugging the majority of the program, and realized that a cstring approach would be much more manageable for the build. Using the framework of the original code, we developed a fully functioning hotel management system that would store user input, rely on a main menu with sub-menus present based on the user's input, and the ability to combine multiple system options into one displayable output.
 
+Here is the README file for the project that details the group members, what each group member's tasks were, and an overview of the code. As you can see, my tasks for this project included creating the Hotel class, the room mangagement system functions, creating a way for users to search for a customer within the system, and debugging the whole system.
+
+```txt
+Group 6 Hotel Management System
+
+Group Members:
+
+Zai 
+John
+Kayla
+JaySuh
+T
+
+Member Tasks:
+
+John - CheckIn, CheckOut, getSummaryReport, debugging
+
+JaySuh - Customer class, delete room, debugging
+
+Zai - Room Class, addRoom, available rooms, debugging
+
+Kayla - switch case statements, sub and main menu, debugging
+
+T - Hotel class, room management system functions, searchCustomer, debugging
+
+Code Overview:
+
+- Room class containing room details about room #, ac, comfort, etc. using constructors
+
+- Room details displayed through  function
+
+- Customer class conatainging and aligning with customer details (name, address, phone, stay duration, payment, etc.). Getter function for getting the booking ID by name for case 4. 
+
+- Customer details displayed through function
+
+- Hotel Management class inheriting from Room class using customer and room details, room management system, customer search, check-in check-out (payment calculations), availability, summary report, and menu display functions
+
+- main function containing do while loop for menu using switch case statement for options prompted through user input
+
+- idea for further iteration: make checkOut take checkIn and checkOut dates to automatically calculate bill without user input
+
+- avail rooms issue fixed, originally would iterate empty inputs, possibly due to input of enter for next records, had trouble trying to fix but is all working now
+
+- deleteRooms function fixed, would just pop back to main menu
+
+- other functionality and fundamental issues fixed using time given till Sunday
+```
+
 &nbsp;
 
 Upon running the program users would be presented with this menu within the console:
@@ -43,6 +91,10 @@ Enter Option:
 &nbsp;
 
 Here, they would enter one of the main menu options and follow the subsequential prompts for each. From there, they would also be able to return to this main menu at any time.
+
+We developed the system within VS Code as such:
+
+*here*
 
 ### Learning Outcomes
 
