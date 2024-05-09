@@ -15,7 +15,7 @@ summary: "I was tasked with creating a program to replicate a self-pay kiosk usi
 
 <img width="210px" 
      class="rounded float-start pe-4" 
-     src="../img/selfpay/selfpaykiosk3.jpeg" >
+     src="../img/selfpay/selfpaykiosk-3.jpeg" >
 
 ### Simulating Self-Pay
 
