@@ -18,7 +18,7 @@ labels:
 summary: "My team and I created UH Repcompanion, an application designed to connect University of Hawai'i students seeking gym partners."
 ---
 
-<img width="250px" height="250px"
+<img width="300px" height="300px"
      class="float-start pe-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
 
