@@ -20,7 +20,7 @@ summary: "My team and I created UH Repcompanion, an application designed to conn
 
 &nbsp;
 
-<img width="300px" height="300px"
+<img width="220px" height="200px"
      class="float-start pe-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
 
