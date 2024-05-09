@@ -22,6 +22,8 @@ summary: "My team and I created a basic hotel management system in the language 
 
   The Hotel Management System Project was a final project for the course ICS 212 in which we had to construct a basic hotel management syetm in C++. The class was divided into teams of 5 or 6 and we were all responsible for programming different sections of the code and then putting the program together. I took the lead in this project, by guiding my team and fine-tuning the program. My team and I used cstring arrays, structures, and class derivation to achieve this goal. We went through several different versions of the program, in which we were encountering bugs in our original implementation of a vector aproach. I took on the role of debugging the majority of the program, and realized that a cstring approach would be much more manageable for the build. Using the framework of the original code, we developed a fully functioning hotel management system that would store user input, rely on a main menu with sub-menus present based on the user's input, and the ability to combine multiple system options into one displayable output.
 
+&nbsp;
+
 Here is the README file for the project that details the group members, what each group member's tasks were, and an overview of the code. As you can see, my tasks for this project included creating the Hotel class, the room mangagement system functions, creating a way for users to search for a customer within the system, and debugging the whole system.
 
 ```cpp
@@ -73,8 +75,6 @@ Code Overview:
 &nbsp;
 
 Upon running the program users would be presented with this menu within the console:
-
-&nbsp;
 
 ```cpp
 ######## Hotel Management #########
