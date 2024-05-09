@@ -51,4 +51,4 @@ public class LabProgram {
    }
 }
 ```
-(Note: The original files are privated through the course site, so I am unable to link the full program for public viewing.)
+(Note: The original files are privated through the course site, so I am unable to access or link the full program for public viewing.)
