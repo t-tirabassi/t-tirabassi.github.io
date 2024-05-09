@@ -15,7 +15,6 @@ labels:
   - HTML
   - CSS
   - JSX
-  - Digital Ocean
 summary: "My team and I created UH Repcompanion, an application designed to connect University of Hawai'i students seeking gym partners."
 ---
 
