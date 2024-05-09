@@ -42,15 +42,13 @@ Enter Option:
 
 &nbsp;
 
-Here, they would enter an option and follow the subsequential prompts.
+Here, they would enter one of the main menu options and follow the subsequential prompts for each. From there, they would also be able to return to this main menu at any time.
 
 ### Learning Outcomes
 
   This project helped me to learn a lot, mainly when working in a collaborative and professional setting. Since each member of the team had to contribute various parts of the code for it then to be put together greatly reflected a real-world setting in a programming environment. I feel that this project not only tested my skills but also gave me insight in regards to the industries synonymous with programming. The experience also provided me with a great oppurunity to develop and improve my own leadership skills. It also helped to learn more about the different functionalities specifically within C++ and how they can be applied within both fictional and real world settings, all while offering intellectual challenges in the process of collaborative group work.
 
 Here is the full code that my team and I developed for the project:
-
-&nbsp;
 
 ```cpp
 #include <iostream>
