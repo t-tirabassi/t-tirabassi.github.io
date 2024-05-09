@@ -92,6 +92,8 @@ Enter Option:
 
 Here, they would enter one of the main menu options and follow the subsequential prompts for each. From there, they would also be able to return to this main menu at any time.
 
+&nbsp;
+
 We developed the system within VS Code as such:
 
 <img
