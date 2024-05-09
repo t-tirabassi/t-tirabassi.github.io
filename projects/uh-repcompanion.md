@@ -33,7 +33,7 @@ For each milestone of the project, each member within my group was assigned a fe
 &nbsp;
 
 <div style="text-align: center;">
-<img width="350px" height="650px"
+<img width="200px" height="450px"
      src="../img/repcompanion/UH-RepCompanion-17.png" >
 </div>
 
