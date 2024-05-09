@@ -52,15 +52,6 @@ Here is the full code that my team and I developed for the project:
 
 &nbsp;
 
-<style>
-  .code-container {
-    max-height: 400px; /* Adjust height as needed */
-    overflow: auto; /* Make the code block scrollable */
-  }
-</style>
-
-<div class="code-container">
-
 ```cpp
 #include <iostream>
 #include <string>
@@ -437,6 +428,5 @@ int main() {
 }
 ```
 
-</div>
 (Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
 
