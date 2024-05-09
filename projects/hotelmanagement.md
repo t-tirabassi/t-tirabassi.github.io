@@ -486,5 +486,5 @@ int main() {
 }
 ```
 
-(Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
+(Note: Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
 
