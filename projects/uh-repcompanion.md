@@ -21,7 +21,7 @@ summary: "My team and I created UH Repcompanion, an application designed to conn
 &nbsp;
 
 <img width="220px" height="200px"
-     class="float-start pe-4" 
+     class="rounded-circle float-start pe-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
 
 UH RepCompanion was the result of the final project for the course ICS 314: Software Engineering I, in which teams were tasked with developing a web application based on a set of given prompts. My group and I were tasked with developing a web application that would allow for university of Hawai'i students to connect with one another to find compatible gym companions who they could then workout with at the on campus gym, hence the name UH RepCompanion. This process of development followed Issue Drive Project Management (IDPM), more commonly referred to as Agile Project Management, which included a conistent group work schedule, prioritizing communication, dividing and assigning tasks to indidividual group member (with each task being separate within its own branch), documenting the development process, and three separate milestones to account for the different stages of development and progress we had made towards the final product. This approach allowed us to properly keep track of our advances towards the end goal for the application.
