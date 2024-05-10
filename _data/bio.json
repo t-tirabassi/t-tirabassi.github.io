@@ -71,25 +71,25 @@
   ],
   "volunteer": [
     {
+      "organization": "Association of Computer Machinery (ACM)",
+      "website": "",
+      "position": "",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "summary": "The world's largest educational and scientific computing society",
+      "highlights": [
+        "Club meetings"
+      ]
+    }
+    {
       "organization": "UH Manoa Game Dev Club",
       "website": "",
-      "position": "Organization involvement/interest",
+      "position": "",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "summary": "Uh Manoa club that focuses on the development of student produced game projects.",
       "highlights": [
         "Game Jams",
-        "Club meetings"
-      ]
-    },
-    {
-      "organization": "Association of Computer Machinery (ACM)",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "2023-08-21",
-      "endDate": "Present",
-      "summary": "The world's largest educational and scientific computing society",
-      "highlights": [
         "Club meetings"
       ]
     }
