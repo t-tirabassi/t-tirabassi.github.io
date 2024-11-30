@@ -15,11 +15,11 @@ labels:
      class="rounded float-start pe-4" 
      src="../img/studying/software-3d.png" >
 
-## Hi
+## Initial Impressions
 
 hello
 
-## hi
+## Deciding Development
 
 hello
 
@@ -37,7 +37,7 @@ hi
 
 hello
 
-## howdy
+## Conquering Challenges
 
 yee haw
 
@@ -50,7 +50,7 @@ epic
 epico
 
 
-## cool
+## Finally Finished Finance
 
 <img width="260px" height="250px"
      class="rounded float-start pe-4" 
