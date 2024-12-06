@@ -11,9 +11,9 @@ labels:
   - Professional Development
 ---
 
-<img width="285px" height="275px"
+<img width="210px" height="75px"
      class="rounded float-start pe-4" 
-     src="../img/studying/software-3d.png" >
+     src="../img/scaling/spirelogo.png" >
 
 ## Initial Impressions
 
@@ -21,13 +21,15 @@ At the beginning of the semester for ICS 414, I wasn't really sure what to expec
 
 We also were informed that the web application we would be devloping would be a financial projection and management decision tool for Spire Hawaii LLP, a local Certified Public Accountant (CPA) firm. After brainstroming a bit, we determined the name for our application, which would be "Spire Books". We also discussed how the site should look and concluded that we should base it off of the actual Spire Hawaii site in terms of design so it matches their professional aesthetic. From here, we began devlopment for the project.
 
-## Deciding Development
+## Coding Chronicles
 
 In light of our team name of Team Half & Half, our tasks regarding the project were more less split between front-end development and back-end development. For the first milestone our goal was to create several mockup pages that would make up the basis for our project. Since I was more confident with front-end development, my tasks for the milestone was to design the navbar and footer for the web application, allowing users to easily naviaget the site and visit the different pages for the site. While working on this milestone, I also created the logo for our web app, taking inspiration from the original Spire logo.
 
+
+
 ## Conquering Challenges
 
-*
+As with any other project or long term task, there were some challenges that were faced throughout the semester in terms of development. * 
 
 <img width="350px" height="350px"
      class="rounded float-start pe-4" 
