@@ -25,7 +25,9 @@ We also were informed that the web application we would be devloping would be a 
 
 In light of our team name of Team Half & Half, our tasks regarding the project were more less split between front-end development and back-end development. For the first milestone our goal was to create several mockup pages that would make up the basis for our project. Since I was more confident with front-end development, my tasks for the milestone was to design the navbar and footer for the web application, allowing users to easily naviaget the site and visit the different pages for the site. While working on this milestone, I also created the logo for our web app, taking inspiration from the original Spire logo.
 
-
+<img width="240px" height="230px"
+     class="rounded float-start pe-4" 
+     src="../img/scaling/finished.png" >
 
 ## Conquering Challenges
 
@@ -38,8 +40,8 @@ As with any other project or long term task, there were some challenges that wer
 
 ## Finally Finished Finance
 
-<img width="260px" height="250px"
+<img width="240px" height="230px"
      class="rounded float-start pe-4" 
-     src="../img/studying/software2-3d.png" >
+     src="../img/scaling/finished.png" >
 
 *
