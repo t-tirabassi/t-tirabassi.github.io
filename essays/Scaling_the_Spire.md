@@ -33,9 +33,9 @@ In light of our team name of Team Half & Half, our tasks regarding the project w
 
 As with any other project or long term task, there were some challenges that were faced throughout the semester in terms of development. * 
 
-<img width="350px" height="350px"
+<img width="300px" height="300px"
      class="rounded float-start pe-4" 
-     src="../img/studying/idpm-3d.png" >
+     src="../img/scaling/mountains.png" >
 
 
 ## Finally Finished Finance
