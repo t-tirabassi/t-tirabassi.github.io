@@ -31,9 +31,9 @@ At this point, we had reached Milestome 5, where our application as a whole was 
 
 For the last and final milestone, I did a little bit of testcafe implementations but my main task was to add additional user roles to the application. From the previous customer milestone, we received feedback on a few things, with one of these being the addition of different user roles for the web app. This was brought up as one of the main things to focus on, so I took it upon myself to implement this effectively. While difficult at first, I managed to successfully update the UserProfileCollection api and the Roles api to accomodate for the new roles made. I then removed the previous default accounts we had set in place and made new logins with each corresponding to a role. These roles consisted of the admin role who had access to all pages, the mod role which served as the role for analysts and forecast projectors, and finally the user role which was for the accountants who would input and upload the data from the spreadsheets.
 
-<img width="240px" height="230px"
+<img width="260px" height="250px"
      class="rounded float-start pe-4" 
-     src="../img/scaling/finished.png" >
+     src="../img/scaling/webappcoding.png" >
 
 ## Conquering Challenges
 
