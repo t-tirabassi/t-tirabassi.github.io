@@ -39,7 +39,8 @@ For the last and final milestone, I did a little bit of testcafe implementations
 
 <img width="300px" height="300px"
      class="rounded float-start pe-4" 
-     src="../img/scaling/mountains.png" >
+     src="../img/scaling/mountains.png" 
+     align = "right" >
 
 As with any other project or long term task, there were some challenges that were faced throughout the semester in terms of development and professional practice. I feel that one of the biggest challenges was team communication and coordination. While we did not run into issues within the development environment and did have some communication, I believe that had we had better and more frequent communication we could have accomplished much more for the project. Throughout most of the milestones, we were all working independently on various aspects of the web application which is obviously very common in a professional setting. However, there were points where it felt that the different parts we were working on felt more separate from one another rather than being made to call come together. 
 
