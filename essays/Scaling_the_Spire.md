@@ -11,11 +11,11 @@ labels:
   - Professional Development
 ---
 
+## Initial Impressions
+
 <img width="250px" height="80px"
      class="rounded float-start pe-4" 
      src="../img/scaling/spirelogo.png" >
-
-## Initial Impressions
 
 At the beginning of the semester for ICS 414, I wasn't really sure what to expect. I had some idea of how the course would be structured and knew that it would build off of what I had learned from ICS 314, but other than that I had no clue. On the first day of class, we were divided up into our groups for the semester and focused on creating a team name, a team contract, and deciding the beginning steps of development. After discussing a bit about our strengths in terms of software engineering, we found that not only were our skills split between front-end and back-end development but our devices were also split evenly between Windows and Mac. From there, we created a basic team contract for rules member should follow, keeping up with development, being professional, etc. 
 
