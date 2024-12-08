@@ -27,7 +27,7 @@ In light of our team name of Team Half & Half, our tasks regarding the project w
 
 For the second milestone, we prepared to meet with the customer to present our current application and to receive some feedback. In preparation for this milestone, I worked with the user profiles api and created a User Settings page. This page allowed users to update their account info, mainly their passwords. The following milestone was also a customer milestone where my tasks were split between cleaning up the User Settings page and implementing testcafe tests for a few of the different pages within our application.
 
-<img width="260px" height="250px"
+<img width="270px" height="260px"
      class="rounded float-start pe-4" 
      src="../img/scaling/webappcoding.png" >
 
