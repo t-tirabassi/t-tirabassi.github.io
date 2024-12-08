@@ -52,7 +52,7 @@ One challenge that I feel also applied to the class as a whole was the type of f
 
 ## Finally Finished Finance
 
-<img width="240px" height="230px"
+<img width="210px" height="200px"
      class="rounded float-start pe-4" 
      src="../img/scaling/finished.png" >
 
