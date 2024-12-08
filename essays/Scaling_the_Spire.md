@@ -41,12 +41,12 @@ As with any other project or long term task, there were some challenges that wer
 
 I also believe that another challenge was also group effort, especially when it came towards the later half of the project. This is not to say that members of our team were not working on the project, but in comparison to the early half of the semester, there was a significant decrease in the amount of work and effort that was going towards the project. Perhaps a solution to this would've been more group meetings in person to ensure work was done in that time frame, since for the majority of the semester we all more or less worked independently on our tasks for each milestone. 
 
-One challenge that I feel also applied to the class as a whole was the type of feedback and information we received from the customer. I feel that there were times where we received feedback but were unsure of how to process it or what exactly they were looking for. Perhaps if we had more information as well as a clear vision as to what they wanted for the web application, it would have made it much easier to develop and to adhere to its intended usage. I do understand that this would perhaps dampen the creativity for the project, but I do believe it would have maybe provided more clarity and direction, which felt absent especially at the beginning of the semester.
-
 <img width="300px" height="300px"
      class="rounded float pe-4" 
      src="../img/scaling/mountains.png" 
      align="right" >
+
+One challenge that I feel also applied to the class as a whole was the type of feedback and information we received from the customer. I feel that there were times where we received feedback but were unsure of how to process it or what exactly they were looking for. Perhaps if we had more information as well as a clear vision as to what they wanted for the web application, it would have made it much easier to develop and to adhere to its intended usage. I do understand that this would perhaps dampen the creativity for the project, but I do believe it would have maybe provided more clarity and direction, which felt absent especially at the beginning of the semester.
 
 ## Finally Finished Finance
 
