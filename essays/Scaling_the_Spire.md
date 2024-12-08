@@ -11,7 +11,7 @@ labels:
   - Professional Development
 ---
 
-<img width="250px" height="85px"
+<img width="250px" height="80px"
      class="rounded float pe-4" 
      src="../img/scaling/spirelogo.png"
      align="right" >
