@@ -38,7 +38,7 @@ For the last and final milestone, I did a little bit of testcafe implementations
 ## Conquering Challenges
 
 <img width="300px" height="300px"
-     class="rounded float-start pe-4" 
+     class="rounded float pe-4" 
      src="../img/scaling/mountains.png" 
      align = "right" >
 
