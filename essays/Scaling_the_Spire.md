@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Scaling the Spire: Navigating Teamwork and Technology"
 date: 2024-12-14
-published: false
+published: true
 labels:
   - Software Engineering
   - IDPM
