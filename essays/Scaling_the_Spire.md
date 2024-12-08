@@ -12,9 +12,8 @@ labels:
 ---
 
 <img width="250px" height="80px"
-     class="rounded float pe-4" 
-     src="../img/scaling/spirelogo.png"
-     align="right" >
+     class="rounded float-start pe-4" 
+     src="../img/scaling/spirelogo.png" >
 
 ## Initial Impressions
 
