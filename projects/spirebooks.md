@@ -23,7 +23,7 @@ summary: "My team and I created SpireBooks, a financial projection and managemen
 
 ### What is SpireBooks?
 
-<img width="320px" height="147px"
+<img width="320px" height="143px"
      class="float-start pe-4" 
      src="../img/spirebooks/spirebooks-logo-small.png" >
 
