@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/spirebooks/spirebooks-whitebg.png
+image: img/spirebooks/spirebooks-border-logo.png
 title: "SpireBooks"
 date: 2024-12-14
 published: true
