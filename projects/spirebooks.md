@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="320px" height="140px" src=/img/spirebooks/spirebooks-logo.png>
+image: img/spirebooks/spirebooks-logo.png
 title: "SpireBooks"
 date: 2024-12-14
 published: true
