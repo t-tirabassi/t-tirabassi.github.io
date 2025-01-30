@@ -17,6 +17,7 @@ labels:
   - JSX
   - Finance
 summary: "My team and I created SpireBooks, a financial projection and management decision tool made for Spire Hawaii."
+image_class: "custom-logo"
 ---
 
 &nbsp;
