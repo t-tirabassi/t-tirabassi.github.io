@@ -26,7 +26,7 @@ image_class: "custom-logo"
 
 <img width="320px" height="147px"
      class="float-start pe-4" 
-     src="../img/spirebooks/spirebooks-logo.png" >
+     src="../img/spirebooks/spirebooks-logo-small.png" >
 
 SpireBooks was the result of a course project for the course ICS 414: Software Engineering II, in which teams were tasked with developing a web application to be used as a financial projection and management decision tool for the local CPA firm Spire Hawaii. My team and I which consisted of 8 team members (called Team Half and Half), were tasked with building this application for Spire employees to effectively use while also meeting with the customer every two weeks for insightful feedback. During the process, we were given example sets of data to represent the equations and financial metrics used by Spire and needed to develop the app to take data inputs and present these projections in an easily understandable and aesthetic way. Different employee roles were also taken into account along with data tied to each role implemented within the application. Different forms correlated to projectional graphs that could be adjusted to account for shifting metrics and audits performed by Spire. 
 
