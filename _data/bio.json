@@ -36,7 +36,7 @@
       "area": "Computer Science (expected graduation Spring, 2025)",
       "studyType": "B.A.",
       "startDate": "2022-08-19",
-      "endDate": "Present",
+      "endDate": "2025-05-17",
       "courses": [
       ]
     },
@@ -50,9 +50,19 @@
       ]
     }
   ],
-
-  
   "work": [
+    {
+      "company": "University of Hawai'i/Department of Hawaiian Home Lands",
+      "position": "Project Manager",
+      "website": "",
+      "startDate": "2025-01-13",
+      "endDate": "2025-05-17",
+      "summary": "Conducted research on broadband connectivity and economic development on Molokaʻi as part of a University of Hawaiʻi at Mānoa internship program in collaboration with the Department of Hawaiian Home Lands (DHHL).",
+      "highlights": [
+        "Worked closely with the DHHL to explore a viable business trategy for economic growth",
+        "Visited the island of Moloka'i and met with various communities on island"
+      ]
+    },
     {
       "company": "UH Manoa Information Technology Services",
       "position": "ITS Help Desk Consultant",
@@ -78,13 +88,13 @@
       ]
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
       "organization": "Association of Computer Machinery (ACM)",
       "website": "",
       "position": "",
       "startDate": "2023-08-21",
-      "endDate": "Present",
+      "endDate": "2025-05-17",
       "summary": "The world's largest educational and scientific computing society",
       "highlights": [
         "Club meetings"
@@ -95,7 +105,7 @@
       "website": "",
       "position": "",
       "startDate": "2023-08-21",
-      "endDate": "Present",
+      "endDate": "2025-05-17",
       "summary": "Uh Manoa club that focuses on the development of student produced game projects.",
       "highlights": [
         "Game Jams",
