@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/spirebooks/spirebooks-logo.png
+image: img/spirebooks/spirebooks-logo-small.png
 title: "SpireBooks"
 date: 2024-12-14
 published: true
@@ -23,7 +23,7 @@ summary: "My team and I created SpireBooks, a financial projection and managemen
 
 ### What is SpireBooks?
 
-<img width="320px" height="140px"
+<img width="320px" height="147px"
      class="float-start pe-4" 
      src="../img/spirebooks/spirebooks-logo.png" >
 
