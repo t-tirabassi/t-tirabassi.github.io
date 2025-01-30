@@ -43,8 +43,9 @@ While I did hold many different duties within Team Half & Half throughout the co
 - **Component Management**
 - **Code Refactoring**
 
-More in-depth looks at my work and contributions can be viewed through the Projects tab found within the spirebooks repository:
-[https://github.com/orgs/Team-Half-and-Half/projects](https://github.com/orgs/Team-Half-and-Half/projects)
+More in-depth looks at my work and contributions can be viewed through the Projects tab found within the spirebooks repository linked [here](https://github.com/orgs/Team-Half-and-Half/projects).
+
+Insights into the actual functionalities and aesthetics of the app can be found on the Team Half and Half .io page which can be accessed by clicking [here](https://team-half-and-half.github.io/).
 
 &nbsp;
 
