@@ -14,7 +14,7 @@ summary: "Description here."
 
 ### What is Knightmourne?
 
-<img width="320px" height="143px"
+<img width="310px" height="70px"
      class="float-start pe-4" 
      src="../img/knightmourne/Knightmourne title.png" >
 
@@ -23,6 +23,10 @@ summary: "Description here."
 &nbsp;
 
 ### header here
+
+<img width="460px" height="70px"
+     class="float-start pe-4" 
+     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
 *more text here*
 
