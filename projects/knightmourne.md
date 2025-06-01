@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/videogame/image.png
+image: img/knightmourne/Knightmourne title.png
 title: "Knightmourne"
 date: 2025-05-09
 published: false
@@ -16,7 +16,7 @@ summary: "Description here."
 
 <img width="320px" height="143px"
      class="float-start pe-4" 
-     src="../img/videogame/image.png" >
+     src="../img/knightmourne/Knightmourne title.png" >
 
 *text here*
 
