@@ -32,4 +32,8 @@ summary: "Description here."
 
 &nbsp;
 
-*links if any here*
+*Download and play the full game by clicking [here](https://drive.google.com/file/d/1Dt3QWH9LmzsxECNTOhvSU07IFfH9u_T2/view)!*
+
+&nbsp;
+
+*Learn more about the game and its development process [here](https://rickiace.github.io/Knight_Mourne/).*
