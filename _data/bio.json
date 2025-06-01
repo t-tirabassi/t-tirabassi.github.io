@@ -6,8 +6,8 @@
     "email": "aat333@hawaii.edu",
     "phone": "781-510-0169",
     "website": "https://t-tirabassi.github.io",
-    "summary": "I am studying for a Bachelors in Information & Computer Sciences at the University of Hawaii. I expect to graduate in the Spring of 2025, and hope to have a career in software engineering as well as game design and development.",
-    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Bachelors of Arts in Information & Computer Sciences from the University of Hawaii.",
+    "location": { "address": "", "postalCode": "02343", "city": "Holbrook", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "t-tirabassi", "url": "http://github.com/t-tirabassi" },
       { "network": "linkedin", "username": "Anthony A. (T) Tirabassi", "url": "http://linkedin.com/in/anthony-a-tirabassi/" }
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected graduation Spring, 2025)",
+      "area": "Information & Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2022-08-19",
       "endDate": "2025-05-17",
@@ -59,8 +59,8 @@
       "endDate": "2025-05-17",
       "summary": "Conducted research on broadband connectivity and economic development on Molokaʻi as part of a University of Hawaiʻi at Mānoa internship program in collaboration with the Department of Hawaiian Home Lands (DHHL).",
       "highlights": [
-        "Worked closely with the DHHL to explore a viable business trategy for economic growth",
-        "Visited the island of Moloka'i and met with various communities on island"
+        "Worked closely with the DHHL to explore current issues faced by Moloka'i residents",
+        "Visited the island of Moloka'i and met with various community members on island"
       ]
     },
     {
