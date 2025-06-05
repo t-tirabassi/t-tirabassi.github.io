@@ -6,8 +6,9 @@ title: "Knightmourne"
 date: 2025-05-09
 published: true
 labels:
-  - tags here
-summary: "Description here."
+  - Video Game Design
+  - Video Game Development
+summary: "Knightmourne is a dark fantasy dungeon crawler video game that thrusts the player into a cursed land, ravaged by war and moral decay."
 ---
 
 &nbsp;
