@@ -54,6 +54,12 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 * Narrative Depth: Optional lore elements and environmental clues gives players freedom to either engage deeply or simply focus on the gameplay
 
+&nbsp;
+
+*Watch the Knightmourne gameplay trailer by clicking [here](https://youtu.be/_6KkzWq3x44)*
+
+&nbsp;
+
 *Download and play the full game by clicking [here](https://drive.google.com/file/d/1Dt3QWH9LmzsxECNTOhvSU07IFfH9u_T2/view)!*
 
 &nbsp;
