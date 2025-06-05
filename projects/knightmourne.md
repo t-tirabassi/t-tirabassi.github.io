@@ -36,12 +36,6 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 ### Core Gameplay
 
-<img width="330px" height="180px"
-     class="float-start pe-4" 
-     src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
-
-&nbsp;
-
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
 
 * Dungeon Structure: The dungeon consists of eight floors, starting with a tutorial swamp level followed by seven themed levels, each presided over by a boss representing one of the Seven Deadly Sins.
@@ -51,6 +45,10 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 * Artifact System: Players can find the artifacts of ancient warriors scattered around the dungeon. The artifacts have the potential to be combined to create powerful synergies and create a more personalized build. All artifacts come with their own lore but some combinations will unlock unique lore or secret powers.
 
 * Lore Discovery: The story unfolds as the player journeys through the dungeon with the player being able to see the hintings of a once great empire’s ultimate fall from grace.
+
+<img width="430px" height="280px"
+     class="float-start pe-4" 
+     src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
 
 &nbsp;
 
