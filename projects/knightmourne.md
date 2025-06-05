@@ -50,10 +50,6 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 ### Key Features
 
-<img width="560px" height="90px"
-     class="float-end pe-4" 
-     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
-
 * Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
 
 * Replayability: Diverse artifact builds and the different lore per artifacts held help to make a run more unique
