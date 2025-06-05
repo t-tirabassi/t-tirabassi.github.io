@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/knightmourne/Knightmourne title.png
+image: img/knightmourne/Knightmourne gameplay screenshot.png
 title: "Knightmourne"
 date: 2025-05-09
 published: true
