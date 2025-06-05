@@ -28,11 +28,11 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-### Core Gameplay
-
 <img width="600px" height="340px"
      class="float-end pe-4" 
      src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
+
+### Core Gameplay
 
 &nbsp;
 
