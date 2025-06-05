@@ -46,15 +46,13 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 * Lore Discovery: The story unfolds as the player journeys through the dungeon with the player being able to see the hintings of a once great empire’s ultimate fall from grace.
 
-<img width="560px" height="90px"
-     class="float-end pe-4" 
-     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
-
 &nbsp;
 
 ### Key Features
 
-&nbsp;
+<img width="560px" height="90px"
+     class="float-end pe-4" 
+     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
 * Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
 
