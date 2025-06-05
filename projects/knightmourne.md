@@ -52,6 +52,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 ### Key Features
 
+&nbsp;
+
 * Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
 
 * Replayability: Diverse artifact builds and the different lore per artifacts held help to make a run more unique
