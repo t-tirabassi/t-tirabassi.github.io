@@ -62,12 +62,12 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-*Watch the Knightmourne gameplay trailer [here](https://youtu.be/_6KkzWq3x44)!*
+**Watch the Knightmourne gameplay trailer [here](https://youtu.be/_6KkzWq3x44)!**
 
 &nbsp;
 
-*Download and play the full game [here](https://drive.google.com/file/d/1Dt3QWH9LmzsxECNTOhvSU07IFfH9u_T2/view)!*
+**Download and play the full game [here](https://drive.google.com/file/d/1Dt3QWH9LmzsxECNTOhvSU07IFfH9u_T2/view)!**
 
 &nbsp;
 
-*Learn more about the game and its development process [here](https://rickiace.github.io/Knight_Mourne/)!*
+**Learn more about the game and its development process [here](https://rickiace.github.io/Knight_Mourne/)!**
