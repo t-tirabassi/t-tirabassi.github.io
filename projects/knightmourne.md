@@ -34,6 +34,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
+&nbsp;
+
 ### Core Gameplay
 
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
