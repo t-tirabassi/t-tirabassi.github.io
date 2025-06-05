@@ -44,7 +44,7 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 * Lore Discovery: The story unfolds as the player journeys through the dungeon with the player being able to see the hintings of a once great empire’s ultimate fall from grace.
 
-<img width="580px" height="340px"
+<img width="600px" height="340px"
      class="float-end pe-4" 
      src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
 
