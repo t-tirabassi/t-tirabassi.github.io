@@ -4,7 +4,7 @@ type: project
 image: img/molokai/image.png
 title: "Moloka'i Connect"
 date: 2025-05-17
-published: false
+published: true
 labels:
   - tags here
 summary: "Description here."
