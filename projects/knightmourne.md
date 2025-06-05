@@ -9,8 +9,8 @@ labels:
   - Video Game Design
   - Video Game Development
   - Godot
-  - Music Composition
   - Music Production
+  - Music Composition
 summary: "Knightmourne is a dark fantasy dungeon crawler video game that thrusts the player into a cursed land, ravaged by war and moral decay."
 ---
 
