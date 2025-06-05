@@ -18,6 +18,10 @@ summary: "Description here."
      class="float-start pe-4" 
      src="../img/knightmourne/Knightmourne title.png" >
 
+<img width="460px" height="70px"
+     class="float-start pe-4" 
+     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
+
 Knightmourne is a dark fantasy dungeon crawler that thrusts the player into a cursed land, ravaged by war and moral decay. Players take the role of a paladin sent out by the Church, and find themselves in a festering swamp, with a single purpose: descend through the dungeon and purge the land of its sins.
 
 With fast-paced combat, strategic artifact combinations, and rich environmental storytelling. Knightmourne is a game where every room is a battlefield and every artifact holds a piece of the world’s lost history.
@@ -26,9 +30,9 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 ### Core Gameplay
 
-<img width="460px" height="70px"
+<img width="330px" height="180px"
      class="float-start pe-4" 
-     src="../img/knightmourne/After-Midnight-Interactive logo.png" >
+     src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
 
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
 
