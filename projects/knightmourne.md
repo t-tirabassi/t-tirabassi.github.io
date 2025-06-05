@@ -28,10 +28,6 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-<img width="600px" height="340px"
-     class="float-end pe-4" 
-     src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
-
 ### Core Gameplay
 
 &nbsp;
@@ -39,6 +35,10 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
 
 * Dungeon Structure: The dungeon consists of eight floors, starting with a tutorial swamp level followed by seven themed levels, each presided over by a boss representing one of the Seven Deadly Sins.
+
+<img width="600px" height="340px"
+     class="float-end pe-4" 
+     src="../img/knightmourne/Knightmourne gameplay screenshot.png" >
 
 * Room Lock System: Most rooms will seal upon entry, forcing players to fight off waves of enemies before advancing. Helps to keep tension high and rewards skillful gameplay.
 
