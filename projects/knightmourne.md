@@ -26,6 +26,8 @@ summary: "Knightmourne is a dark fantasy dungeon crawler video game that thrusts
 
 Knightmourne is a dark fantasy dungeon crawler that thrusts the player into a cursed land, ravaged by war and moral decay. Players take the role of a paladin sent out by the Church, and find themselves in a festering swamp, with a single purpose: descend through the dungeon and purge the land of its sins.
 
+&nbsp;
+
 With fast-paced combat, strategic artifact combinations, and rich environmental storytelling. Knightmourne is a game where every room is a battlefield and every artifact holds a piece of the world’s lost history.
 
 &nbsp;
