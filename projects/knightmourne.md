@@ -31,7 +31,7 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 ### Core Gameplay
 
 <img width="560px" height="90px"
-     class="float-end pe-4" 
+     class="float-start pe-4" 
      src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
