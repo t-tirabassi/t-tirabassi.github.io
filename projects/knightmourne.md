@@ -34,6 +34,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 ### Core Gameplay
 
+&nbsp;
+
 * Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
 
 * Dungeon Structure: The dungeon consists of eight floors, starting with a tutorial swamp level followed by seven themed levels, each presided over by a boss representing one of the Seven Deadly Sins.
