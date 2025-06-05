@@ -24,15 +24,31 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-### header here
+### Core Gameplay
 
 <img width="460px" height="70px"
      class="float-start pe-4" 
      src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
-*more text here*
+* Combat: Responsive action with simple switching between melee (sword) and ranged (bow) comabt. Unlock new weapons like a staff for a more powerful ranged attack throughout the descent of the dungeon.
+
+* Dungeon Structure: The dungeon consists of eight floors, starting with a tutorial swamp level followed by seven themed levels, each presided over by a boss representing one of the Seven Deadly Sins.
+
+* Room Lock System: Most rooms will seal upon entry, forcing players to fight off waves of enemies before advancing. Helps to keep tension high and rewards skillful gameplay.
+
+* Artifact System: Players can find the artifacts of ancient warriors scattered around the dungeon. The artifacts have the potential to be combined to create powerful synergies and create a more personalized build. All artifacts come with their own lore but some combinations will unlock unique lore or secret powers.
+
+* Lore Discovery: The story unfolds as the player journeys through the dungeon with the player being able to see the hintings of a once great empire’s ultimate fall from grace.
 
 &nbsp;
+
+### Key Features
+
+* Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
+
+* Replayability: Diverse artifact builds and the different lore per artifacts held help to make a run more unique
+
+* Narrative Depth: Optional lore elements and environmental clues gives players freedom to either engage deeply or simply focus on the gameplay
 
 *Download and play the full game by clicking [here](https://drive.google.com/file/d/1Dt3QWH9LmzsxECNTOhvSU07IFfH9u_T2/view)!*
 
