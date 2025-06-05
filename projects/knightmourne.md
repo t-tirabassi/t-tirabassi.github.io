@@ -29,7 +29,7 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 &nbsp;
 
 <img width="560px" height="90px"
-     class="float-start pe-4" 
+     class="float-end pe-4" 
      src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
 ### Core Gameplay
