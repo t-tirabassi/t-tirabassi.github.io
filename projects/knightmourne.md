@@ -4,7 +4,7 @@ type: project
 image: img/knightmourne/Knightmourne title.png
 title: "Knightmourne"
 date: 2025-05-09
-published: false
+published: true
 labels:
   - tags here
 summary: "Description here."
