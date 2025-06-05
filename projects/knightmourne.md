@@ -18,7 +18,7 @@ summary: "Knightmourne is a dark fantasy dungeon crawler video game that thrusts
 
 ### What is Knightmourne?
 
-<img width="310px" height="70px"
+<img width="410px" height="170px"
      class="float-start pe-4" 
      src="../img/knightmourne/Knightmourne title.png" >
 
@@ -28,7 +28,7 @@ Knightmourne is a dark fantasy dungeon crawler that thrusts the player into a cu
 
 With fast-paced combat, strategic artifact combinations, and rich environmental storytelling. Knightmourne is a game where every room is a battlefield and every artifact holds a piece of the world’s lost history.
 
-<img width="460px" height="70px"
+<img width="560px" height="170px"
      class="float-end pe-4" 
      src="../img/knightmourne/After-Midnight-Interactive logo.png" >
 
