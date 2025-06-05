@@ -6,7 +6,13 @@ title: "Moloka'i Connect"
 date: 2025-05-17
 published: true
 labels:
-  - tags here
+  - Project Management
+  - Critical Thinking
+  - Business Strategy
+  - Organization Skills
+  - Data Gathering
+  - Interviewing
+  - Community Outreach
 summary: "Description here."
 ---
 
