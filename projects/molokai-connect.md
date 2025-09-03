@@ -40,17 +40,9 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-*The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.*
-
-&nbsp;
-
 <img width="403px" height="302px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_6806.jpg" >
-
-&nbsp;
-
-*Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.*
 
 &nbsp;
 
@@ -60,7 +52,11 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-*Moloka'i Connect and the DHHL at our first meeting with Hawaii State Senator Lynn Decoite.*
+*(Left) The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.*
+
+*(Middle) Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.*
+
+*(Right) Moloka'i Connect and the DHHL at our first meeting with Hawaii State Senator Lynn Decoite.*
 
 &nbsp;
 
