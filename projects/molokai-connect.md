@@ -28,7 +28,7 @@ Moloka'i Connect was a team formed through the collaborations between the Univer
 
 The project process itself is a very long and complicated story, so please feel free to ask me about said process or the project itself in person. Ultimately, we realized that the problem wasn't the connectivity or the resources available to the residents, but the lack of awareness of the resources that were already readily available to them. From this, we decided to develop a resource aggregator that could be used to catalog all existing and previously existing resources. This aggregator was also built with the idea of continued additions as more programs and resources were created. We then presented the entirety of our project timeline, process, what we experienced, what we learned, and finally the resource aggregator itself to the Lieutenant Governor of Hawai'i Sylvia Luke.
 
-Note: For legal reasons, I am unable to provide a link to the resource aggregator developed as a part of Moloka'i Connect.
+*Note: For legal reasons, I am unable to provide a link to the resource aggregator developed as a part of Moloka'i Connect.*
 
 &nbsp;
 
