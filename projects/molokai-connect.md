@@ -34,19 +34,19 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-<img width="413px" height="312px"
+<img width="433px" height="332px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_2901.jpg" >
 
 &nbsp;
 
-<img width="413px" height="312px"
+<img width="433px" height="332px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_6806.jpg" >
 
 &nbsp;
 
-<img width="413px" height="312px"
+<img width="433px" height="332px"
      class="float-start pe-4" 
      src="../img/molokai/Us with senator decoite.jpg" >
 
