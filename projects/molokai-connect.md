@@ -20,7 +20,7 @@ summary: "A project done in collaboration with the Department of Hawaiian Home L
 
 ### What is Moloka'i Connect?
 
-<img width="380px" height="280px"
+<img width="403px" height="302px"
      class="float-start pe-4" 
      src="../img/molokai/Moloka'i.jpg" >
 
