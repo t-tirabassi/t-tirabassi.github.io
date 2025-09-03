@@ -68,7 +68,7 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
- Learn more about the broadband connectivity programs that Moloka'i Connect contributed to by visiting [https://dhhlbroadband.com/](https://dhhlbroadband.com)
+**Learn more about the broadband connectivity programs that Moloka'i Connect contributed to by visiting** [https://dhhlbroadband.com/](https://dhhlbroadband.com)
 
 &nbsp;
 
