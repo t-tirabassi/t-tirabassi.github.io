@@ -14,11 +14,12 @@
     ]
   },
   "interests": [
-    { "name": "Game Development" },
-    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "Frontend Development" },
     { "name": "Web Development" },
-    { "name": "Mobile Application Development" },
-    { "name": "3D Graphics" }
+    { "name": "Web Design" },
+    { "name": "3D Graphics" },
+    { "name": "UI/UX Design" }
   ],
   "skills": [
     {
