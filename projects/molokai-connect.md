@@ -32,19 +32,19 @@ The project process itself is a very long and complicated story, so please feel 
 
 ### Photos
 
-<img width="320px" height="143px"
+<img width="403px" height="302px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_2901.jpg" >
 
 The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.
 
-<img width="320px" height="143px"
+<img width="403px" height="302px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_6806.jpg" >
 
 Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.
 
-<img width="320px" height="143px"
+<img width="403px" height="302px"
      class="float-start pe-4" 
      src="../img/molokai/Us with senator decoite.jpg" >
 
