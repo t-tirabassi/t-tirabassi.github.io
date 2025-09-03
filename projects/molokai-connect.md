@@ -52,7 +52,7 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-&nbsp;
+<br>
 
 *(Left) The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.*
 
