@@ -32,8 +32,12 @@ The project process itself is a very long and complicated story, so please feel 
 
 ### Photos
 
-*more text here*
+*More photos available upon request*
 
 &nbsp;
 
-*links if any here*
+ Learn more about the broadband connectivity programs Moloka'i Connect was a part of by visiting [https://dhhlbroadband.com/](https://dhhlbroadband.com)
+
+&nbsp;
+
+*Project contacts and/or supervisors available upon request*
