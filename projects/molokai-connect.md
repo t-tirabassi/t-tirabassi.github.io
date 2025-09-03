@@ -50,6 +50,8 @@ Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of H
 
 Moloka'i Connect and the DHHL at our first meeting with Hawaii State Senator Lynn Decoite.
 
+&nbsp;
+
 *More photos available upon request*
 
 &nbsp;
