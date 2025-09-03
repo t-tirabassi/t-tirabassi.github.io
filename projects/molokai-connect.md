@@ -34,25 +34,24 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-<img width="403px" height="302px"
+<img width="413px" height="312px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_2901.jpg" >
 
 &nbsp;
 
-<img width="403px" height="302px"
+<img width="413px" height="312px"
      class="float-start pe-4" 
      src="../img/molokai/IMG_6806.jpg" >
 
 &nbsp;
 
-<img width="403px" height="302px"
+<img width="413px" height="312px"
      class="float-start pe-4" 
      src="../img/molokai/Us with senator decoite.jpg" >
 
 &nbsp;
 
-<br>
 
 *(Left) The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.*
 
