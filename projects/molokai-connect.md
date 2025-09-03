@@ -62,7 +62,7 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-*More photos available upon request*
+**More photos available upon request**
 
 &nbsp;
 
@@ -70,4 +70,4 @@ The project process itself is a very long and complicated story, so please feel 
 
 &nbsp;
 
-*Project contacts and/or supervisors available upon request*
+**Project contacts and/or supervisors available upon request**
