@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "T Tirabassi",
-    "label": "Student",
+    "label": "College Graduate",
     "picture": "img/cropped golden gate.jpg", 
     "email": "aat333@hawaii.edu",
     "phone": "781-510-0169",
     "website": "https://t-tirabassi.github.io",
-    "summary": "Bachelors of Arts in Information & Computer Sciences from the University of Hawaii.",
+    "summary": "Bachelors of Arts in Information & Computer Sciences from the University of Hawaii at Manoa.",
     "location": { "address": "", "postalCode": "02343", "city": "Holbrook", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "t-tirabassi", "url": "http://github.com/t-tirabassi" },
