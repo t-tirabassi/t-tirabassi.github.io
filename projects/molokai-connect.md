@@ -34,13 +34,27 @@ The project process itself is a very long and complicated story, so please feel 
 
 <img width="320px" height="143px"
      class="float-start pe-4" 
-     src="../img/molokai/image.png" >
+     src="../img/molokai/IMG_2901.jpg" >
+
+The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.
+
+<img width="320px" height="143px"
+     class="float-start pe-4" 
+     src="../img/molokai/IMG_6806.jpg" >
+
+Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.
+
+<img width="320px" height="143px"
+     class="float-start pe-4" 
+     src="../img/molokai/Us with senator decoite.jpg" >
+
+Moloka'i Connect and the DHHL at our first meeting with Hawaii State Senator Lynn Decoite.
 
 *More photos available upon request*
 
 &nbsp;
 
- Learn more about the broadband connectivity programs Moloka'i Connect was a part of by visiting [https://dhhlbroadband.com/](https://dhhlbroadband.com)
+ Learn more about the broadband connectivity programs that Moloka'i Connect contributed to by visiting [https://dhhlbroadband.com/](https://dhhlbroadband.com)
 
 &nbsp;
 
