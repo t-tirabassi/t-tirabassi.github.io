@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/molokai/image.png
+image: img/molokai/dhhl logo wide 2.jpg
 title: "Moloka'i Connect"
 date: 2025-05-17
 published: true
