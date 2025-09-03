@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/molokai/dhhl logo med.png
+image: img/molokai/state of hawaii long logo.jpg
 title: "Moloka'i Connect"
 date: 2025-05-17
 published: true
