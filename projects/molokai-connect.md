@@ -58,7 +58,7 @@ The project process itself is a very long and complicated story, so please feel 
 
 *(Middle) Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.*
 
-*(Right) Moloka'i Connect and the DHHL at our first meeting with Hawaii State Senator Lynn Decoite.*
+*(Right) Moloka'i Connect and the DHHL at our first meeting with Hawai'i State Senator Lynn Decoite.*
 
 &nbsp;
 
