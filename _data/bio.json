@@ -18,20 +18,34 @@
     { "name": "Frontend Development" },
     { "name": "Web Development" },
     { "name": "Web Design" },
-    { "name": "3D Graphics" },
     { "name": "UI/UX Design" },
+    { "name": "Software Engineering" },
+    { "name": "3D Graphics" },
     { "name": "Mobile Application Development" }
   ],
   "skills": [
-    {
-      "name": "Programming Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
-    },
-    {
-      "name": "Software/Tools//OS",
-      "keywords": [ "MacOS", "Git/GitHub", "VS Code", "IntelliJ" ]
-    }
-  ],
+  {
+    "name": "Programming Languages",
+    "keywords": ["Java", "JavaScript", "C", "C++", "HTML", "CSS", "Python"]
+  },
+  {
+    "name": "Frameworks/Tools",
+    "keywords": ["GitHub", "React", "Bootstrap", "Meteor", "MySQL", "Figma"]
+  },
+  {
+    "name": "Software/OS",
+    "keywords": ["Windows", "MacOS", "Autodesk Maya", "Godot"]
+  },
+  {
+    "name": "Interpersonal",
+    "keywords": [
+      "Collaborative Communication",
+      "Project Management",
+      "Problem Solving",
+      "Critical Thinking"
+    ]
+  }
+],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
