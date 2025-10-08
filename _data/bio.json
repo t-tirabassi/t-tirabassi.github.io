@@ -58,7 +58,7 @@
     },
     {
       "institution": "University of Massachusetts Boston, Boston, MA",
-      "area": "Mechanical Engineering (original major)",
+      "area": "Mechanical Engineering (Transferred)",
       "studyType": "B.S.",
       "startDate": "2021-08-21",
       "endDate": "2022-05-16",
@@ -163,20 +163,6 @@
         "Game Jams",
         "Club meetings"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2023-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded to students who earned a semester gpa of 3.5 on the basis of full time enrollment of 12 credits or more."
-    },
-    {
-      "title": "Dean's Merit Scholarship",
-      "date": "2021-2022",
-      "awarder": "University of Massachusetts Boston Dean's Office",
-      "summary": "Scholarship awarded to a select group incoming college freshmen who have demonstrated extraordinary academic achievement throughout high school."
     }
   ],
   "references": [
