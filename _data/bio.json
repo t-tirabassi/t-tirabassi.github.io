@@ -164,7 +164,7 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "name": "See projects page."
     }
