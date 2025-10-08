@@ -70,13 +70,25 @@
     {
       "company": "University of Hawai'i/Department of Hawaiian Home Lands",
       "position": "Project Manager",
-      "website": "",
+      "website": "https://t-tirabassi.github.io/projects/molokai-connect.html",
       "startDate": "2025-01-13",
       "endDate": "2025-05-17",
-      "summary": "Conducted research on broadband connectivity and economic development on Molokaʻi as part of a University of Hawaiʻi at Mānoa internship program in collaboration with the Department of Hawaiian Home Lands (DHHL).",
+      "summary": "",
       "highlights": [
-        "Worked closely with the DHHL to explore current issues faced by Moloka'i residents",
-        "Visited the island of Moloka'i and met with various community members on island"
+        "Collaboratively worked on research efforts revolving around the limited economic opportunities and infrastructural connectivity barriers affecting community development for the island of Moloka’i.",
+        "Worked with team members to perform community outreach in local Moloka’i communities and create viable solutions to bridge the gap in economic opportunities and digital access present on Moloka’i compared to those of neighboring islands.",
+        "The final solution developed was Moloka’i Connect, a digital resource aggregator used to catalogue and network the past and present resources available to the residents of Moloka’i, officially presenting the finished aggregator to the Lieutenant Governor."
+      ]
+    },
+    {
+      "company": "Viking Sports",
+      "position": "Youth Sports Coach",
+      "website": "",
+      "startDate": "2024-07-14",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Coach kids of various ages through a sports curriculum, including active involvement in games, promoting teamwork and partnership, enhancing communication among peers, and promoting fun."
       ]
     },
     {
@@ -84,11 +96,10 @@
       "position": "ITS Help Desk Consultant",
       "website": "",
       "startDate": "2024-02-06",
-      "endDate": "Present",
+      "endDate": "2024-05-15",
       "summary": "",
       "highlights": [
-        "Assist students and faculty with systems and services across all UH and CC locations",
-        "Collaboration with on campus tech-based departments"
+        "Assisted students and faculty with technology and university systems across all University of Hawaii locations and local community colleges by promoting and performing University of Hawaii Manoa operations center duties."
       ]
     },
     {
@@ -97,10 +108,35 @@
       "website": "",
       "startDate": "2023-01-15",
       "endDate": "2023-04-29",
-      "summary": "Performed culturally choreographed shows for onboard guests",
+      "summary": "",
       "highlights": [
+        "Performed culturally choreographed shows for onboard guests",
         "Entertain, teach, and interact with guests in regards to performances",
         "Guide guests through hula lessons and produce welcoming environment"
+      ]
+    },
+  {
+      "company": "Anime Zakka Boston",
+      "position": "Retail Associate",
+      "website": "",
+      "startDate": "2022-02-15",
+      "endDate": "2022-08-16",
+      "summary": "",
+      "highlights": [
+        "Assisted customers with finding certain items, checking out, and friendly conversation",
+        "Worked the floor for security purposes and for customer service needs"
+      ]
+    },
+{
+      "company": "Davio's Northern Italian Steakhouse",
+      "position": "Busser",
+      "website": "",
+      "startDate": "2020-05-10",
+      "endDate": "2021-04-16",
+      "summary": "",
+      "highlights": [
+        "Assisted customers with finding certain items, checking out, and friendly conversation",
+        "Worked the floor for security purposes and for customer service needs"
       ]
     }
   ],
