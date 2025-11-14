@@ -68,6 +68,19 @@
   ],
   "work": [
     {
+      "company": "Apple Inc.",
+      "position": "Specialist",
+      "website": "",
+      "startDate": "2025-11-14",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Focus on exceptional customer service through understanding customer needs, explaining Apple products and services, recommending solutions, and supporting device setup, data transfer, onboarding, and troubleshooting",
+        "Managing multiple customers while maintaining high service standards, collaborating to ensure store readiness, restocking inventory, and completing daily operational tasks",
+        "Utilizing Apple’s point-of-sale (POS) system to process purchases, returns, and reservations while promoting Apple services to customers"
+      ]
+    },
+    {
       "company": "University of Hawai'i/Department of Hawaiian Home Lands",
       "position": "Project Manager",
       "website": "https://t-tirabassi.github.io/projects/molokai-connect.html",
