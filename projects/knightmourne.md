@@ -73,3 +73,7 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 &nbsp;
 
 **Learn more about the game and its development process [here](https://rickiace.github.io/Knight_Mourne/)!**
+
+&nbsp;
+
+**Browse the soundtrack files (including some exclusive unused tracks) [here](https://drive.google.com/drive/folders/1xyL59zqPk29BenegsWjrYFfDkTTy4nz2?usp=sharing)!**
