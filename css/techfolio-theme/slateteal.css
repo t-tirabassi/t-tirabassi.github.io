@@ -1,29 +1,30 @@
-/* Crimson Pro Theme: professional red-accented UI with subtle interaction design. */
+/* Slate + Teal Theme: professional cool-toned UI with subtle interaction design. */
 
 /* Use Inter + Rubik for modern typography */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;700&display=swap");
 
 /* Root variable overrides */
 :root {
-  /* ---- Color Palette ---- */
-  --tf-red1: #b4102f;    /* Primary red */
-  --tf-red2: #d32645;    /* Hover red / accent */
-  --tf-red3: #f5d5da;    /* Light red background */
-  --tf-gray1: #1f1f1f;   /* Primary text */
-  --tf-gray2: #555;      /* Secondary text */
-  --tf-gray-bg: #fafafa; /* Neutral light background */
+  /* ---- Color Palette (Slate + Teal) ---- */
+  --tf-primary1: #003f5c;   /* Deep slate blue (replaces red1) */
+  --tf-primary2: #2f9e9e;   /* Teal hover/accent (replaces red2) */
+  --tf-primary3: #a8e0df;   /* Light teal background (replaces red3) */
+
+  --tf-gray1: #1f1f1f;      /* Primary text */
+  --tf-gray2: #555;         /* Secondary text */
+  --tf-gray-bg: #fafafa;    /* Neutral background */
 
   /* ---- Bootstrap Overrides ---- */
   --bs-font-sans-serif: "Inter", sans-serif;
-  --bs-link-color: var(--tf-red1);
+  --bs-link-color: var(--tf-primary1);
 
   /* ---- Theme-Specific ---- */
-  --tf-pill-bg: var(--tf-red2);
-  --tf-icon-fill: var(--tf-red1);
-  --tf-icon-hover: var(--tf-red2);
+  --tf-pill-bg: var(--tf-primary2);
+  --tf-icon-fill: var(--tf-primary1);
+  --tf-icon-hover: var(--tf-primary2);
   --tf-page-bg-color: var(--tf-gray-bg);
-  --tf-footer-bg-color: var(--tf-red3);
-  --tf-projects-bg-color: var(--tf-red3);
+  --tf-footer-bg-color: var(--tf-primary3);
+  --tf-projects-bg-color: var(--tf-primary3);
 
   /* ---- Effects ---- */
   --tf-transition-speed: 0.25s;
@@ -33,7 +34,7 @@
 
 /* Headings */
 h1, h2, h3, h4, h5 {
-  color: var(--tf-red1);
+  color: var(--tf-primary1);
   font-family: "Rubik", sans-serif;
   letter-spacing: -0.5px;
   margin-bottom: 0.5rem;
@@ -47,18 +48,18 @@ a, button, .card, .tf-social, img, .nav-link {
 /* Links */
 a {
   text-decoration: none;
-  color: var(--tf-red1);
+  color: var(--tf-primary1);
 }
 
 a:hover {
-  color: var(--tf-red2);
+  color: var(--tf-primary2);
   text-decoration: underline;
 }
 
 /* Social Media Icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-red1);
+  fill: var(--tf-primary1);
   height: 1.5em;
   width: 1.5em;
   vertical-align: -0.1em;
@@ -85,20 +86,20 @@ a:hover {
 
 /* Rounded Profile Image */
 .rounded-circle {
-  border-color: var(--tf-red1);
+  border-color: var(--tf-primary1);
   border-style: solid;
   border-width: 2px;
   transition: border-color var(--tf-transition-speed);
 }
 
 .rounded-circle:hover {
-  border-color: var(--tf-red2);
+  border-color: var(--tf-primary2);
   transform: scale(1.02);
 }
 
 /* Navigation Hover Refinements */
 .nav-link:hover {
-  color: var(--tf-red2) !important;
+  color: var(--tf-primary2) !important;
 }
 
 /* Buttons */
@@ -110,13 +111,13 @@ a:hover {
 }
 
 .btn-primary {
-  background-color: var(--tf-red1);
-  border-color: var(--tf-red1);
+  background-color: var(--tf-primary1);
+  border-color: var(--tf-primary1);
 }
 
 .btn-primary:hover {
-  background-color: var(--tf-red2);
-  border-color: var(--tf-red2);
+  background-color: var(--tf-primary2);
+  border-color: var(--tf-primary2);
   box-shadow: var(--tf-shadow-hover);
 }
 
