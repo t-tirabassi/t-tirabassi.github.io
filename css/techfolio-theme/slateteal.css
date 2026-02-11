@@ -121,6 +121,20 @@ a:hover {
   box-shadow: var(--tf-shadow-hover);
 }
 
+.btn-primary:hover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: 0 0 12px rgba(47, 158, 158, 0.3);
+  animation: pulse 0.6s forwards;
+}
+
+@keyframes pulse {
+  0% { transform: scale(0.9); opacity: 0.6; }
+  100% { transform: scale(1.1); opacity: 0; }
+}
+
 /* Footer */
 footer {
   background-color: var(--tf-footer-bg-color);
