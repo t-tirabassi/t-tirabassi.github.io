@@ -6,9 +6,9 @@
 /* Root variable overrides */
 :root {
   /* ---- Color Palette (Slate + Teal) ---- */
-  --tf-primary1: #003f5c;   /* Deep slate blue (replaces red1) */
-  --tf-primary2: #2f9e9e;   /* Teal hover/accent (replaces red2) */
-  --tf-primary3: #a8e0df;   /* Light teal background (replaces red3) */
+  --tf-primary1: #003f5c;   /* Deep slate blue */
+  --tf-primary2: #2f9e9e;   /* Teal hover/accent */
+  --tf-primary3: #a8e0df;   /* Light teal background */
 
   --tf-gray1: #1f1f1f;      /* Primary text */
   --tf-gray2: #555;         /* Secondary text */
