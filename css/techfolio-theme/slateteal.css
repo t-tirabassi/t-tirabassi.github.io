@@ -113,6 +113,7 @@ a:hover {
 .btn-primary {
   background-color: var(--tf-primary1);
   border-color: var(--tf-primary1);
+  position: relative;
 }
 
 .btn-primary:hover {
