@@ -51,13 +51,6 @@
     document.body.classList.remove("preload");
     document.body.classList.add("loaded");
 
-    // Stagger project card reveal
-    const cards = document.querySelectorAll(".card");
-    cards.forEach((card, i) => {
-      setTimeout(() => {
-        card.classList.add("card-loaded");
-      }, 150 * i);
-    });
   });
 </script>
 
