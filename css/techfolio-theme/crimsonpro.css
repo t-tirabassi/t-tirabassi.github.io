@@ -1,0 +1,127 @@
+/* Crimson Pro Theme: professional red-accented UI with subtle interaction design. */
+
+/* Use Inter + Rubik for modern typography */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;700&display=swap");
+
+/* Root variable overrides */
+:root {
+  /* ---- Color Palette ---- */
+  --tf-red1: #b4102f;    /* Primary red */
+  --tf-red2: #d32645;    /* Hover red / accent */
+  --tf-red3: #f5d5da;    /* Light red background */
+  --tf-gray1: #1f1f1f;   /* Primary text */
+  --tf-gray2: #555;      /* Secondary text */
+  --tf-gray-bg: #fafafa; /* Neutral light background */
+
+  /* ---- Bootstrap Overrides ---- */
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-link-color: var(--tf-red1);
+
+  /* ---- Theme-Specific ---- */
+  --tf-pill-bg: var(--tf-red2);
+  --tf-icon-fill: var(--tf-red1);
+  --tf-icon-hover: var(--tf-red2);
+  --tf-page-bg-color: var(--tf-gray-bg);
+  --tf-footer-bg-color: var(--tf-red3);
+  --tf-projects-bg-color: var(--tf-red3);
+
+  /* ---- Effects ---- */
+  --tf-transition-speed: 0.25s;
+  --tf-shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --tf-shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+  color: var(--tf-red1);
+  font-family: "Rubik", sans-serif;
+  letter-spacing: -0.5px;
+  margin-bottom: 0.5rem;
+}
+
+/* Smooth transitions for all interactive elements */
+a, button, .card, .tf-social, img, .nav-link {
+  transition: all var(--tf-transition-speed) ease;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: var(--tf-red1);
+}
+
+a:hover {
+  color: var(--tf-red2);
+  text-decoration: underline;
+}
+
+/* Social Media Icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-red1);
+  height: 1.5em;
+  width: 1.5em;
+  vertical-align: -0.1em;
+  cursor: pointer;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+  transform: translateY(-2px);
+}
+
+/* Project Cards */
+.card {
+  border: none;
+  border-radius: 12px;
+  background: white;
+  box-shadow: var(--tf-shadow-soft);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--tf-shadow-hover);
+}
+
+/* Rounded Profile Image */
+.rounded-circle {
+  border-color: var(--tf-red1);
+  border-style: solid;
+  border-width: 2px;
+  transition: border-color var(--tf-transition-speed);
+}
+
+.rounded-circle:hover {
+  border-color: var(--tf-red2);
+  transform: scale(1.02);
+}
+
+/* Navigation Hover Refinements */
+.nav-link:hover {
+  color: var(--tf-red2) !important;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 8px;
+  padding: 0.55rem 1.2rem;
+  font-weight: 500;
+  box-shadow: var(--tf-shadow-soft);
+}
+
+.btn-primary {
+  background-color: var(--tf-red1);
+  border-color: var(--tf-red1);
+}
+
+.btn-primary:hover {
+  background-color: var(--tf-red2);
+  border-color: var(--tf-red2);
+  box-shadow: var(--tf-shadow-hover);
+}
+
+/* Footer */
+footer {
+  background-color: var(--tf-footer-bg-color);
+  padding: 2rem 0;
+}
