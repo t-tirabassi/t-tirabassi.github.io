@@ -126,3 +126,36 @@ footer {
   background-color: var(--tf-footer-bg-color);
   padding: 2rem 0;
 }
+
+
+/* ------------------------------ */
+/* Page Load Animations           */
+/* ------------------------------ */
+
+/* Initial hidden state */
+body.preload {
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+/* Fade + slide-in */
+body.loaded {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+/* Project card staggered animation */
+.card {
+  opacity: 0;
+  transform: translateY(12px);
+}
+
+.card.card-loaded {
+  opacity: 1;
+  transform: translateY(0);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+}
+
