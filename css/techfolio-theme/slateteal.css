@@ -98,7 +98,7 @@ a:hover {
 }
 
 .navbar-brand:hover {
-  color: var(--tf-primary2) !important;
+  color: var(--tf-primary1);
   transform: translateY(-2px);
 }
 
