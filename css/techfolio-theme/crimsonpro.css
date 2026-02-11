@@ -1,23 +1,23 @@
-/* Crimson Soft Theme: Professional, softer red palette with interaction design */
+/* Crimson Pro Theme: professional red-accented UI with subtle interaction design. */
 
-/* Typography */
+/* Use Inter + Rubik for modern typography */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;700&display=swap");
 
-/* Root variables */
+/* Root variable overrides */
 :root {
-  /* ---- Soft Red Palette ---- */
-  --tf-red1: #a0222e;    /* Primary red — softened */
-  --tf-red2: #c53743;    /* Hover accent — softened */
-  --tf-red3: #f7e9eb;    /* Light red background */
-  --tf-gray1: #1c1c1c;   /* Primary text */
-  --tf-gray2: #4e4e4e;   /* Secondary text */
-  --tf-gray-bg: #fafafa; /* Neutral page background */
+  /* ---- Color Palette ---- */
+  --tf-red1: #b4102f;    /* Primary red */
+  --tf-red2: #d32645;    /* Hover red / accent */
+  --tf-red3: #f5d5da;    /* Light red background */
+  --tf-gray1: #1f1f1f;   /* Primary text */
+  --tf-gray2: #555;      /* Secondary text */
+  --tf-gray-bg: #fafafa; /* Neutral light background */
 
   /* ---- Bootstrap Overrides ---- */
   --bs-font-sans-serif: "Inter", sans-serif;
   --bs-link-color: var(--tf-red1);
 
-  /* ---- Theme Values ---- */
+  /* ---- Theme-Specific ---- */
   --tf-pill-bg: var(--tf-red2);
   --tf-icon-fill: var(--tf-red1);
   --tf-icon-hover: var(--tf-red2);
@@ -28,21 +28,26 @@
   /* ---- Effects ---- */
   --tf-transition-speed: 0.25s;
   --tf-shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.06);
-  --tf-shadow-hover: 0 8px 22px rgba(0, 0, 0, 0.14);
+  --tf-shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.12);
 }
 
 /* Headings */
 h1, h2, h3, h4, h5 {
   color: var(--tf-red1);
   font-family: "Rubik", sans-serif;
-  letter-spacing: -0.4px;
+  letter-spacing: -0.5px;
+  margin-bottom: 0.5rem;
 }
 
-/* Link styling */
+/* Smooth transitions for all interactive elements */
+a, button, .card, .tf-social, img, .nav-link {
+  transition: all var(--tf-transition-speed) ease;
+}
+
+/* Links */
 a {
   text-decoration: none;
   color: var(--tf-red1);
-  transition: color var(--tf-transition-speed);
 }
 
 a:hover {
@@ -50,12 +55,14 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Social icons */
+/* Social Media Icons */
 .tf-social {
-  fill: var(--tf-icon-fill);
+  display: inline-block;
+  fill: var(--tf-red1);
   height: 1.5em;
   width: 1.5em;
-  transition: all var(--tf-transition-speed);
+  vertical-align: -0.1em;
+  cursor: pointer;
 }
 
 .tf-social:hover {
@@ -63,10 +70,25 @@ a:hover {
   transform: translateY(-2px);
 }
 
-/* Profile photo */
+/* Project Cards */
+.card {
+  border: none;
+  border-radius: 12px;
+  background: white;
+  box-shadow: var(--tf-shadow-soft);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--tf-shadow-hover);
+}
+
+/* Rounded Profile Image */
 .rounded-circle {
-  border: 2px solid var(--tf-red1);
-  transition: all var(--tf-transition-speed);
+  border-color: var(--tf-red1);
+  border-style: solid;
+  border-width: 2px;
+  transition: border-color var(--tf-transition-speed);
 }
 
 .rounded-circle:hover {
@@ -74,144 +96,32 @@ a:hover {
   transform: scale(1.02);
 }
 
-/* ------------------------------------------------------- */
-/* ----------------- 🔥 PROJECT CARD REDESIGN ------------ */
-/* ------------------------------------------------------- */
-
-.project-card {
-  background: white;
-  border-radius: 14px;
-  overflow: hidden;
-  box-shadow: var(--tf-shadow-soft);
-  transition: all var(--tf-transition-speed);
-  display: flex;
-  flex-direction: column;
+/* Navigation Hover Refinements */
+.nav-link:hover {
+  color: var(--tf-red2) !important;
 }
 
-.project-card:hover {
-  transform: translateY(-6px);
+/* Buttons */
+.btn {
+  border-radius: 8px;
+  padding: 0.55rem 1.2rem;
+  font-weight: 500;
+  box-shadow: var(--tf-shadow-soft);
+}
+
+.btn-primary {
+  background-color: var(--tf-red1);
+  border-color: var(--tf-red1);
+}
+
+.btn-primary:hover {
+  background-color: var(--tf-red2);
+  border-color: var(--tf-red2);
   box-shadow: var(--tf-shadow-hover);
 }
 
-/* Thumbnail */
-.project-card img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  transition: transform var(--tf-transition-speed);
-}
-
-.project-card:hover img {
-  transform: scale(1.03);
-}
-
-/* Content */
-.project-card-body {
-  padding: 1.2rem 1.4rem;
-}
-
-.project-card-title {
-  font-family: "Rubik";
-  color: var(--tf-red1);
-  font-size: 1.15rem;
-  margin-bottom: 0.4rem;
-}
-
-.project-card-desc {
-  color: var(--tf-gray2);
-  font-size: 0.95rem;
-  margin-bottom: 1rem;
-}
-
-/* Tags */
-.project-tags span {
-  background: var(--tf-red3);
-  color: var(--tf-red1);
-  padding: 4px 10px;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  margin-right: 6px;
-}
-
-/* View button */
-.project-btn {
-  display: inline-block;
-  margin-top: auto;
-  padding: 0.55rem 1rem;
-  border-radius: 8px;
-  background: var(--tf-red1);
-  color: white;
-  font-weight: 500;
-  transition: all var(--tf-transition-speed);
-}
-
-.project-btn:hover {
-  background: var(--tf-red2);
-  transform: translateY(-2px);
-}
-
-/* ------------------------------------------------------- */
-/* ----------------- ⚫ DARK MODE VERSION ---------------- */
-/* ------------------------------------------------------- */
-
-/* Add .dark-mode to <html> or <body> to activate */
-.dark-mode {
-  --tf-page-bg-color: #141414;
-  --tf-gray-bg: #141414;
-  --tf-gray1: #eaeaea;
-  --tf-gray2: #b2b2b2;
-
-  --tf-red1: #d34a57;  /* Softened for dark mode */
-  --tf-red2: #f06573;
-  --tf-red3: rgba(211, 74, 87, 0.12);
-
-  --tf-footer-bg-color: #1d1d1d;
-  --tf-projects-bg-color: #1d1d1d;
-
-  background-color: var(--tf-page-bg-color);
-  color: var(--tf-gray1);
-}
-
-/* Dark Mode Heading */
-.dark-mode h1, 
-.dark-mode h2, 
-.dark-mode h3, 
-.dark-mode h4, 
-.dark-mode h5 {
-  color: var(--tf-red2);
-}
-
-/* Dark Mode Project Cards */
-.dark-mode .project-card {
-  background: #1d1d1d;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
-}
-
-.dark-mode .project-card:hover {
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.75);
-}
-
-.dark-mode .project-tags span {
-  background: var(--tf-red3);
-  color: var(--tf-red2);
-}
-
-.dark-mode .project-card-desc {
-  color: var(--tf-gray2);
-}
-
-.dark-mode .project-btn {
-  background: var(--tf-red2);
-}
-
-.dark-mode .project-btn:hover {
-  background: var(--tf-red1);
-}
-
-/* Dark Mode global link color */
-.dark-mode a {
-  color: var(--tf-red2);
-}
-.dark-mode a:hover {
-  color: var(--tf-red1);
+/* Footer */
+footer {
+  background-color: var(--tf-footer-bg-color);
+  padding: 2rem 0;
 }
