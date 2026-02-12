@@ -56,7 +56,7 @@ While I did hold many different duties within Team Half & Half throughout the co
 
 <div class="clearfix"></div>
 
-<img width="624px" height="333px"
+<img width="624px" height="309px"
     class="float-end pe-4" 
      src="../img/spirebooks/spirebooks-landing-2.png" >
 
