@@ -49,6 +49,13 @@ While I did hold many different duties within Team Half & Half throughout the co
 - **Component Management**
 - **Code Refactoring**
 
+<img width="520px" height="740px"
+    class="float-end pe-4" 
+     src="../img/spirebooks/spirebooks-landing.png" >
+<img width="520px" height="740px"
+    class="float-end pe-4" 
+     src="../img/spirebooks/spirebooks-landing-2.png" >
+
 &nbsp;
 
 **Tech Stack:** React, Meteor, Bootstrap, MongoDB, HTML, CSS, JSX  
