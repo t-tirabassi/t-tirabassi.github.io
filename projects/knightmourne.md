@@ -64,7 +64,17 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-**Watch the Knightmourne gameplay trailer [here](https://youtu.be/_6KkzWq3x44)!**
+<div style="text-align:center;">
+  <iframe 
+    width="640" 
+    height="360" 
+    src="https://www.youtube.com/embed/_6KkzWq3x44" 
+    title="Knightmourne Gameplay Trailer"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 &nbsp;
 
