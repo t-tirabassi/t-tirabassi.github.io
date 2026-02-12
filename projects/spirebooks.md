@@ -75,4 +75,4 @@ More in-depth views of the project and my contributions can be accessed through:
 
 &nbsp;
 
-Note: The app itself was not deployed publicly due to the contractual partnership with Spire Hawaii.
+**Note:** The app itself was not deployed publicly due to the contractual partnership with Spire Hawaii.
