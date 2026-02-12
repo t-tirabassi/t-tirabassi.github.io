@@ -31,6 +31,8 @@ SpireBooks was a financial projection and management decision tool developed for
 
 &nbsp;
 
+&nbsp;
+
 ### Problem
 
 Spire Hawaii required a web application for visualizing financial projections, managing client specific data, and providing easy-to-read reports for both Spire employees and client companies.
