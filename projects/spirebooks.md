@@ -50,8 +50,12 @@ While I did hold many different duties within Team Half & Half throughout the co
 - **Code Refactoring**
 
 <img width="624px" height="333px"
-    class="float-end pe-4" 
+    class="float-end pe-4 mb-1" 
      src="../img/spirebooks/spirebooks-landing.png" >
+
+<img width="624px" height="333px"
+    class="float-end pe-4" 
+     src="../img/spirebooks/spirebooks-landing-2.png" >
 
 &nbsp;
 
