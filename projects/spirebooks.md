@@ -27,30 +27,27 @@ summary: "SpireBooks, a financial projection and management decision tool made f
      class="float-start pe-4" 
      src="../img/spirebooks/spirebooks-logo-small.png" >
 
-SpireBooks was the result of a course project for the course ICS 414: Software Engineering II, in which teams were tasked with developing a web application to be used as a financial projection and management decision tool for the local CPA firm Spire Hawaii. My team and I which consisted of 8 team members (called Team Half and Half), were tasked with building this application for Spire employees to effectively use while also meeting with the customer every two weeks for insightful feedback. During the process, we were given example sets of data to represent the equations and financial metrics used by Spire and needed to develop the app to take data inputs and present these projections in an easily understandable and aesthetic way. Different employee roles were also taken into account along with data tied to each role implemented within the application. Different forms correlated to projectional graphs that could be adjusted to account for shifting metrics and audits performed by Spire. 
+SpireBooks is a financial projection and management decision tool **developed for Spire Hawaii** to help employees and stakeholders visualize projections, perform audits, and manage financial data efficiently. The application was built as a course project in ICS 414: Software Engineering II by my team, Team Half & Half.
 
-This process of development followed Issue Drive Project Management (IDPM), more commonly referred to as Agile Project Management, which included a consistent group work schedule, prioritizing communication, dividing and assigning tasks to individual group member (with each task being separate within its own branch), documenting the development process, and separate milestones to account for the different stages of development and progress we had made towards the final product. Each week, we were also tasked with focusing on 2 files within our project to perform code reviews, which allowed us to improve our coding standards and create a more professional development environment.
+---
 
-&nbsp;
+### Mini Case Study
 
-### Main Contributions
+**Problem:** Spire Hawaii needed a web application to consolidate financial projections, manage user-specific data, and provide easy-to-read reports for employees and stakeholders.  
 
-While I did hold many different duties within Team Half & Half throughout the course of the project, tha main contributions I made throughout the various milestones are as follows:
+**Role:** I contributed to **UI design and functionality, user roles and account data, application acceptance tests, component management, and code refactoring** throughout the project lifecycle.  
 
-- **UI Design and Functionality**
-- **User Roles and Account Data**
-- **Application Acceptance Tests**
-- **Component Management**
-- **Code Refactoring**
+**Tech Stack:** React, Meteor, Bootstrap, MongoDB, HTML, CSS, JSX  
 
-More in-depth looks at my work and contributions can be viewed through the Projects tab found within the spirebooks repository linked [here](https://github.com/orgs/Team-Half-and-Half/projects).
+**Solution:** Developed a responsive web app that:  
+- Supported multiple user roles with role-specific data access  
+- Visualized projections through adjustable graphs and forms  
+- Implemented a structured Agile workflow (IDPM) with code reviews, milestones, and task assignments  
+- Enhanced code maintainability through component management and refactoring  
 
-Insights into the actual functionalities and aesthetics of the app can be found on the Team Half and Half .io page which can be accessed by clicking [here](https://team-half-and-half.github.io/).
+**Impact:** Enabled Spire Hawaii employees to efficiently input, track, and interpret financial data, improving decision-making and reporting workflows. Although the app is not publicly deployed due to contractual agreements, the repository and project board demonstrate the implementation and design details.  
 
-&nbsp;
-
-If you would like to see the final results and timeline of this project, feel free to visit [https://team-half-and-half.github.io/](https://team-half-and-half.github.io/)
-
-To better understand the inner workings of the application, please visit [https://github.com/Team-Half-and-Half/spirebooks](https://github.com/Team-Half-and-Half/spirebooks)
-
-Note: The app itself was not deployed publicly due to the contractual partnership with Spire Hawaii.
+More in-depth views of the project and my contributions can be accessed through:  
+- Project board: [Projects tab](https://github.com/orgs/Team-Half-and-Half/projects)  
+- Team site: [Team Half & Half](https://team-half-and-half.github.io/)  
+- Repository: [GitHub repo](https://github.com/Team-Half-and-Half/spirebooks)
