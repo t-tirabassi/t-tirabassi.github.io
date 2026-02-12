@@ -15,7 +15,7 @@ labels:
   - HTML
   - CSS
   - JSX
-summary: "My team and I created UH Repcompanion, an application designed to connect University of Hawai'i students seeking gym partners."
+summary: "UH Repcompanion, an web application designed to connect University of Hawai'i students seeking gym partners and track workout progress."
 ---
 
 &nbsp;
