@@ -67,13 +67,12 @@ Team Half & Half opted to build a web application that:
 <div style="text-align:center;">
   
 <img width="624px" height="333px"
-    class="float-end ps-4 mb-1" 
+    class="mb-1" 
      src="../img/spirebooks/spirebooks-landing.png" >
 
 <div class="clearfix"></div>
 
 <img width="624px" height="309px"
-    class="float-end ps-4" 
      src="../img/spirebooks/spirebooks-landing-2.png" >
      
 </div>
