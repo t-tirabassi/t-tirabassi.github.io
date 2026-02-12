@@ -45,6 +45,10 @@ While I did hold many different duties within Team Half & Half throughout the co
 
 &nbsp;
 
+**Tech Stack:** React, Meteor, Bootstrap, MongoDB, HTML, CSS, JSX  
+
+&nbsp;
+
 More in-depth views of the project and my contributions can be accessed through:  
 - Project board: [Projects tab](https://github.com/orgs/Team-Half-and-Half/projects)  
 - Team site: [Team Half & Half](https://team-half-and-half.github.io/)  
