@@ -43,16 +43,6 @@ Spire Hawaii required a web application for visualizing financial projections, m
 
 While I did hold many different duties within Team Half & Half throughout the course of the project, the main contributions I made throughout the various milestones are as follows:
 
-<img width="624px" height="333px"
-    class="float-end ps-4 mb-1" 
-     src="../img/spirebooks/spirebooks-landing.png" >
-
-<div class="clearfix"></div>
-
-<img width="624px" height="309px"
-    class="float-end ps-4" 
-     src="../img/spirebooks/spirebooks-landing-2.png" >
-
 - **UI Design and Functionality**
 - **User Roles and Account Data**
 - **Application Acceptance Tests**
@@ -73,6 +63,20 @@ Team Half & Half opted to build a web application that:
 - Supported user roles with role-specific access to client data
 - Implemented Agile workflows (IDPM) consisting of code reviews, milestones, and assigned tasks
 - Relied on maintainable code via component management and refactoring
+
+<div style="text-align:center;">
+  
+<img width="624px" height="333px"
+    class="float-end ps-4 mb-1" 
+     src="../img/spirebooks/spirebooks-landing.png" >
+
+<div class="clearfix"></div>
+
+<img width="624px" height="309px"
+    class="float-end ps-4" 
+     src="../img/spirebooks/spirebooks-landing-2.png" >
+     
+</div>
 
 &nbsp;
 
