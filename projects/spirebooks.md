@@ -16,7 +16,7 @@ labels:
   - CSS
   - JSX
   - Finance
-summary: "My team and I created SpireBooks, a financial projection and management decision tool made for Spire Hawaii."
+summary: "SpireBooks, a financial projection and management decision tool made for the CPA firm Spire Hawaii."
 ---
 
 &nbsp;
