@@ -52,15 +52,7 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
-### Key Features
-
-&nbsp;
-
-* Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
-
-* Replayability: Diverse artifact builds and the different lore per artifacts held help to make a run more unique
-
-* Narrative Depth: Optional lore elements and environmental clues gives players freedom to either engage deeply or simply focus on the gameplay
+### Gameplay Trailer
 
 &nbsp;
 
@@ -75,6 +67,18 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
     allowfullscreen>
   </iframe>
 </div>
+
+&nbsp;
+
+### Key Features
+
+&nbsp;
+
+* Fast-paced Combat: Designed for responsive dodging and tactical weapon swapping
+
+* Replayability: Diverse artifact builds and the different lore per artifacts held help to make a run more unique
+
+* Narrative Depth: Optional lore elements and environmental clues gives players freedom to either engage deeply or simply focus on the gameplay
 
 &nbsp;
 
