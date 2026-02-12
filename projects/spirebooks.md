@@ -64,6 +64,8 @@ Team Half & Half opted to build a web application that:
 - Implemented Agile workflows (IDPM) consisting of code reviews, milestones, and assigned tasks
 - Relied on maintainable code via component management and refactoring
 
+&nbsp;
+
 <div style="text-align:center;">
   
 <img width="624px" height="333px"
