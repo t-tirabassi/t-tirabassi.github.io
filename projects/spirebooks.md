@@ -43,14 +43,13 @@ While I did hold many different duties within Team Half & Half throughout the co
 - **Component Management**
 - **Code Refactoring**
 
-More in-depth looks at my work and contributions can be viewed through the Projects tab found within the spirebooks repository linked [here](https://github.com/orgs/Team-Half-and-Half/projects).
-
-Insights into the actual functionalities and aesthetics of the app can be found on the Team Half and Half .io page which can be accessed by clicking [here](https://team-half-and-half.github.io/).
-
 &nbsp;
 
-If you would like to see the final results and timeline of this project, feel free to visit [https://team-half-and-half.github.io/](https://team-half-and-half.github.io/)
+More in-depth views of the project and my contributions can be accessed through:  
+- Project board: [Projects tab](https://github.com/orgs/Team-Half-and-Half/projects)  
+- Team site: [Team Half & Half](https://team-half-and-half.github.io/)  
+- Repository: [GitHub repo](https://github.com/Team-Half-and-Half/spirebooks)
 
-To better understand the inner workings of the application, please visit [https://github.com/Team-Half-and-Half/spirebooks](https://github.com/Team-Half-and-Half/spirebooks)
+&nbsp;
 
 Note: The app itself was not deployed publicly due to the contractual partnership with Spire Hawaii.
