@@ -44,14 +44,14 @@ Spire Hawaii required a web application for visualizing financial projections, m
 While I did hold many different duties within Team Half & Half throughout the course of the project, the main contributions I made throughout the various milestones are as follows:
 
 <img width="624px" height="333px"
-    class="float-end pe-4 mb-1" 
+    class="d-block ms-auto mb-1" 
      src="../img/spirebooks/spirebooks-landing.png" >
 
 
 <div class="clearfix"></div>
 
 <img width="624px" height="309px"
-    class="float-end pe-4" 
+    class="d-block ms-auto" 
      src="../img/spirebooks/spirebooks-landing-2.png" >
 
 - **UI Design and Functionality**
