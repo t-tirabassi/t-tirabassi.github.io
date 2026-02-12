@@ -27,15 +27,19 @@ summary: "SpireBooks, a financial projection and management decision tool made f
      class="float-start pe-4" 
      src="../img/spirebooks/spirebooks-logo-small.png" >
 
-SpireBooks was the result of a course project for the course ICS 414: Software Engineering II, in which teams were tasked with developing a web application to be used as a financial projection and management decision tool for the local CPA firm Spire Hawaii. My team and I which consisted of 8 team members (called Team Half and Half), were tasked with building this application for Spire employees to effectively use while also meeting with the customer every two weeks for insightful feedback. During the process, we were given example sets of data to represent the equations and financial metrics used by Spire and needed to develop the app to take data inputs and present these projections in an easily understandable and aesthetic way. Different employee roles were also taken into account along with data tied to each role implemented within the application. Different forms correlated to projectional graphs that could be adjusted to account for shifting metrics and audits performed by Spire. 
+SpireBooks was a financial projection and management decision tool developed for the local CPA firm Spire Hawaii to help the company visualize projections, perform audits, and manage Spire client data efficiently. The application itself was built as a course project for ICS 414, Software Engineerign II by my team, named Team Half & Half.
 
-This process of development followed Issue Drive Project Management (IDPM), more commonly referred to as Agile Project Management, which included a consistent group work schedule, prioritizing communication, dividing and assigning tasks to individual group member (with each task being separate within its own branch), documenting the development process, and separate milestones to account for the different stages of development and progress we had made towards the final product. Each week, we were also tasked with focusing on 2 files within our project to perform code reviews, which allowed us to improve our coding standards and create a more professional development environment.
+&nbsp;
+
+### Problem
+
+Spire Hawaii required a web application for visualizing financial projections, managing client specific data, and providing easy-to-read reports for both Spire employees and client companies.
 
 &nbsp;
 
 ### Main Contributions
 
-While I did hold many different duties within Team Half & Half throughout the course of the project, tha main contributions I made throughout the various milestones are as follows:
+While I did hold many different duties within Team Half & Half throughout the course of the project, the main contributions I made throughout the various milestones are as follows:
 
 - **UI Design and Functionality**
 - **User Roles and Account Data**
@@ -46,6 +50,21 @@ While I did hold many different duties within Team Half & Half throughout the co
 &nbsp;
 
 **Tech Stack:** React, Meteor, Bootstrap, MongoDB, HTML, CSS, JSX  
+
+&nbsp;
+
+### Solution
+
+Team Half & Half opted to build a web application that:
+
+- Visualized financial projections through adjustable graphs and forms
+- Supported user roles with role-specific access to client data
+- Implemented Agile workflows (IDPM) consisting of code reviews, milestones, and assigned tasks
+- Relied on maintainable code via component management and refactoring
+
+&nbsp;
+
+**Impact:** Enabled Spire Hawaii to properly input, track, and interpret financial data, allowing for visualized explanations, efficient auditing, and easily understandable reports that coudld be relayed to Spire clients. 
 
 &nbsp;
 
