@@ -7,6 +7,7 @@ date: 2025-05-17
 published: true
 labels:
   - Project Management
+  - Figma
   - Critical Thinking
   - Business Strategy
   - Organization Skills
