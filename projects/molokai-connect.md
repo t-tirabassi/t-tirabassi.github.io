@@ -8,12 +8,12 @@ published: true
 labels:
   - Project Management
   - Figma
+  - UI/UX Design
   - Critical Thinking
   - Business Strategy
   - Organization Skills
   - Data Gathering
-  - Interviewing
-  - Community Outreach
+  - Lean Startup Methodology
 summary: "A project done in collaboration with the Department of Hawaiian Home Lands (DHHL) and the State of Hawai'i for the Tribal Broadband Connectivity Program (TBCP) to explore solutions to bridge the digital divide faced by the island of Moloka'i."
 ---
 
