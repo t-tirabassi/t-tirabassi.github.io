@@ -42,6 +42,8 @@ The Landing Page served as the central hub of the application, providing first-t
 
 The Profile Page displayed user information from the database in a clean, readable card format, while the Edit Profile Page allowed users to update their information, with changes saved directly to MongoDB. Additionally, I designed a recognizable logo to establish a visual identity for the application. This milestone established the core structure of UH RepCompanion, providing a solid foundation for subsequent features and design improvements.
 
+&nbsp;
+
 **View Milestone 1 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/1](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 &nbsp;
