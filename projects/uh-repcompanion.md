@@ -23,7 +23,7 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 ### What is UH RepCompanion?
 
 <img width="220px" height="200px"
-     class="float-start pe-4" 
+     class="float-start ps-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
 
 UH RepCompanion was developed as the final project for the course ICS 314: Software Engineering I, where our team created a web application enabling University of Hawai'i students to find compatible gym partners for on-campus workouts. Following Issue Driven Project Management (IDPM), a form of Agile Project Management (APM), we distributed task assignments, held regular team meetings, upheld thorough documentation, and worked via milestone-based progress tracking. The application itself allowed students to register with their UH email and create profiles including name, major, bio, profile picture, workout interests, experience level, and optional social media links. Users were able to track their workouts, browse upcoming workout events, connect with other participants, and search profiles to find partners with similar interests or experience levels. Essentially, UH RepCompanion acted as a fitness-focused social platform, helping students to plan workouts and build connections with gym partners.
@@ -133,7 +133,7 @@ For the third and final milestone, the tasks that I was assigned to complete was
 ```
 
 <img width="370px" height="400px"
-    class="float-end pe-4" 
+    class="float-end ps-4" 
     src="../img/repcompanion/UH-RepCompanion-21.png" >
 
 On the Landing Page, I refined the layout of the informational section, as it was originally very bland and did not have texture nor proper formatting. I opted to lower the opacity percentage of the image as to not obscure the main background image, and also incorporated stylized Greek pillars as a symbol of strength to fit with the theme of the application. This incorporation was also an idea that was discussed during development. I also once again updated these sources of information to make clear what UH RepCompanion really is, and how it canhelp UH students connect with one anohter over similar fitness goals. Another task that I set out to accomplish was the dynamic sizing of user profile pictures. Originally, if you were to use a picture that had a large widht, it would stretch the image border to create an oval shape, yet we wanted the image to remain circular and within the border regardless of the original size. To do this, I updated the stylized elements of these images to ensure consistent sizing, and tested to this to ensure its effectiveness.
