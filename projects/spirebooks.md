@@ -27,7 +27,7 @@ summary: "SpireBooks, a financial projection and management decision tool made f
      class="float-start pe-4" 
      src="../img/spirebooks/spirebooks-logo-small.png" >
 
-SpireBooks was a financial projection and management decision tool developed for the local CPA firm Spire Hawaii to help the company visualize projections, perform audits, and manage Spire client data efficiently. The application itself was built as a course project for ICS 414, Software Engineerign II by my team, named Team Half & Half.
+**SpireBooks** was a financial projection and management decision tool developed for the local CPA firm **Spire Hawaii** to help the company visualize projections, perform audits, and manage Spire client data efficiently. The application itself was built as a course project for **ICS 414: Software Engineering II** by my team, named **Team Half & Half**.
 
 &nbsp;
 
@@ -35,13 +35,13 @@ SpireBooks was a financial projection and management decision tool developed for
 
 ### Problem
 
-Spire Hawaii required a web application for visualizing financial projections, managing client specific data, and providing easy-to-read reports for both Spire employees and client companies.
+**Spire Hawaii** required a web application for visualizing financial projections, managing client specific data, and providing easy-to-read reports for both Spire employees and client companies.
 
 &nbsp;
 
 ### Main Contributions
 
-While I did hold many different duties within Team Half & Half throughout the course of the project, the main contributions I made throughout the various milestones are as follows:
+While I did hold many different duties within **Team Half & Half** throughout the course of the project, the main contributions I made throughout the various milestones are as follows:
 
 - **UI Design and Functionality**
 - **User Roles and Account Data**
@@ -57,7 +57,7 @@ While I did hold many different duties within Team Half & Half throughout the co
 
 ### Solution
 
-Team Half & Half opted to build a web application that:
+**Team Half & Half** opted to build a web application that:
 
 - Visualized financial projections through adjustable graphs and forms
 - Supported user roles with role-specific access to client data
@@ -81,14 +81,14 @@ Team Half & Half opted to build a web application that:
 
 &nbsp;
 
-**Impact:** Enabled Spire Hawaii to properly input, track, and interpret financial data, allowing for visualized explanations, efficient auditing, and easily understandable reports that coudld be relayed to Spire clients. 
+**Impact:** Enabled **Spire Hawaii** to properly input, track, and interpret financial data, allowing for visualized explanations, efficient auditing, and easily understandable reports that coudld be relayed to Spire clients. 
 
 &nbsp;
 
 More in-depth views of the project and my contributions can be accessed through:  
-- Project board: [Projects tab](https://github.com/orgs/Team-Half-and-Half/projects)  
-- Team site: [Team Half & Half](https://team-half-and-half.github.io/)  
-- Repository: [GitHub repo](https://github.com/Team-Half-and-Half/spirebooks)
+- **Project board:** [Projects tab](https://github.com/orgs/Team-Half-and-Half/projects)  
+- **Team site:** [Team Half & Half](https://team-half-and-half.github.io/)  
+- **Repository:** [GitHub repo](https://github.com/Team-Half-and-Half/spirebooks)
 
 &nbsp;
 
