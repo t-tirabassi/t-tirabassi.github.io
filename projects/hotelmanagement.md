@@ -20,7 +20,7 @@ summary: "My team and I created a basic hotel management system in the language 
      class="rounded float-start pe-4" 
      src="../img/hotelmanagement/hotel-managementstock.jpeg" >
 
-This Hotel Management System was developed as the final project for the course ICS 212: Program Structure. Our team of five built the system in C++, dividing responsibilities across different program components. I served as the team lead, overseeing the project, coordinating integration, and refining the final build for presentation.
+This **Hotel Management System** was developed as the final project for the course **ICS 212: Program Structure**. Our team of five built the system in **C++**, dividing responsibilities across different program components. I served as the **team lead**, overseeing the project, coordinating integration, and refining the final build for presentation.
 
 We initially attempted a vector-based structure but encountered persistent bugs so I opted to lead the debugging process and transitioned the system to a C-string–based approach. My primary contributions included developing the Hotel class, implementing the room management features, building the customer search functionality, and debugging the full system.
 
@@ -108,7 +108,7 @@ We developed the system within VS Code as such:
 
 ### Learning Outcomes
 
-This project strengthened my technical and collaborative skills. Working in a team environment effectively mirrored real-world software development, where each member contributed different components that had to integrate cleanly. The experience improved my leadership skills, deepened my proficiency in C++ concepts, and exposed me to the real-life challenges of building a functioning system from scratch. It also highlighted how core programming principles translate into both academic and real-world applications.
+This project strengthened my technical and collaborative skills. Working in a team environment effectively mirrored real-world software development, where each member contributed different components that had to integrate cleanly. The experience improved my leadership skills, deepened my proficiency in **C++** concepts, and exposed me to the real-life challenges of building a functioning system from scratch. It also highlighted how core programming principles translate into both academic and real-world applications.
 
 &nbsp;
 
@@ -490,5 +490,7 @@ int main() {
 }
 ```
 
-(Note: Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
+&nbsp;
+
+(**Note:** Unfortunately, the path to the original GitHub repository from the course is privated and no longer accessible.)
 
