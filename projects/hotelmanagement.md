@@ -20,11 +20,13 @@ summary: "My team and I created a basic hotel management system in the language 
      class="rounded float-start pe-4" 
      src="../img/hotelmanagement/hotel-managementstock.jpeg" >
 
-  The Hotel Management System Project was a final project for the course ICS 212 in which we had to construct a basic hotel management syetm in C++. The class was divided into teams of 5 or 6 and we were all responsible for programming different sections of the code and then putting the program together. I took the lead in this project, by guiding my team and fine-tuning the program. My team and I used cstring arrays, structures, and class derivation to achieve this goal. We went through several different versions of the program, in which we were encountering bugs in our original implementation of a vector aproach. I took on the role of debugging the majority of the program, and realized that a cstring approach would be much more manageable for the build. Using the framework of the original code, we developed a fully functioning hotel management system that would store user input, rely on a main menu with sub-menus present based on the user's input, and the ability to combine multiple system options into one displayable output.
+This Hotel Management System was developed as the final project for the course ICS 212: Program Structure. Our team of five built the system in C++, dividing responsibilities across different program components. I served as the team lead, overseeing the project, coordinating integration, and refining the final build for presentation.
+
+We initially attempted a vector-based structure but encountered persistent bugs so I opted to lead the debugging process and transitioned the system to a C-string–based approach. My primary contributions included developing the Hotel class, implementing the room management features, building the customer search functionality, and debugging the full system.
 
 &nbsp;
 
-Below is the README file for the project that details the group members, what each group member's tasks were, and an overview of the code. As you can see, my tasks for this project included creating the Hotel class, the room mangagement system functions, creating a way for users to search for a customer within the system, and debugging the whole system.
+Below is the project's README file, outlining each team members' assigned tasks as well as an overview of the code:
 
 ```cpp
 Group 6 Hotel Management System
@@ -53,9 +55,9 @@ Code Overview:
 
 - Room class containing room details about room #, ac, comfort, etc. using constructors
 
-- Room details displayed through  function
+- Room details displayed through function
 
-- Customer class conatainging and aligning with customer details (name, address, phone, stay duration, payment, etc.). Getter function for getting the booking ID by name for case 4. 
+- Customer class containing and aligning with customer details (name, address, phone, stay duration, payment, etc.). Getter function for getting the booking ID by name for case 4. 
 
 - Customer details displayed through function
 
@@ -104,7 +106,7 @@ We developed the system within VS Code as such:
 
 ### Learning Outcomes
 
-  This project helped me to learn a lot, mainly when working in a collaborative and professional setting. Since each member of the team had to contribute various parts of the code for it then to be put together greatly reflected a real-world setting in a programming environment. I feel that this project not only tested my skills but also gave me insight in regards to the industries synonymous with programming. The experience also provided me with a great oppurunity to develop and improve my own leadership skills. It also helped to learn more about the different functionalities specifically within C++ and how they can be applied within both fictional and real world settings, all while offering intellectual challenges in the process of collaborative group work.
+This project strengthened my technical and collaborative skills. Working in a team environment effectively mirrored real-world software development, where each member contributed different components that had to integrate cleanly. The experience improved my leadership skills, deepened my proficiency in C++ concepts, and exposed me to the real-life challenges of building a functioning system from scratch. It also highlighted how core programming principles translate into both academic and real-world applications.
 
 &nbsp;
 
