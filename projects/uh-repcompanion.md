@@ -134,10 +134,15 @@ This project managed to teach me a lot about collaborative projects especially w
 
 &nbsp;
 
-If you would like to see the final results of this project, feel free to visit [https://uh-repcompanion.github.io/](https://uh-repcompanion.github.io/)
+You can explore the final deployed application here:  
+**[https://uhrepcompanion.site/](https://uhrepcompanion.site/)**
 
-To better understand the inner workings of the application, please visit [https://github.com/UH-RepCompanion/RepCompanion-1](https://github.com/UH-RepCompanion/RepCompanion-1)
+To view the project overview and documentation, visit:  
+**[https://uh-repcompanion.github.io/](https://uh-repcompanion.github.io/)**
 
-In order to access the deployed application, you can visit [https://uhrepcompanion.site/](https://uhrepcompanion.site/)
+For the full source code and technical details, see the GitHub repository:  
+**[https://github.com/UH-RepCompanion/RepCompanion-1](https://github.com/UH-RepCompanion/RepCompanion-1)**
 
-(Note: Based on the time period in which you are attempting to access the deployed application, it may no longer be accessible.)
+&nbsp;
+
+(**Note:** Based on the time period in which you are attempting to access the deployed application, it may no longer be accessible.)
