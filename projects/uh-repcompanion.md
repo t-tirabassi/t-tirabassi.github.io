@@ -62,7 +62,7 @@ This milestone was a significant step in shaping the application’s structure a
 
 &nbsp;
 
-**View Milestone 2 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/9](https://github.com/orgs/UH-RepCompanion/projects/9)
+> **View Milestone 2 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/9](https://github.com/orgs/UH-RepCompanion/projects/9)
 
 &nbsp;
 
