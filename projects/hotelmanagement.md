@@ -26,6 +26,8 @@ We initially attempted a vector-based structure but encountered persistent bugs 
 
 &nbsp;
 
+&nbsp;
+
 Below is the project's README file, outlining each team members' assigned tasks as well as an overview of the code:
 
 ```cpp
