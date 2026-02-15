@@ -84,6 +84,8 @@ In the third and final milestone (**M3**), I focused on enhancing **user profile
 
 To implement social media links, I updated the **Profiles collection** so that links submitted upon registration or through profile edits would be tied to a user’s account in the **database**. I then added **validation checks** to ensure that submitted URLs matched supported social media platforms, including Instagram, Discord, LinkedIn, Snapchat, Facebook, and Twitter. On the **Profile Page**, only the social links provided by the user are displayed as clickable icons, each linking directly to that user's respective social media page.
 
+&nbsp;
+
 Here’s how a user's social media links were rendered within the **code**:
 
 ```jsx
