@@ -88,6 +88,10 @@ To implement social media links, I updated the **Profiles collection** so that l
 
 Here’s how a user's social media links were rendered within the **code**:
 
+<details open>
+  <summary><strong>Show Full Code</strong></summary>
+
+
 
 ```jsx
   const renderIconForSocialLink = (platform, link) => {
@@ -158,6 +162,8 @@ Here’s how a user's social media links were rendered within the **code**:
     </Row>
   );
 ```
+</details>
+
 
 &nbsp;
 
