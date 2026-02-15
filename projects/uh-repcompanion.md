@@ -91,6 +91,10 @@ For the third and final milestone, the tasks that I was assigned to complete was
         IconComponent = Instagram;
         url = `https://instagram.com/${link}`;
         break;
+```
+<details><summary><strong>Show full code </strong></summary>
+
+```jsx
       case 'Discord':
         IconComponent = Discord;
         url = `https://discord.com/${link}`;
@@ -148,6 +152,7 @@ For the third and final milestone, the tasks that I was assigned to complete was
       )}
     </Row>
   );
+</details>
 ```
 
 <img width="370px" height="400px"
