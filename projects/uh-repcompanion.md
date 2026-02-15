@@ -22,6 +22,8 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 
 ### What is UH RepCompanion?
 
+&nbsp;
+
 <img width="220px" height="200px"
      class="float-start pe-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
