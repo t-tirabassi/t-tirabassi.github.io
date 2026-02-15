@@ -154,6 +154,8 @@ Here’s how a user's social media links were rendered within the **code**:
   );
 ```
 
+&nbsp;
+
 <img width="370px" height="400px"
     class="float-end ps-4" 
     src="../img/repcompanion/UH-RepCompanion-21.png" >
