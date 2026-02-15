@@ -46,8 +46,6 @@ The **Landing Page** served as the central hub of the application, providing fir
 
 The **Profile Page** displayed user information from the database in a clean, readable card format, while the **Edit Profile Page** allowed users to update their information, with changes saved directly to **MongoDB**. Additionally, I designed a recognizable logo to establish a visual identity for the application. This milestone established the core structure of UH RepCompanion, providing a solid foundation for subsequent features and design improvements.
 
-&nbsp;
-
 **View Milestone 1 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/1](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 &nbsp;
@@ -155,8 +153,6 @@ For the third and final milestone, the tasks that I was assigned to complete was
 On the Landing Page, I refined the layout of the informational section, as it was originally very bland and did not have texture nor proper formatting. I opted to lower the opacity percentage of the image as to not obscure the main background image, and also incorporated stylized Greek pillars as a symbol of strength to fit with the theme of the application. This incorporation was also an idea that was discussed during development. I also once again updated these sources of information to make clear what UH RepCompanion really is, and how it canhelp UH students connect with one anohter over similar fitness goals. Another task that I set out to accomplish was the dynamic sizing of user profile pictures. Originally, if you were to use a picture that had a large widht, it would stretch the image border to create an oval shape, yet we wanted the image to remain circular and within the border regardless of the original size. To do this, I updated the stylized elements of these images to ensure consistent sizing, and tested to this to ensure its effectiveness.
 
 In regards to linking the calendar to the schedule, I changed its original usage so that if a user adds anything to their schedule page, it would reflect this within the small weekly calendar on the profile page, indicated by a dumbbell icon. Originally, this weekly calendar would just be controlled via the profile page, but this updated usage is much more proficient at tracking one's workout plans. I stylizied the event cards by adding icons and coloring to fill them out more, and finally added more accessible links upon login to visit the Events and Finder page on the landing page. Essentially, on the login page you would be presented with the Login and Register button, but after loggin in, these would be replaced with two icons for the Events and Finder page. This milestone was definitely the heaviest, as it required a lot of additions and revisions to be made to conclude the final stretch of the project.
-
-&nbsp;
 
 **View Milestone 3 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/17](https://github.com/orgs/UH-RepCompanion/projects/17)
 
