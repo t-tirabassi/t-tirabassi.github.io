@@ -50,6 +50,8 @@ The **Profile Page** displayed user information from the database in a clean, re
 
 &nbsp;
 
+&nbsp;
+
 ### Milestone 2
 
 &nbsp;
@@ -67,6 +69,8 @@ This milestone was a significant step in shaping the application’s structure a
 <div style="margin-left: 330px;">
   <strong>View Milestone 2 Project Board:</strong> <a href="https://github.com/orgs/UH-RepCompanion/projects/9">https://github.com/orgs/UH-RepCompanion/projects/9</a>
 </div>
+
+&nbsp;
 
 &nbsp;
 
