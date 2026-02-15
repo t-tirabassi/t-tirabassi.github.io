@@ -22,6 +22,8 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 
 ### What is UH RepCompanion?
 
+&nbsp;
+
 <img width="220px" height="200px"
      class="float-start pe-4" 
      src="../img/repcompanion/uh-repcompanion.png" >
@@ -31,6 +33,8 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 &nbsp;
 
 ### Milestone 1
+
+&nbsp;
 
 <img width="300px" height="390px"
     class="float-end ps-4" 
@@ -52,6 +56,8 @@ The **Profile Page** displayed user information from the database in a clean, re
 
 ### Milestone 2
 
+&nbsp;
+
 <img width="330px" height="390px"
     class="float-start pe-4" 
     src="../img/repcompanion/UH-RepCompanion-15.png" >
@@ -71,6 +77,8 @@ This milestone was a significant step in shaping the application’s structure a
 &nbsp;
 
 ### Milestone 3
+
+&nbsp;
 
 In the third and final milestone (**M3**), I focused on enhancing **user profiles**, improving the **user interface (UI)**, and adding **advanced functionality** to UH RepCompanion. Key tasks included implementing a way for users to include **social media links** in their profile, updating the informational application footer, enabling **dynamic** profile picture sizing, linking the **weekly calendar** to **users’ schedules**, styling **event cards**, and improving accessibility for the **Events** and **Finder** pages.
 
@@ -171,6 +179,8 @@ This milestone was the most complex, coordinating multiple **backend** and **fro
 &nbsp;
 
 ### Closing Thoughts
+
+&nbsp;
 
 Working on **UH RepCompanion** provided me with valuable insights into collaborative **software development** in a professional context. This project strengthened my **communication skills**, emphasized the importance of **documentation**, and highlighted effective **time management** and **organizational** skills in a team setting.
 
