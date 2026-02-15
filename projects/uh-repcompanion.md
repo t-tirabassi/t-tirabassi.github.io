@@ -48,7 +48,7 @@ The **Profile Page** displayed user information from the database in a clean, re
 
 &nbsp;
 
-**View Milestone 1 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/1](https://github.com/orgs/UH-RepCompanion/projects/1)
+**View Milestone 1 Project Board: [https://github.com/orgs/UH-RepCompanion/projects/1](https://github.com/orgs/UH-RepCompanion/projects/1)**
 
 &nbsp;
 
@@ -69,7 +69,7 @@ In addition to the **Landing Page** improvements, I implemented a **weekly calen
 This milestone was a significant step in shaping the application’s structure and introducing major interactive **UI/UX features**, setting the foundation for the more advanced functionality and design enhancements implemented in the third and final milestone (**M3**).
 
 <div style="margin-left: 330px;">
-  <strong>View Milestone 2 Project Board:</strong> <a href="https://github.com/orgs/UH-RepCompanion/projects/9">https://github.com/orgs/UH-RepCompanion/projects/9</a>
+  <strong>View Milestone 2 Project Board: <a href="https://github.com/orgs/UH-RepCompanion/projects/9">https://github.com/orgs/UH-RepCompanion/projects/9</a></strong>
 </div>
 
 &nbsp;
@@ -170,7 +170,7 @@ This milestone was the most complex, coordinating multiple **backend** and **fro
 
 &nbsp;
 
-**View Milestone 3 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/17](https://github.com/orgs/UH-RepCompanion/projects/17)
+**View Milestone 3 Project Board: [https://github.com/orgs/UH-RepCompanion/projects/17](https://github.com/orgs/UH-RepCompanion/projects/17)**
 
 &nbsp;
 
