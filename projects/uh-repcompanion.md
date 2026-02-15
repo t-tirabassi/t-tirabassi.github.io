@@ -182,6 +182,12 @@ This milestone was the most complex, coordinating multiple **backend** and **fro
 
 This project managed to teach me a lot about collaborative projects especially within a software engineering setting. This experience gave me a sense of how software engineers operate within the workforce, along with the organization and efficient use of time that one must have. I feel that I was able to develop a stronger sense of communication while working within a group, and the importance of documentation throughout development. By following the style of Issue Driven Project Management (IDPM), I learned to slowly build upon a foundation by taking each addition step by step, which was important when attempting to decipher any issues that would arise especially upon merging. I also learned more technical skills such as the deployment aspect of a web application, as well as the means to acquiring custom domains. On top of that, I learned of a lot more functions and features that I can incorporate into my future projects, mainly driven by the research done when I was attempting to add a new feature such as the weekly calendar mentioned previously. Overall, this experience gave me insight into how these projects are carried out within real world settings, and has prepared me for my future endeavors and career within software engineering.
 
+Working on **UH RepCompanion** provided me with valuable insights into collaborative **software development** in a professional context. This project strengthened my **communication skills**, emphasized the importance of **documentation**, and highlighted effective **time management** and **organizational** skills in a team setting.
+
+Following **Issue Driven Project Management (IDPM)** allowed our team to build the application iteratively, addressing challenges systematically and managing merges efficiently. Technically, I gained experience in **web application deployment**, **database integration**, and **feature implementation**, such as the weekly calendar—ultimately helping me develop my skills in **software engineering**, **front-end and back-end development**, and **UI/UX design**.
+
+Overall, this project enhanced both my technical and soft skills, deepened my understanding of real-world **software engineering** workflows, and prepared me for future development projects and professional growth in the field.
+
 &nbsp;
 
 You can explore the final deployed application here:  
