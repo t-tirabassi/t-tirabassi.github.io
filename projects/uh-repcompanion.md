@@ -160,7 +160,7 @@ Here’s how a user's social media links were rendered within the **code**:
     class="float-end ps-4" 
     src="../img/repcompanion/UH-RepCompanion-21.png" >
 
-I also refined the **Landing Page** layout, incorporating stylized Greek pillars to align with the fitness theme, and updating the informational content to clearly communicate the purpose of UH RepCompanion. **Profile pictures** were also fixed to dynamically maintain circular sizing regardless of original dimensions. The **weekly calendar** was also updated to integrate with user schedules so planned workouts automatically displayed on the profile calendar. **Event cards** were enhanced with icons and colors, and login buttons were replaced with direct links to the **Events** and **Finder** pages once users are authenticated.
+I also refined the **Landing Page** layout, incorporating stylized Greek pillars to align with the fitness theme, and updating the informational content to clearly communicate the purpose of UH RepCompanion. **Profile pictures** were also fixed to **dynamically** maintain circular sizing regardless of original dimensions. The **weekly calendar** was also updated to integrate with **user schedules** so planned workouts automatically displayed on the profile calendar. **Event cards** were enhanced with icons and colors, and login buttons were replaced with direct links to the **Events** and **Finder** pages once users are authenticated.
 
 This milestone was the most complex, coordinating multiple **backend** and **frontend** enhancements, and significantly improved usability, interactivity, and the overall finalized polish of the application.
 
