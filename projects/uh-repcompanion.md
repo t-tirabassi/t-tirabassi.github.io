@@ -166,6 +166,8 @@ I also refined the **Landing Page** layout, incorporating stylized Greek pillars
 
 This milestone was the most complex, coordinating multiple **backend** and **frontend** enhancements, and significantly improved usability, interactivity, and the overall finalized polish of the application.
 
+&nbsp;
+
 **View Milestone 3 Project Board:** [https://github.com/orgs/UH-RepCompanion/projects/17](https://github.com/orgs/UH-RepCompanion/projects/17)
 
 &nbsp;
