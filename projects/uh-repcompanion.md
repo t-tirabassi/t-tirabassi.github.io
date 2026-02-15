@@ -32,6 +32,8 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 
 ### Milestone 1
 
+&nbsp;
+
 <img width="300px" height="390px"
     class="float-end ps-4" 
      src="../img/repcompanion/UH-RepCompanion-17.png" >
@@ -49,6 +51,8 @@ The **Profile Page** displayed user information from the database in a clean, re
 &nbsp;
 
 ### Milestone 2
+
+&nbsp;
 
 <img width="330px" height="390px"
     class="float-start pe-4" 
@@ -69,6 +73,8 @@ This milestone was a significant step in shaping the application’s structure a
 &nbsp;
 
 ### Milestone 3
+
+&nbsp;
 
 For the third and final milestone, the tasks that I was assigned to complete was implementing a way for user's to include their social media links which would then appear on their profile, fixing the informational footer's format and style, incorporating dynamic image sizing into user profile pictures, linking the weekly calendar to the user's schedule, styling the event cards, and adding accessibility to the Events and Finder page upon login. To implement the social links, I first had to update the Profiles collection so that upon submitting the form whether it be through registration or editing their profile, a user's social media would be tied to their accounts within the database. After doing this, I then incorporated a url identification which would then check the links being input into the form to verify whether or not they were valid. The social links available to a user were limited to Instagram, Discord, LinkedIn, Snapchat Facebook, and Twitter. This identification process would check to see that these links matched the expression of these social media platforms, and would pass if validated. Within the Profile Page, I then implemented a function that used different cases to display only the social links that the user chose to add to their profile, represented by an icon for that social media platform, which also served as a link that other users could clik on to visit that users social media. For example, if a user were input a link to their Instagram account, it would then check and validate whether or not the link is a valid Instagram link, then display the Instagram icon on their profile, which when upon clicking said icon, would redirect them to that user's Instagram page. Here's how the incorporation of these social links works in the code:
 
@@ -157,6 +163,8 @@ In regards to linking the calendar to the schedule, I changed its original usage
 &nbsp;
 
 ### Closing Thoughts
+
+&nbsp;
 
 This project managed to teach me a lot about collaborative projects especially within a software engineering setting. This experience gave me a sense of how software engineers operate within the workforce, along with the organization and efficient use of time that one must have. I feel that I was able to develop a stronger sense of communication while working within a group, and the importance of documentation throughout development. By following the style of Issue Driven Project Management (IDPM), I learned to slowly build upon a foundation by taking each addition step by step, which was important when attempting to decipher any issues that would arise especially upon merging. I also learned more technical skills such as the deployment aspect of a web application, as well as the means to acquiring custom domains. On top of that, I learned of a lot more functions and features that I can incorporate into my future projects, mainly driven by the research done when I was attempting to add a new feature such as the weekly calendar mentioned previously. Overall, this experience gave me insight into how these projects are carried out within real world settings, and has prepared me for my future endeavors and career within software engineering.
 
