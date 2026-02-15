@@ -152,8 +152,8 @@ For the third and final milestone, the tasks that I was assigned to complete was
       )}
     </Row>
   );
-</details>
 ```
+</details>
 
 <img width="370px" height="400px"
     class="float-end ps-4" 
