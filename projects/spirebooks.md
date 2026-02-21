@@ -33,11 +33,15 @@ summary: "SpireBooks, a financial projection and management decision tool made f
 
 &nbsp;
 
+---
+
 ### Problem
 
 **Spire Hawaii** required a web application for visualizing financial projections, managing client specific data, and providing easy-to-read reports for both Spire employees and client companies.
 
 &nbsp;
+
+---
 
 ### Main Contributions
 
@@ -54,6 +58,8 @@ While I did hold many different duties within **Team Half & Half** throughout th
 **Tech Stack:** React, Meteor, Bootstrap, MongoDB, HTML, CSS, JSX  
 
 &nbsp;
+
+---
 
 ### Solution
 
