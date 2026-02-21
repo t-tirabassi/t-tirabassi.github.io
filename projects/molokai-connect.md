@@ -83,7 +83,7 @@ Ultimately, we identified that the primary barrier was not connectivity itself b
 
 ***(Left)*** *The Moloka'i Connect team with our Professor Jeff Hui at a senate hearing at the Hawai'i State Capitol.*
 
-***(Middle)*** *Moloka'i Connect and the DHHL at our first meeting with Lieutenant Governor of Hawai'i Sylvia Luke.*
+***(Middle)*** *Moloka'i Connect and the DHHL on our trip visiting the island of Moloka'i.*
 
 ***(Right)*** *Moloka'i Connect and the DHHL at our first meeting with Hawai'i State Senator Lynn Decoite.*
 
