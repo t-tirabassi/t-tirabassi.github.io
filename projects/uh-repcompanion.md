@@ -30,7 +30,7 @@ summary: "UH Repcompanion, an web application designed to connect University of 
 
 **UH RepCompanion** was developed as the final project for the course **ICS 314: Software Engineering I**, where our team created a web application enabling University of Hawai'i students to find compatible gym partners for on-campus workouts. Following **Issue Driven Project Management (IDPM)**, a form of **Agile Project Management (APM)**, we distributed task assignments, held regular team meetings, upheld thorough documentation, and worked via milestone-based progress tracking. The application itself allowed students to register with their UH email and create profiles including name, major, bio, profile picture, workout interests, experience level, and optional social media links. Users were able to track their workouts, browse upcoming workout events, connect with other participants, and search profiles to find partners with similar interests or experience levels. Essentially, UH RepCompanion acted as a fitness-focused social platform, helping students to plan workouts and build connections with gym partners.
 
-&nbsp;
+---
 
 ### Milestone 1
 
@@ -52,7 +52,7 @@ The **Profile Page** displayed user information from the database in a clean, re
 
 &nbsp;
 
-&nbsp;
+---
 
 ### Milestone 2
 
@@ -74,7 +74,7 @@ This milestone was a significant step in shaping the application’s structure a
 
 &nbsp;
 
-&nbsp;
+---
 
 ### Milestone 3
 
@@ -178,7 +178,7 @@ This milestone was the most complex, coordinating multiple **backend** and **fro
 
 &nbsp;
 
-&nbsp;
+---
 
 ### Closing Thoughts
 
