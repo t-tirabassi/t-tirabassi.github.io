@@ -89,12 +89,12 @@ Ultimately, we identified that the primary barrier was not connectivity itself b
 
 &nbsp;
 
-**More photos available upon request**
+**Additional photos available upon request.**
 
 &nbsp;
 
-**Learn more about the broadband connectivity programs that Moloka'i Connect contributed to by visiting** [https://dhhlbroadband.com/](https://dhhlbroadband.com)
+**To learn more about the broadband connectivity programs that Moloka'i Connect contributed to, please visit** [https://dhhlbroadband.com/](https://dhhlbroadband.com)
 
 &nbsp;
 
-**Project contacts and/or supervisors available upon request**
+**Project contacts and supervisors available upon request.**
