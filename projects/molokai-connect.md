@@ -25,11 +25,36 @@ summary: "A project done in collaboration with the Department of Hawaiian Home L
      class="float-start pe-4" 
      src="../img/molokai/Moloka'i.jpg" >
 
-Moloka'i Connect was a team formed through the collaborations between the University of Hawai'i at Manoa (UHM), the Department of Hawaiian Home Lands (DHHL), and the State of Hawai'i, with the sole task of working closely with the Connect Kakou initiative and the Tribal Broadband Connectivity Program (TBCP) to bridge the digital divide faced by the island of Moloka'i. This large-scale project took place over the course of a University semester from January 2025 to May 2025. The team consisted of students Jordan Launstein, Payton Higa, Micah Schoefield, and myself. Each student was given a role to carry out for the project and I was designated as one of the two project managers. My responsibilities included community outreach and interviewing, presentation setup and research, scheduling, solution brainstorming, and product creation. Many of the responsibilities for this project were shared and spread throughout the team. Our goal was to create a product or solution that could be used to combat the initial problem statement, which proved much more difficult than we had anticipated including many dead ends, turns, and ideas being completely thrown out as we learned more about the situation and got to talk to more professionals and locals. We even got the chance to visit Moloka'i and speak to locals personally.
+Moloka‘i Connect was formed through a collaboration between the **University of Hawai'i at Mānoa**, the **Department of Hawaiian Home Lands (DHHL)**, and the **State of Hawai'i**, working in alignment with the **Connect Kākou** and the **Tribal Broadband Connectivity Program (TBCP)** to address the digital and economic divide faced by the island of Moloka‘i. The project was carried throughout the Spring 2025 academic semester and brought together a team of four students: Jordan Launstein, Payton Higa, Micah Schoefield, and myself. I served as one of two project managers, contributing to community outreach, interviews, research, presentation development, scheduling, solution ideation, and product creation.
 
-The project process itself is a very long and complicated story, so please feel free to ask me about said process or the project itself in person. Ultimately, we realized that the problem wasn't the connectivity or the resources available to the residents, but the lack of awareness of the resources that were already readily available to them. From this, we decided to develop a resource aggregator (using the UX design tool Figma) that could be used to catalog all existing and previously existing resources. This aggregator was also built with the idea of continued additions as more programs and resources were created. We then presented the entirety of our project timeline, process, what we experienced, what we learned, and finally the resource aggregator itself to the Lieutenant Governor of Hawai'i Sylvia Luke.
+## Project Timeline (Roles & Collaboration)
 
-*Note: For legal reasons, I am unable to provide a link to the resource aggregator developed as a part of Moloka'i Connect.*
+- **Project Initiation (January 2025):** Team roles assigned; responsibilities defined; partnership expectations established.
+- **Research & Community Engagement:** Early meetings with DHHL, Connect Kākou, and other stakeholders in order to establish project direction and initial research efforts.
+
+---
+
+Our objective with this project was to develop a solution that closely aligned with the initial problem statement, a process that evolved significantly as we continued to engage with professionals and Moloka‘i community members. Our team was also given the great opportunity to visit the island of Moloka'i, which allowed us to speak with locals directly and provided us with essential firsthand insight into the residential challenges and digital barriers we seeked to surmount.
+
+## Project Timeline (Process & Insights)
+
+- **On-Island Visit:** Traveled to Moloka‘i for in-person interviews and community conversations.
+- **Problem Reframing:** Shifted focus from connectivity issues to a lack of awareness of existing digital resources.
+- **Key Discoveries:** Identified gaps in digital literacy, resource visibility, and communication pathways both within outside of the community.
+
+---
+
+Ultimately, we identified that the primary barrier was not connectivity itself but the lack of awareness of already existing resources. In response to this, we opted to design a centralized resource aggregator using the **UI/UX design** tool **Figma** to organize all current and past programs on Moloka'i, built with the intention of accommodating future additions. We then formally presented our findings, project timeline, and final prototype to the **Lieutenant Governor of Hawai'i**, **Sylvia Luke**.
+
+## Project Timeline (Solution & Outcomes)
+
+- **Ideation & Prototyping:** Developed and refined a centralized resource aggregator through iterative design in Figma.
+- **Final Presentation:** Delivered full project narrative, design rationale, and prototype demonstration to the Office of the Lieutenant Governor.
+- **Next Steps:** Discussed opportunities for potential continuation and long-term integration of the aggregator.
+
+---
+
+*Note: For legal reasons, I am unable to provide public access to the resource aggregator developed for Moloka‘i Connect.*
 
 &nbsp;
 
