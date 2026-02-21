@@ -14,7 +14,7 @@ labels:
   - Organization Skills
   - Data Gathering
   - Lean Startup Methodology
-summary: "A project done in collaboration with the Department of Hawaiian Home Lands (DHHL) and the State of Hawai'i for the Tribal Broadband Connectivity Program (TBCP) to explore solutions to bridge the digital divide faced by the island of Moloka'i."
+summary: "A project done in collaboration with the Department of Hawaiian Home Lands (DHHL) and the State of Hawai'i for the Tribal Broadband Connectivity Program (TBCP) to explore solutions to bridge the digital and economic divide faced by the island of Moloka'i."
 ---
 
 &nbsp;
