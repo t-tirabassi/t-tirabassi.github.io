@@ -33,6 +33,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
+---
+
 ### Core Gameplay
 
 &nbsp;
@@ -53,6 +55,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 
 &nbsp;
 
+---
+
 ### Gameplay Trailer
 
 &nbsp;
@@ -70,6 +74,8 @@ With fast-paced combat, strategic artifact combinations, and rich environmental 
 </div>
 
 &nbsp;
+
+---
 
 ### Key Features
 
