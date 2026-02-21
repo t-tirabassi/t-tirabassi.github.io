@@ -21,9 +21,9 @@ summary: "A project done in collaboration with the Department of Hawaiian Home L
 
 ### What is Moloka'i Connect?
 
-<img width="403px" height="302px"
+<img width="423px" height="322px"
      class="float-end ps-2" 
-     src="../img/molokai/Moloka'i.jpg" >
+     src="../img/molokai/IMG_6806.jpg" >
 
 Moloka‘i Connect was formed through a collaboration between the **University of Hawai'i at Mānoa**, the **Department of Hawaiian Home Lands (DHHL)**, and the **State of Hawai'i**, working in alignment with the **Connect Kākou** initiative and the **Tribal Broadband Connectivity Program (TBCP)** to address the digital and economic divide faced by the island of Moloka‘i. The project was carried throughout the Spring 2025 academic semester and brought together a team of four students: Jordan Launstein, Payton Higa, Micah Schoefield, and myself. I served as one of two project managers, contributing to community outreach, interviews, research, presentation development, scheduling, solution ideation, and product creation.
 
@@ -70,7 +70,7 @@ Ultimately, we identified that the primary barrier was not connectivity itself b
 
 <img width="423px" height="322px"
      class="float-start pe-4" 
-     src="../img/molokai/IMG_6806.jpg" >
+     src="../img/molokai/Moloka'i.jpg" >
 
 &nbsp;
 
