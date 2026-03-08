@@ -30,20 +30,15 @@
   },
   {
     "name": "Frameworks/Tools",
-    "keywords": ["GitHub", "React", "Bootstrap", "Meteor", "MySQL", "Figma"]
+    "keywords": ["GitHub", "Git", "React", "Bootstrap", "Meteor", "MySQL"]
   },
   {
-    "name": "Software/OS",
-    "keywords": ["Windows", "MacOS", "Autodesk Maya", "Godot"]
+    "name": "Design",
+    "keywords": ["UI/UX Design", "Figma"]
   },
   {
-    "name": "Interpersonal",
-    "keywords": [
-      "Collaborative Communication",
-      "Project Management",
-      "Problem Solving",
-      "Critical Thinking"
-    ]
+    "name": "Other",
+    "keywords": ["Web Development", "Windows", "macOS", "Autodesk Maya", "Godot", "Project Management"]
   }
 ],
   "education": [
