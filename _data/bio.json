@@ -34,11 +34,11 @@
   },
   {
     "name": "Design",
-    "keywords": ["UI/UX Design", "Figma"]
+    "keywords": ["UI/UX Design", "Figma", "Frontend Development"]
   },
   {
     "name": "Other",
-    "keywords": ["Web Development", "Windows", "macOS", "Autodesk Maya", "Godot", "Project Management"]
+    "keywords": ["Software Engineering", "Web Development", "Windows", "macOS", "Autodesk Maya", "Godot", "Project Management"]
   }
 ],
   "education": [
