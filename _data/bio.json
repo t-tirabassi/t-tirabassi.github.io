@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Anthony Armando Tirabassi",
-    "label": "Software Engineer / UI/UX Designer - B.A. ICS",
+    "label": "Software Engineer / UI/UX Designer",
     "picture": "img/professional photo bigger background.png", 
     "email": "anthonytirabassi33@gmail.com",
     "phone": "781-510-0169",
     "website": "https://t-tirabassi.github.io",
-    "summary": "Aspiring Front-end Software Engineer and UI/UX Designer",
+    "summary": "Aspiring Front-end Software Engineer and UI/UX Designer - B.A. Computer Science",
     "location": { "city": "Boston", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "t-tirabassi", "url": "http://github.com/t-tirabassi" },
